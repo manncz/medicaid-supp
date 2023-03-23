@@ -1,0 +1,105 @@
+AREA,SUB AREA,AGE GROUP,SEASON,WEEK,PERCENT P&I,NUM INFLUENZA DEATHS,NUM PNEUMONIA DEATHS,TOTAL DEATHS,PERCENT COMPLETE
+State,Alabama,All,2020-21,40,7.6,0,51,671,69.1%
+State,Alabama,All,2020-21,41,6.3,0,19,302,31.1%
+State,Alaska,All,2020-21,40,0,0,0,25,30.7%
+State,Alaska,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Arizona,All,2020-21,40,6.8,0,70,"1,026",99%
+State,Arizona,All,2020-21,41,4.8,0,27,566,54.6%
+State,Arkansas,All,2020-21,40,9.3,0,52,558,93.1%
+State,Arkansas,All,2020-21,41,7.1,0,15,212,35.4%
+State,California,All,2020-21,40,7.3,0,305,"4,181",85.1%
+State,California,All,2020-21,41,5.7,0,105,"1,853",37.7%
+State,Colorado,All,2020-21,40,5.5,0,35,639,92.3%
+State,Colorado,All,2020-21,41,3.5,0,11,310,44.8%
+State,Connecticut,All,2020-21,40,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Connecticut,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Delaware,All,2020-21,40,6.1,0,6,98,59.8%
+State,Delaware,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,District of Columbia,All,2020-21,40,8.7,0,4,46,49.4%
+State,District of Columbia,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Florida,All,2020-21,40,8.3,0,290,"3,506",95.5%
+State,Florida,All,2020-21,41,6.3,0,120,"1,895",51.6%
+State,Georgia,All,2020-21,40,7,0,66,940,62%
+State,Georgia,All,2020-21,41,6.6,0,22,334,22%
+State,Hawaii,All,2020-21,40,9.7,1,17,186,89%
+State,Hawaii,All,2020-21,41,5.3,0,6,114,54.5%
+State,Idaho,All,2020-21,40,5.9,0,16,269,> 100%
+State,Idaho,All,2020-21,41,7.3,0,8,110,43.9%
+State,Illinois,All,2020-21,40,7.2,0,135,"1,869",91.7%
+State,Illinois,All,2020-21,41,5,0,55,"1,103",54.1%
+State,Indiana,All,2020-21,40,7.8,0,68,870,72.5%
+State,Indiana,All,2020-21,41,5.6,0,25,445,37.1%
+State,Iowa,All,2020-21,40,6.8,0,36,526,93%
+State,Iowa,All,2020-21,41,4.4,0,14,316,55.9%
+State,Kansas,All,2020-21,40,8.5,0,42,496,98.8%
+State,Kansas,All,2020-21,41,7.7,0,21,274,54.6%
+State,Kentucky,All,2020-21,40,5.5,1,27,507,57.3%
+State,Kentucky,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Louisiana,All,2020-21,40,6.7,0,31,466,55.2%
+State,Louisiana,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Maine,All,2020-21,40,4,0,11,278,> 100%
+State,Maine,All,2020-21,41,6.5,0,14,216,80.2%
+State,Maryland,All,2020-21,40,5.8,0,55,941,> 100%
+State,Maryland,All,2020-21,41,7.7,0,46,600,66.2%
+State,Massachusetts,All,2020-21,40,6.5,0,62,951,88.2%
+State,Massachusetts,All,2020-21,41,5.1,0,29,564,52.3%
+State,Michigan,All,2020-21,40,5.2,1,85,"1,659",91.2%
+State,Michigan,All,2020-21,41,4.4,0,45,"1,028",56.5%
+State,Minnesota,All,2020-21,40,8.6,0,59,690,85.1%
+State,Minnesota,All,2020-21,41,5.3,0,29,544,67.1%
+State,Mississippi,All,2020-21,40,11.5,0,60,520,86.5%
+State,Mississippi,All,2020-21,41,9.5,0,29,304,50.6%
+State,Missouri,All,2020-21,40,7.6,0,65,860,75.6%
+State,Missouri,All,2020-21,41,6.3,0,27,431,37.9%
+State,Montana,All,2020-21,40,7.1,0,11,154,82.7%
+State,Montana,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Nebraska,All,2020-21,40,6.3,0,16,256,82%
+State,Nebraska,All,2020-21,41,6.7,0,9,135,43.2%
+State,Nevada,All,2020-21,40,9.9,0,41,413,94.1%
+State,Nevada,All,2020-21,41,5,0,9,180,41%
+State,New Hampshire,All,2020-21,40,4.1,0,9,219,96.9%
+State,New Hampshire,All,2020-21,41,2.5,0,4,162,71.7%
+State,New Jersey,All,2020-21,40,5.6,0,69,"1,240",89.3%
+State,New Jersey,All,2020-21,41,6.7,0,42,624,44.9%
+State,New Mexico,All,2020-21,40,5,0,12,241,70.6%
+State,New Mexico,All,2020-21,41,5,0,6,120,35.2%
+State,New York,All,2020-21,40,7.3,1,140,"1,920",> 100%
+State,New York,All,2020-21,41,7.1,1,107,"1,514",79.7%
+State,North Carolina,All,2020-21,40,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Carolina,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Dakota,All,2020-21,40,20.2,0,18,89,74.4%
+State,North Dakota,All,2020-21,41,9.5,0,4,42,35.1%
+State,Ohio,All,2020-21,40,5.3,0,62,"1,161",52%
+State,Ohio,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Oklahoma,All,2020-21,40,11.3,0,60,530,70.7%
+State,Oklahoma,All,2020-21,41,10,0,25,249,33.2%
+State,Oregon,All,2020-21,40,3.1,0,13,415,61.5%
+State,Oregon,All,2020-21,41,4,0,7,176,26.1%
+State,Pennsylvania,All,2020-21,40,5.3,0,121,"2,301",91.2%
+State,Pennsylvania,All,2020-21,41,4.8,0,48,"1,006",39.9%
+State,Rhode Island,All,2020-21,40,7.4,0,5,68,35.8%
+State,Rhode Island,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,South Carolina,All,2020-21,40,7.3,0,58,797,88.7%
+State,South Carolina,All,2020-21,41,4.2,0,11,264,29.4%
+State,South Dakota,All,2020-21,40,7.5,0,8,107,73.2%
+State,South Dakota,All,2020-21,41,9.3,0,5,54,36.9%
+State,Tennessee,All,2020-21,40,8.1,0,99,"1,215",95.5%
+State,Tennessee,All,2020-21,41,7.8,1,50,651,51.1%
+State,Texas,All,2020-21,40,7.5,1,190,"2,535",70.2%
+State,Texas,All,2020-21,41,6.4,0,54,840,23.3%
+State,Utah,All,2020-21,40,9.2,0,32,346,> 100%
+State,Utah,All,2020-21,41,5.9,0,12,202,61.4%
+State,Vermont,All,2020-21,40,0,0,0,99,90.6%
+State,Vermont,All,2020-21,41,7.4,0,4,54,49.4%
+State,Virginia,All,2020-21,40,5.5,0,63,"1,153",92.1%
+State,Virginia,All,2020-21,41,2.9,0,17,577,46.1%
+State,Washington,All,2020-21,40,5.9,0,55,940,91.1%
+State,Washington,All,2020-21,41,3.7,0,17,461,44.7%
+State,West Virginia,All,2020-21,40,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,West Virginia,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Wisconsin,All,2020-21,40,6.4,0,62,965,> 100%
+State,Wisconsin,All,2020-21,41,3,0,14,466,48.5%
+State,Wyoming,All,2020-21,40,6.4,0,5,78,86.9%
+State,Wyoming,All,2020-21,41,6.1,0,2,33,36.8%
+State,New York City,All,2020-21,40,7,0,64,920,90.3%
+State,New York City,All,2020-21,41,5.2,0,41,791,77.6%

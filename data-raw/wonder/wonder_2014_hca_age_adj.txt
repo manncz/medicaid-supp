@@ -1,0 +1,3313 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"Autauga County, AL"	"01001"	103	28816	357.4	304.6
+	"Baldwin County, AL"	"01003"	320	102949	310.8	240.2
+	"Barbour County, AL"	"01005"	37	14364	257.6	219.2
+	"Bibb County, AL"	"01007"	45	12513	359.6	316.1
+	"Blount County, AL"	"01009"	124	29560	419.5	351.1
+	"Bullock County, AL"	"01011"	25	5861	426.5	396.9
+	"Butler County, AL"	"01013"	62	10231	606.0	454.0
+	"Calhoun County, AL"	"01015"	250	60346	414.3	326.6
+	"Chambers County, AL"	"01017"	75	17590	426.4	331.5
+	"Cherokee County, AL"	"01019"	69	13330	517.6	408.2
+	"Chilton County, AL"	"01021"	77	22875	336.6	274.0
+	"Choctaw County, AL"	"01023"	23	6755	340.5	282.6
+	"Clarke County, AL"	"01025"	46	12561	366.2	284.7
+	"Clay County, AL"	"01027"	25	6949	359.8	289.5
+	"Cleburne County, AL"	"01029"	39	7625	511.5	406.9
+	"Coffee County, AL"	"01031"	71	26540	267.5	221.7
+	"Colbert County, AL"	"01033"	126	28134	447.9	351.0
+	"Conecuh County, AL"	"01035"	36	6285	572.8	421.2
+	"Coosa County, AL"	"01037"	16	6043	Unreliable	Unreliable
+	"Covington County, AL"	"01039"	73	19052	383.2	289.2
+	"Crenshaw County, AL"	"01041"	41	7095	577.9	443.2
+	"Cullman County, AL"	"01043"	153	41855	365.5	297.6
+	"Dale County, AL"	"01045"	75	25722	291.6	244.1
+	"Dallas County, AL"	"01047"	111	20694	536.4	438.9
+	"DeKalb County, AL"	"01049"	132	36227	364.4	289.5
+	"Elmore County, AL"	"01051"	140	43312	323.2	276.5
+	"Escambia County, AL"	"01053"	76	19897	382.0	311.3
+	"Etowah County, AL"	"01055"	260	53768	483.6	378.7
+	"Fayette County, AL"	"01057"	34	8448	402.5	299.2
+	"Franklin County, AL"	"01059"	58	16044	361.5	301.3
+	"Geneva County, AL"	"01061"	53	13604	389.6	306.6
+	"Greene County, AL"	"01063"	28	4274	655.1	456.7
+	"Hale County, AL"	"01065"	37	7637	484.5	351.2
+	"Henry County, AL"	"01067"	29	8734	332.0	258.3
+	"Houston County, AL"	"01069"	146	54055	270.1	215.6
+	"Jackson County, AL"	"01071"	128	27220	470.2	356.0
+	"Jefferson County, AL"	"01073"	1206	352843	341.8	286.0
+	"Lamar County, AL"	"01075"	26	7185	361.9	241.4
+	"Lauderdale County, AL"	"01077"	151	45932	328.7	249.8
+	"Lawrence County, AL"	"01079"	63	17784	354.3	270.9
+	"Lee County, AL"	"01081"	238	75192	316.5	295.3
+	"Limestone County, AL"	"01083"	142	49891	284.6	250.0
+	"Lowndes County, AL"	"01085"	31	5296	585.3	457.1
+	"Macon County, AL"	"01087"	32	8839	362.0	261.2
+	"Madison County, AL"	"01089"	392	189349	207.0	170.5
+	"Marengo County, AL"	"01091"	39	9936	392.5	320.2
+	"Marion County, AL"	"01093"	59	15467	381.5	308.9
+	"Marshall County, AL"	"01095"	181	47871	378.1	312.2
+	"Mobile County, AL"	"01097"	759	214659	353.6	291.9
+	"Monroe County, AL"	"01099"	49	10951	447.4	349.7
+	"Montgomery County, AL"	"01101"	388	117649	329.8	290.1
+	"Morgan County, AL"	"01103"	215	62941	341.6	274.7
+	"Perry County, AL"	"01105"	19	4427	Unreliable	Unreliable
+	"Pickens County, AL"	"01107"	33	10728	307.6	227.7
+	"Pike County, AL"	"01109"	55	14512	379.0	316.8
+	"Randolph County, AL"	"01111"	65	11252	577.7	450.4
+	"Russell County, AL"	"01113"	86	31352	274.3	257.9
+	"St. Clair County, AL"	"01115"	178	46804	380.3	316.2
+	"Shelby County, AL"	"01117"	181	112558	160.8	136.5
+	"Sumter County, AL"	"01119"	26	6026	431.5	383.5
+	"Talladega County, AL"	"01121"	168	42953	391.1	307.9
+	"Tallapoosa County, AL"	"01123"	74	20902	354.0	265.2
+	"Tuscaloosa County, AL"	"01125"	292	97644	299.0	265.1
+	"Walker County, AL"	"01127"	160	33652	475.5	377.1
+	"Washington County, AL"	"01129"	41	8660	473.4	354.7
+	"Wilcox County, AL"	"01131"	23	5366	428.6	320.0
+	"Winston County, AL"	"01133"	50	12452	401.5	296.8
+	"Aleutians East Borough, AK"	"02013"	Suppressed	2377	Suppressed	Suppressed
+	"Aleutians West Census Area, AK"	"02016"	Suppressed	4193	Suppressed	Suppressed
+	"Anchorage Borough, AK"	"02020"	331	164061	201.8	185.7
+	"Bethel Census Area, AK"	"02050"	16	8277	Unreliable	Unreliable
+	"Bristol Bay Borough, AK"	"02060"	Suppressed	581	Suppressed	Suppressed
+	"Denali Borough, AK"	"02068"	Suppressed	1262	Suppressed	Suppressed
+	"Dillingham Census Area, AK"	"02070"	Suppressed	2426	Suppressed	Suppressed
+	"Fairbanks North Star Borough, AK"	"02090"	102	52803	193.2	185.8
+	"Haines Borough, AK"	"02100"	Suppressed	1490	Suppressed	Suppressed
+	"Hoonah-Angoon Census Area, AK"	"02105"	Suppressed	1190	Suppressed	Suppressed
+	"Juneau Borough, AK"	"02110"	34	18757	181.3	139.4
+	"Kenai Peninsula Borough, AK"	"02122"	88	30951	284.3	202.8
+	"Ketchikan Gateway Borough, AK"	"02130"	30	7690	390.1	286.2
+	"Kodiak Island Borough, AK"	"02150"	15	7682	Unreliable	Unreliable
+	"Lake and Peninsula Borough, AK"	"02164"	Suppressed	848	Suppressed	Suppressed
+	"Matanuska-Susitna Borough, AK"	"02170"	118	52522	224.7	184.0
+	"Nome Census Area, AK"	"02180"	10	4627	Unreliable	Unreliable
+	"North Slope Borough, AK"	"02185"	Suppressed	5852	Suppressed	Suppressed
+	"Northwest Arctic Borough, AK"	"02188"	Suppressed	3530	Suppressed	Suppressed
+	"Petersburg Borough/Census Area, AK"	"02195"	Suppressed	1776	Suppressed	Suppressed
+	"Prince of Wales-Hyder Census Area, AK"	"02198"	11	3612	Unreliable	Unreliable
+	"Prince of Wales-Outer Ketchikan Census Area, AK"	"02201"	Missing	Missing	Missing	Missing
+	"Sitka Borough, AK"	"02220"	12	4999	Unreliable	Unreliable
+	"Skagway Municipality, AK"	"02230"	Suppressed	714	Suppressed	Suppressed
+	"Skagway-Hoonah-Angoon Census Area, AK"	"02232"	Missing	Missing	Missing	Missing
+	"Southeast Fairbanks Census Area, AK"	"02240"	Suppressed	3710	Suppressed	Suppressed
+	"Valdez-Cordova Census Area, AK"	"02261"	17	5427	Unreliable	Unreliable
+	"Wade Hampton Census Area, AK"	"02270"	Suppressed	3256	Suppressed	Suppressed
+	"Wrangell City and Borough, AK"	"02275"	Suppressed	1265	Suppressed	Suppressed
+	"Wrangell-Petersburg Census Area, AK"	"02280"	Missing	Missing	Missing	Missing
+	"Yakutat Borough, AK"	"02282"	Suppressed	367	Suppressed	Suppressed
+	"Yukon-Koyukuk Census Area, AK"	"02290"	14	2764	Unreliable	Unreliable
+	"Apache County, AZ"	"04001"	94	33754	278.5	233.0
+	"Cochise County, AZ"	"04003"	180	62254	289.1	222.0
+	"Coconino County, AZ"	"04005"	112	65270	171.6	136.8
+	"Gila County, AZ"	"04007"	106	24311	436.0	316.6
+	"Graham County, AZ"	"04009"	37	18339	201.8	175.4
+	"Greenlee County, AZ"	"04011"	Suppressed	4803	Suppressed	Suppressed
+	"La Paz County, AZ"	"04012"	34	8126	418.4	325.2
+	"Maricopa County, AZ"	"04013"	4007	2103291	190.5	169.4
+	"Mohave County, AZ"	"04015"	427	96808	441.1	306.7
+	"Navajo County, AZ"	"04017"	140	50663	276.3	215.2
+	"Pima County, AZ"	"04019"	1191	484004	246.1	196.6
+	"Pinal County, AZ"	"04021"	450	199590	225.5	199.8
+	"Santa Cruz County, AZ"	"04023"	32	21577	148.3	118.8
+	"Yavapai County, AZ"	"04025"	347	104238	332.9	223.5
+	"Yuma County, AZ"	"04027"	201	90727	221.5	192.1
+	"Arkansas County, AR"	"05001"	44	9505	462.9	331.9
+	"Ashley County, AR"	"05003"	52	10468	496.8	419.9
+	"Baxter County, AR"	"05005"	74	18859	392.4	259.2
+	"Benton County, AR"	"05007"	271	125949	215.2	200.4
+	"Boone County, AR"	"05009"	66	18471	357.3	305.3
+	"Bradley County, AR"	"05011"	25	5635	443.7	356.6
+	"Calhoun County, AR"	"05013"	15	2729	Unreliable	Unreliable
+	"Carroll County, AR"	"05015"	54	13772	392.1	283.8
+	"Chicot County, AR"	"05017"	27	5538	487.5	389.9
+	"Clark County, AR"	"05019"	40	9741	410.6	341.9
+	"Clay County, AR"	"05021"	41	7542	543.6	412.5
+	"Cleburne County, AR"	"05023"	51	12374	412.2	288.1
+	"Cleveland County, AR"	"05025"	11	4234	Unreliable	Unreliable
+	"Columbia County, AR"	"05027"	42	10857	386.8	308.9
+	"Conway County, AR"	"05029"	38	10649	356.8	293.6
+	"Craighead County, AR"	"05031"	171	51904	329.5	303.5
+	"Crawford County, AR"	"05033"	105	31743	330.8	276.0
+	"Crittenden County, AR"	"05035"	148	24959	593.0	502.2
+	"Cross County, AR"	"05037"	37	8620	429.2	347.6
+	"Dallas County, AR"	"05039"	25	3883	643.8	487.9
+	"Desha County, AR"	"05041"	30	6020	498.3	395.4
+	"Drew County, AR"	"05043"	42	8845	474.8	397.1
+	"Faulkner County, AR"	"05045"	151	59722	252.8	230.9
+	"Franklin County, AR"	"05047"	43	8837	486.6	385.9
+	"Fulton County, AR"	"05049"	23	5785	397.6	269.2
+	"Garland County, AR"	"05051"	184	48323	380.8	278.3
+	"Grant County, AR"	"05053"	43	9550	450.3	376.0
+	"Greene County, AR"	"05055"	102	22519	453.0	385.1
+	"Hempstead County, AR"	"05057"	49	10979	446.3	373.5
+	"Hot Spring County, AR"	"05059"	73	17570	415.5	334.5
+	"Howard County, AR"	"05061"	27	6619	407.9	309.1
+	"Independence County, AR"	"05063"	72	18613	386.8	336.2
+	"Izard County, AR"	"05065"	31	6740	459.9	312.7
+	"Jackson County, AR"	"05067"	39	9641	404.5	338.7
+	"Jefferson County, AR"	"05069"	207	37112	557.8	448.4
+	"Johnson County, AR"	"05071"	44	12902	341.0	280.5
+	"Lafayette County, AR"	"05073"	19	3572	Unreliable	Unreliable
+	"Lawrence County, AR"	"05075"	39	8178	476.9	381.5
+	"Lee County, AR"	"05077"	25	5375	465.1	388.1
+	"Lincoln County, AR"	"05079"	22	8045	273.5	256.9
+	"Little River County, AR"	"05081"	26	6361	408.7	318.0
+	"Logan County, AR"	"05083"	54	11010	490.5	356.4
+	"Lonoke County, AR"	"05085"	113	37546	301.0	272.4
+	"Madison County, AR"	"05087"	36	8076	445.8	350.5
+	"Marion County, AR"	"05089"	31	8135	381.1	257.8
+	"Miller County, AR"	"05091"	97	22703	427.3	361.0
+	"Mississippi County, AR"	"05093"	128	22333	573.1	467.8
+	"Monroe County, AR"	"05095"	26	3772	689.3	529.1
+	"Montgomery County, AR"	"05097"	19	4442	Unreliable	Unreliable
+	"Nevada County, AR"	"05099"	21	4365	481.1	330.5
+	"Newton County, AR"	"05101"	11	3934	Unreliable	Unreliable
+	"Ouachita County, AR"	"05103"	57	12625	451.5	316.3
+	"Perry County, AR"	"05105"	24	5312	451.8	359.0
+	"Phillips County, AR"	"05107"	59	9410	627.0	512.8
+	"Pike County, AR"	"05109"	23	5579	412.3	337.2
+	"Poinsett County, AR"	"05111"	85	12210	696.2	594.2
+	"Polk County, AR"	"05113"	44	9576	459.5	359.8
+	"Pope County, AR"	"05115"	103	30904	333.3	280.5
+	"Prairie County, AR"	"05117"	24	4196	572.0	379.7
+	"Pulaski County, AR"	"05119"	738	210747	350.2	301.7
+	"Randolph County, AR"	"05121"	32	8747	365.8	285.7
+	"St. Francis County, AR"	"05123"	66	14780	446.5	371.8
+	"Saline County, AR"	"05125"	189	60060	314.7	269.1
+	"Scott County, AR"	"05127"	20	5259	380.3	283.4
+	"Searcy County, AR"	"05129"	23	3935	584.5	385.8
+	"Sebastian County, AR"	"05131"	232	65558	353.9	294.4
+	"Sevier County, AR"	"05133"	26	8434	308.3	261.7
+	"Sharp County, AR"	"05135"	45	7941	566.7	417.7
+	"Stone County, AR"	"05137"	31	5978	518.6	392.9
+	"Union County, AR"	"05139"	101	20696	488.0	384.0
+	"Van Buren County, AR"	"05141"	27	8249	327.3	221.6
+	"Washington County, AR"	"05143"	290	108643	266.9	257.7
+	"White County, AR"	"05145"	147	38356	383.3	317.0
+	"Woodruff County, AR"	"05147"	21	3410	615.8	435.8
+	"Yell County, AR"	"05149"	56	10934	512.2	430.6
+	"Alameda County, CA"	"06001"	1480	916753	161.4	143.4
+	"Alpine County, CA"	"06003"	Suppressed	583	Suppressed	Suppressed
+	"Amador County, CA"	"06005"	50	19486	256.6	167.5
+	"Butte County, CA"	"06007"	295	105269	280.2	209.0
+	"Calaveras County, CA"	"06009"	60	22557	266.0	154.8
+	"Colusa County, CA"	"06011"	11	10531	Unreliable	Unreliable
+	"Contra Costa County, CA"	"06013"	1022	597156	171.1	140.4
+	"Del Norte County, CA"	"06015"	46	14982	307.0	237.3
+	"El Dorado County, CA"	"06017"	190	97619	194.6	137.1
+	"Fresno County, CA"	"06019"	1060	472562	224.3	206.0
+	"Glenn County, CA"	"06021"	37	13774	268.6	202.6
+	"Humboldt County, CA"	"06023"	196	70042	279.8	222.8
+	"Imperial County, CA"	"06025"	193	86736	222.5	201.2
+	"Inyo County, CA"	"06027"	27	9399	287.3	198.1
+	"Kern County, CA"	"06029"	1100	434182	253.3	234.1
+	"Kings County, CA"	"06031"	149	77945	191.2	192.2
+	"Lake County, CA"	"06033"	128	33036	387.5	292.8
+	"Lassen County, CA"	"06035"	25	19041	131.3	113.6
+	"Los Angeles County, CA"	"06037"	10311	5518207	186.9	169.8
+	"Madera County, CA"	"06039"	161	76463	210.6	184.7
+	"Marin County, CA"	"06041"	182	140116	129.9	93.1
+	"Mariposa County, CA"	"06043"	26	9170	283.5	186.2
+	"Mendocino County, CA"	"06045"	127	45185	281.1	199.6
+	"Merced County, CA"	"06047"	275	127019	216.5	200.6
+	"Modoc County, CA"	"06049"	15	4501	Unreliable	Unreliable
+	"Mono County, CA"	"06051"	Suppressed	8280	Suppressed	Suppressed
+	"Monterey County, CA"	"06053"	322	219895	146.4	131.8
+	"Napa County, CA"	"06055"	121	74098	163.3	131.7
+	"Nevada County, CA"	"06057"	122	51392	237.4	167.0
+	"Orange County, CA"	"06059"	2512	1696350	148.1	129.1
+	"Placer County, CA"	"06061"	351	191009	183.8	143.1
+	"Plumas County, CA"	"06063"	21	9484	221.4	166.5
+	"Riverside County, CA"	"06065"	2333	1165244	200.2	175.7
+	"Sacramento County, CA"	"06067"	1772	789753	224.4	194.1
+	"San Benito County, CA"	"06069"	57	30332	187.9	155.0
+	"San Bernardino County, CA"	"06071"	2551	1079817	236.2	212.5
+	"San Diego County, CA"	"06073"	2848	1754224	162.4	146.3
+	"San Francisco County, CA"	"06075"	757	549184	137.8	138.9
+	"San Joaquin County, CA"	"06077"	938	358654	261.5	228.7
+	"San Luis Obispo County, CA"	"06079"	262	135674	193.1	150.9
+	"San Mateo County, CA"	"06081"	559	427035	130.9	111.7
+	"Santa Barbara County, CA"	"06083"	401	209660	191.3	164.5
+	"Santa Clara County, CA"	"06085"	1403	1059075	132.5	120.2
+	"Santa Cruz County, CA"	"06087"	214	138694	154.3	122.2
+	"Shasta County, CA"	"06089"	334	91225	366.1	267.5
+	"Sierra County, CA"	"06091"	Suppressed	1541	Suppressed	Suppressed
+	"Siskiyou County, CA"	"06093"	86	21734	395.7	301.4
+	"Solano County, CA"	"06095"	540	231723	233.0	189.9
+	"Sonoma County, CA"	"06097"	469	268883	174.4	132.5
+	"Stanislaus County, CA"	"06099"	722	267637	269.8	237.3
+	"Sutter County, CA"	"06101"	120	47517	252.5	213.6
+	"Tehama County, CA"	"06103"	94	31321	300.1	229.5
+	"Trinity County, CA"	"06105"	24	6941	345.8	211.7
+	"Tulare County, CA"	"06107"	500	216610	230.8	216.0
+	"Tuolumne County, CA"	"06109"	79	28112	281.0	192.3
+	"Ventura County, CA"	"06111"	681	442171	154.0	124.6
+	"Yolo County, CA"	"06113"	182	99068	183.7	162.1
+	"Yuba County, CA"	"06115"	107	37217	287.5	251.3
+	"Adams County, CO"	"08001"	465	258153	180.1	172.0
+	"Alamosa County, CO"	"08003"	16	7399	Unreliable	Unreliable
+	"Arapahoe County, CO"	"08005"	531	339974	156.2	136.4
+	"Archuleta County, CO"	"08007"	14	6411	Unreliable	Unreliable
+	"Baca County, CO"	"08009"	Suppressed	1667	Suppressed	Suppressed
+	"Bent County, CO"	"08011"	Suppressed	3268	Suppressed	Suppressed
+	"Boulder County, CO"	"08013"	196	163870	119.6	99.9
+	"Broomfield County, CO"	"08014"	49	34350	142.6	127.1
+	"Chaffee County, CO"	"08015"	26	9990	260.3	191.8
+	"Cheyenne County, CO"	"08017"	Suppressed	946	Suppressed	Suppressed
+	"Clear Creek County, CO"	"08019"	10	5598	Unreliable	Unreliable
+	"Conejos County, CO"	"08021"	10	3872	Unreliable	Unreliable
+	"Costilla County, CO"	"08023"	Suppressed	1691	Suppressed	Suppressed
+	"Crowley County, CO"	"08025"	Suppressed	3375	Suppressed	Suppressed
+	"Custer County, CO"	"08027"	Suppressed	2223	Suppressed	Suppressed
+	"Delta County, CO"	"08029"	47	14552	323.0	252.2
+	"Denver County, CO"	"08031"	709	395572	179.2	190.4
+	"Dolores County, CO"	"08033"	Suppressed	1021	Suppressed	Suppressed
+	"Douglas County, CO"	"08035"	142	172093	82.5	69.0
+	"Eagle County, CO"	"08037"	24	32305	74.3	68.7
+	"Elbert County, CO"	"08039"	30	13600	220.6	155.8
+	"El Paso County, CO"	"08041"	626	344573	181.7	160.5
+	"Fremont County, CO"	"08043"	59	26099	226.1	179.8
+	"Garfield County, CO"	"08045"	49	31694	154.6	130.2
+	"Gilpin County, CO"	"08047"	Suppressed	3693	Suppressed	Suppressed
+	"Grand County, CO"	"08049"	16	8792	Unreliable	Unreliable
+	"Gunnison County, CO"	"08051"	Suppressed	8261	Suppressed	Suppressed
+	"Hinsdale County, CO"	"08053"	Suppressed	391	Suppressed	Suppressed
+	"Huerfano County, CO"	"08055"	Suppressed	3134	Suppressed	Suppressed
+	"Jackson County, CO"	"08057"	Suppressed	763	Suppressed	Suppressed
+	"Jefferson County, CO"	"08059"	573	313163	183.0	146.2
+	"Kiowa County, CO"	"08061"	Suppressed	656	Suppressed	Suppressed
+	"Kit Carson County, CO"	"08063"	10	4222	Unreliable	Unreliable
+	"Lake County, CO"	"08065"	12	4170	Unreliable	Unreliable
+	"La Plata County, CO"	"08067"	65	30188	215.3	155.7
+	"Larimer County, CO"	"08069"	265	164900	160.7	127.5
+	"Las Animas County, CO"	"08071"	23	7032	327.1	239.6
+	"Lincoln County, CO"	"08073"	Suppressed	2990	Suppressed	Suppressed
+	"Logan County, CO"	"08075"	24	11997	200.1	154.0
+	"Mesa County, CO"	"08077"	150	74834	200.4	157.9
+	"Mineral County, CO"	"08079"	Suppressed	389	Suppressed	Suppressed
+	"Moffat County, CO"	"08081"	13	6887	Unreliable	Unreliable
+	"Montezuma County, CO"	"08083"	32	13133	243.7	154.1
+	"Montrose County, CO"	"08085"	50	20090	248.9	194.6
+	"Morgan County, CO"	"08087"	20	13878	144.1	125.5
+	"Otero County, CO"	"08089"	43	8763	490.7	372.1
+	"Ouray County, CO"	"08091"	Suppressed	2462	Suppressed	Suppressed
+	"Park County, CO"	"08093"	22	10066	218.6	157.6
+	"Phillips County, CO"	"08095"	Suppressed	2049	Suppressed	Suppressed
+	"Pitkin County, CO"	"08097"	13	10835	Unreliable	Unreliable
+	"Prowers County, CO"	"08099"	14	5756	Unreliable	Unreliable
+	"Pueblo County, CO"	"08101"	228	81113	281.1	220.6
+	"Rio Blanco County, CO"	"08103"	Suppressed	3429	Suppressed	Suppressed
+	"Rio Grande County, CO"	"08105"	16	5721	Unreliable	Unreliable
+	"Routt County, CO"	"08107"	17	14384	Unreliable	Unreliable
+	"Saguache County, CO"	"08109"	11	3239	Unreliable	Unreliable
+	"San Juan County, CO"	"08111"	Suppressed	439	Suppressed	Suppressed
+	"San Miguel County, CO"	"08113"	Suppressed	5065	Suppressed	Suppressed
+	"Sedgwick County, CO"	"08115"	Suppressed	1145	Suppressed	Suppressed
+	"Summit County, CO"	"08117"	14	18922	Unreliable	Unreliable
+	"Teller County, CO"	"08119"	34	13293	255.8	163.8
+	"Washington County, CO"	"08121"	Suppressed	2351	Suppressed	Suppressed
+	"Weld County, CO"	"08123"	228	144278	158.0	138.6
+	"Yuma County, CO"	"08125"	Suppressed	4912	Suppressed	Suppressed
+	"Fairfield County, CT"	"09001"	779	503146	154.8	124.0
+	"Hartford County, CT"	"09003"	961	480167	200.1	159.6
+	"Litchfield County, CT"	"09005"	204	100931	202.1	137.5
+	"Middlesex County, CT"	"09007"	145	89576	161.9	114.6
+	"New Haven County, CT"	"09009"	890	457830	194.4	156.7
+	"New London County, CT"	"09011"	286	145489	196.6	147.9
+	"Tolland County, CT"	"09013"	134	74466	179.9	132.8
+	"Windham County, CT"	"09015"	130	63667	204.2	154.8
+	"Kent County, DE"	"10001"	276	86190	320.2	266.5
+	"New Castle County, DE"	"10003"	695	297682	233.5	191.4
+	"Sussex County, DE"	"10005"	293	103874	282.1	199.7
+	"District of Columbia, DC"	"11001"	1081	388271	278.4	296.4
+	"Alachua County, FL"	"12001"	303	120954	250.5	222.2
+	"Baker County, FL"	"12003"	44	14559	302.2	244.8
+	"Bay County, FL"	"12005"	366	95423	383.6	319.4
+	"Bradford County, FL"	"12007"	59	14395	409.9	312.9
+	"Brevard County, FL"	"12009"	900	283342	317.6	227.5
+	"Broward County, FL"	"12011"	2154	1020862	211.0	176.4
+	"Calhoun County, FL"	"12013"	27	7894	342.0	279.8
+	"Charlotte County, FL"	"12015"	263	73695	356.9	235.7
+	"Citrus County, FL"	"12017"	316	61371	514.9	353.6
+	"Clay County, FL"	"12019"	257	105645	243.3	193.3
+	"Collier County, FL"	"12021"	256	158362	161.7	117.3
+	"Columbia County, FL"	"12023"	152	35051	433.7	339.7
+	"DeSoto County, FL"	"12027"	40	17347	230.6	192.7
+	"Dixie County, FL"	"12029"	46	8278	555.7	384.1
+	"Duval County, FL"	"12031"	1458	490004	297.5	258.5
+	"Escambia County, FL"	"12033"	540	156205	345.7	283.0
+	"Flagler County, FL"	"12035"	160	48024	333.2	235.1
+	"Franklin County, FL"	"12037"	20	6605	302.8	242.8
+	"Gadsden County, FL"	"12039"	94	24994	376.1	301.0
+	"Gilchrist County, FL"	"12041"	37	8182	452.2	343.7
+	"Glades County, FL"	"12043"	12	6765	Unreliable	Unreliable
+	"Gulf County, FL"	"12045"	35	9394	372.6	311.5
+	"Hamilton County, FL"	"12047"	39	7398	527.2	435.6
+	"Hardee County, FL"	"12049"	40	13194	303.2	267.8
+	"Hendry County, FL"	"12051"	54	19106	282.6	250.5
+	"Hernando County, FL"	"12053"	289	82292	351.2	248.4
+	"Highlands County, FL"	"12055"	153	41177	371.6	268.4
+	"Hillsborough County, FL"	"12057"	1697	711072	238.7	209.5
+	"Holmes County, FL"	"12059"	45	10217	440.4	351.8
+	"Indian River County, FL"	"12061"	206	66070	311.8	204.9
+	"Jackson County, FL"	"12063"	90	26526	339.3	276.3
+	"Jefferson County, FL"	"12065"	32	7811	409.7	305.5
+	"Lafayette County, FL"	"12067"	Suppressed	4807	Suppressed	Suppressed
+	"Lake County, FL"	"12069"	454	148903	304.9	232.4
+	"Lee County, FL"	"12071"	831	323794	256.6	193.0
+	"Leon County, FL"	"12073"	292	131897	221.4	192.4
+	"Levy County, FL"	"12075"	98	19803	494.9	346.7
+	"Liberty County, FL"	"12077"	21	5060	415.0	381.8
+	"Madison County, FL"	"12079"	51	9880	516.2	433.4
+	"Manatee County, FL"	"12081"	460	168601	272.8	202.3
+	"Marion County, FL"	"12083"	623	156249	398.7	293.8
+	"Martin County, FL"	"12085"	183	72357	252.9	167.5
+	"Miami-Dade County, FL"	"12086"	2856	1461244	195.4	171.9
+	"Monroe County, FL"	"12087"	155	44377	349.3	243.0
+	"Nassau County, FL"	"12089"	141	40033	352.2	259.0
+	"Okaloosa County, FL"	"12091"	264	103701	254.6	223.1
+	"Okeechobee County, FL"	"12093"	72	19845	362.8	297.3
+	"Orange County, FL"	"12095"	1312	688679	190.5	179.2
+	"Osceola County, FL"	"12097"	334	162712	205.3	184.9
+	"Palm Beach County, FL"	"12099"	1553	695924	223.2	176.6
+	"Pasco County, FL"	"12101"	810	241678	335.2	256.8
+	"Pinellas County, FL"	"12103"	1588	494720	321.0	233.2
+	"Polk County, FL"	"12105"	998	310525	321.4	256.6
+	"Putnam County, FL"	"12107"	177	35616	497.0	356.6
+	"St. Johns County, FL"	"12109"	220	113797	193.3	140.8
+	"St. Lucie County, FL"	"12111"	461	142487	323.5	247.4
+	"Santa Rosa County, FL"	"12113"	206	88886	231.8	192.1
+	"Sarasota County, FL"	"12115"	509	178813	284.7	193.0
+	"Seminole County, FL"	"12117"	487	243683	199.8	166.5
+	"Sumter County, FL"	"12119"	142	41526	342.0	227.8
+	"Suwannee County, FL"	"12121"	76	22300	340.8	274.2
+	"Taylor County, FL"	"12123"	40	12334	324.3	259.7
+	"Union County, FL"	"12125"	91	9025	1008.3	840.9
+	"Volusia County, FL"	"12127"	978	254493	384.3	278.9
+	"Wakulla County, FL"	"12129"	61	18348	332.5	278.8
+	"Walton County, FL"	"12131"	107	33312	321.2	255.0
+	"Washington County, FL"	"12133"	54	13176	409.8	336.3
+	"Appling County, GA"	"13001"	47	9359	502.2	404.4
+	"Atkinson County, GA"	"13003"	13	4184	Unreliable	Unreliable
+	"Bacon County, GA"	"13005"	26	5778	450.0	396.4
+	"Baker County, GA"	"13007"	10	1745	Unreliable	Unreliable
+	"Baldwin County, GA"	"13009"	96	21677	442.9	361.5
+	"Banks County, GA"	"13011"	43	9617	447.1	359.7
+	"Barrow County, GA"	"13013"	109	38913	280.1	261.1
+	"Bartow County, GA"	"13015"	169	54180	311.9	271.2
+	"Ben Hill County, GA"	"13017"	51	8880	574.3	448.4
+	"Berrien County, GA"	"13019"	35	9700	360.8	299.3
+	"Bibb County, GA"	"13021"	330	77304	426.9	350.2
+	"Bleckley County, GA"	"13023"	23	6040	380.8	304.8
+	"Brantley County, GA"	"13025"	38	9620	395.0	310.3
+	"Brooks County, GA"	"13027"	36	7980	451.1	342.0
+	"Bryan County, GA"	"13029"	64	17857	358.4	324.8
+	"Bulloch County, GA"	"13031"	72	31354	229.6	208.3
+	"Burke County, GA"	"13033"	48	11430	419.9	337.5
+	"Butts County, GA"	"13035"	54	12692	425.5	357.4
+	"Calhoun County, GA"	"13037"	18	3812	Unreliable	Unreliable
+	"Camden County, GA"	"13039"	85	26103	325.6	299.3
+	"Candler County, GA"	"13043"	21	5359	391.9	283.6
+	"Carroll County, GA"	"13045"	192	56083	342.3	292.2
+	"Catoosa County, GA"	"13047"	101	34274	294.7	233.5
+	"Charlton County, GA"	"13049"	21	7451	281.8	266.8
+	"Chatham County, GA"	"13051"	424	147870	286.7	261.6
+	"Chattahoochee County, GA"	"13053"	Suppressed	4850	Suppressed	Suppressed
+	"Chattooga County, GA"	"13055"	54	13012	415.0	320.8
+	"Cherokee County, GA"	"13057"	193	124626	154.9	133.7
+	"Clarke County, GA"	"13059"	135	54557	247.4	256.8
+	"Clay County, GA"	"13061"	Suppressed	1468	Suppressed	Suppressed
+	"Clayton County, GA"	"13063"	403	141747	284.3	264.7
+	"Clinch County, GA"	"13065"	15	3395	Unreliable	Unreliable
+	"Cobb County, GA"	"13067"	643	405263	158.7	140.4
+	"Coffee County, GA"	"13069"	81	22286	363.5	305.9
+	"Colquitt County, GA"	"13071"	104	23072	450.8	404.9
+	"Columbia County, GA"	"13073"	126	74602	168.9	146.5
+	"Cook County, GA"	"13075"	31	8698	356.4	309.3
+	"Coweta County, GA"	"13077"	145	72576	199.8	169.1
+	"Crawford County, GA"	"13079"	17	6685	Unreliable	Unreliable
+	"Crisp County, GA"	"13081"	50	11516	434.2	348.1
+	"Dade County, GA"	"13083"	33	8262	399.4	329.5
+	"Dawson County, GA"	"13085"	36	12102	297.5	240.7
+	"Decatur County, GA"	"13087"	62	13702	452.5	364.9
+	"DeKalb County, GA"	"13089"	921	409954	224.7	211.2
+	"Dodge County, GA"	"13091"	37	11336	326.4	258.3
+	"Dooly County, GA"	"13093"	16	7937	Unreliable	Unreliable
+	"Dougherty County, GA"	"13095"	199	45511	437.3	379.0
+	"Douglas County, GA"	"13097"	170	74211	229.1	202.6
+	"Early County, GA"	"13099"	24	5006	479.4	369.7
+	"Echols County, GA"	"13101"	Suppressed	2102	Suppressed	Suppressed
+	"Effingham County, GA"	"13103"	90	29567	304.4	263.0
+	"Elbert County, GA"	"13105"	41	9794	418.6	311.6
+	"Emanuel County, GA"	"13107"	46	11360	404.9	330.0
+	"Evans County, GA"	"13109"	20	5428	368.5	327.9
+	"Fannin County, GA"	"13111"	39	11954	326.3	216.1
+	"Fayette County, GA"	"13113"	86	55879	153.9	113.7
+	"Floyd County, GA"	"13115"	155	48368	320.5	263.1
+	"Forsyth County, GA"	"13117"	140	108588	128.9	113.7
+	"Franklin County, GA"	"13119"	50	11006	454.3	352.6
+	"Fulton County, GA"	"13121"	1363	557073	244.7	233.3
+	"Gilmer County, GA"	"13123"	55	14554	377.9	283.5
+	"Glascock County, GA"	"13125"	Suppressed	1546	Suppressed	Suppressed
+	"Glynn County, GA"	"13127"	126	41840	301.1	239.5
+	"Gordon County, GA"	"13129"	112	29285	382.4	327.7
+	"Grady County, GA"	"13131"	55	12728	432.1	338.8
+	"Greene County, GA"	"13133"	27	7879	342.7	254.6
+	"Gwinnett County, GA"	"13135"	775	477529	162.3	148.3
+	"Habersham County, GA"	"13137"	60	21911	273.8	231.9
+	"Hall County, GA"	"13139"	206	96298	213.9	185.9
+	"Hancock County, GA"	"13141"	17	4645	Unreliable	Unreliable
+	"Haralson County, GA"	"13143"	60	14706	408.0	327.4
+	"Harris County, GA"	"13145"	40	17509	228.5	176.3
+	"Hart County, GA"	"13147"	46	12623	364.4	262.3
+	"Heard County, GA"	"13149"	33	6029	547.4	415.7
+	"Henry County, GA"	"13151"	282	113335	248.8	214.0
+	"Houston County, GA"	"13153"	185	78909	234.4	207.6
+	"Irwin County, GA"	"13155"	14	4609	Unreliable	Unreliable
+	"Jackson County, GA"	"13157"	94	32622	288.1	235.9
+	"Jasper County, GA"	"13159"	32	7077	452.2	329.2
+	"Jeff Davis County, GA"	"13161"	45	7469	602.5	496.5
+	"Jefferson County, GA"	"13163"	37	8158	453.5	348.0
+	"Jenkins County, GA"	"13165"	13	4766	Unreliable	Unreliable
+	"Johnson County, GA"	"13167"	12	5503	Unreliable	Unreliable
+	"Jones County, GA"	"13169"	33	14909	221.3	182.9
+	"Lamar County, GA"	"13171"	41	8756	468.3	370.9
+	"Lanier County, GA"	"13173"	29	5573	520.4	506.9
+	"Laurens County, GA"	"13175"	108	23981	450.4	368.9
+	"Lee County, GA"	"13177"	35	15794	221.6	193.2
+	"Liberty County, GA"	"13179"	87	31599	275.3	302.3
+	"Lincoln County, GA"	"13181"	17	4016	Unreliable	Unreliable
+	"Long County, GA"	"13183"	13	9241	Unreliable	Unreliable
+	"Lowndes County, GA"	"13185"	183	51890	352.7	326.9
+	"Lumpkin County, GA"	"13187"	38	14757	257.5	200.4
+	"McDuffie County, GA"	"13189"	44	10738	409.8	327.6
+	"McIntosh County, GA"	"13191"	28	7297	383.7	242.8
+	"Macon County, GA"	"13193"	21	7582	277.0	216.7
+	"Madison County, GA"	"13195"	60	14963	401.0	302.2
+	"Marion County, GA"	"13197"	20	4629	432.1	334.0
+	"Meriwether County, GA"	"13199"	50	10702	467.2	366.0
+	"Miller County, GA"	"13201"	10	2933	Unreliable	Unreliable
+	"Mitchell County, GA"	"13205"	43	11931	360.4	301.7
+	"Monroe County, GA"	"13207"	43	14471	297.1	218.7
+	"Montgomery County, GA"	"13209"	20	4519	442.6	312.4
+	"Morgan County, GA"	"13211"	32	9116	351.0	259.1
+	"Murray County, GA"	"13213"	96	20690	464.0	396.2
+	"Muscogee County, GA"	"13215"	376	104690	359.2	329.2
+	"Newton County, GA"	"13217"	170	53081	320.3	278.9
+	"Oconee County, GA"	"13219"	31	18098	171.3	130.5
+	"Oglethorpe County, GA"	"13221"	27	7656	352.7	277.8
+	"Paulding County, GA"	"13223"	165	80403	205.2	188.4
+	"Peach County, GA"	"13225"	68	13100	519.1	422.9
+	"Pickens County, GA"	"13227"	59	15414	382.8	274.7
+	"Pierce County, GA"	"13229"	42	9692	433.3	349.7
+	"Pike County, GA"	"13231"	28	9303	301.0	244.2
+	"Polk County, GA"	"13233"	80	20759	385.4	315.7
+	"Pulaski County, GA"	"13235"	18	6099	Unreliable	Unreliable
+	"Putnam County, GA"	"13237"	40	10660	375.2	268.0
+	"Quitman County, GA"	"13239"	Suppressed	1126	Suppressed	Suppressed
+	"Rabun County, GA"	"13241"	24	7953	301.8	244.5
+	"Randolph County, GA"	"13243"	20	3492	572.7	518.1
+	"Richmond County, GA"	"13245"	419	104056	402.7	356.6
+	"Rockdale County, GA"	"13247"	112	45732	244.9	195.1
+	"Schley County, GA"	"13249"	10	2550	Unreliable	Unreliable
+	"Screven County, GA"	"13251"	44	7231	608.5	463.8
+	"Seminole County, GA"	"13253"	18	4181	Unreliable	Unreliable
+	"Spalding County, GA"	"13255"	179	32385	552.7	453.0
+	"Stephens County, GA"	"13257"	44	12533	351.1	252.0
+	"Stewart County, GA"	"13259"	14	3306	Unreliable	Unreliable
+	"Sumter County, GA"	"13261"	62	14780	419.5	336.9
+	"Talbot County, GA"	"13263"	14	3416	Unreliable	Unreliable
+	"Taliaferro County, GA"	"13265"	Suppressed	864	Suppressed	Suppressed
+	"Tattnall County, GA"	"13267"	32	14170	225.8	203.5
+	"Taylor County, GA"	"13269"	29	4314	672.2	531.5
+	"Telfair County, GA"	"13271"	27	9733	277.4	239.6
+	"Terrell County, GA"	"13273"	28	4509	621.0	453.3
+	"Thomas County, GA"	"13275"	87	22941	379.2	292.6
+	"Tift County, GA"	"13277"	89	19972	445.6	382.5
+	"Toombs County, GA"	"13279"	53	13358	396.8	330.6
+	"Towns County, GA"	"13281"	13	4529	Unreliable	Unreliable
+	"Treutlen County, GA"	"13283"	17	3469	Unreliable	Unreliable
+	"Troup County, GA"	"13285"	117	35034	334.0	264.2
+	"Turner County, GA"	"13287"	26	3799	684.4	484.6
+	"Twiggs County, GA"	"13289"	25	4460	560.5	364.3
+	"Union County, GA"	"13291"	29	10049	288.6	168.8
+	"Upson County, GA"	"13293"	66	13459	490.4	397.5
+	"Walker County, GA"	"13295"	176	35951	489.6	392.7
+	"Walton County, GA"	"13297"	145	45082	321.6	268.8
+	"Ware County, GA"	"13299"	77	18096	425.5	353.2
+	"Warren County, GA"	"13301"	13	2765	Unreliable	Unreliable
+	"Washington County, GA"	"13303"	53	10822	489.7	414.3
+	"Wayne County, GA"	"13305"	65	15701	414.0	344.4
+	"Webster County, GA"	"13307"	Suppressed	1360	Suppressed	Suppressed
+	"Wheeler County, GA"	"13309"	16	4810	Unreliable	Unreliable
+	"White County, GA"	"13311"	41	13732	298.6	193.2
+	"Whitfield County, GA"	"13313"	125	52429	238.4	210.5
+	"Wilcox County, GA"	"13315"	21	4971	422.5	357.0
+	"Wilkes County, GA"	"13317"	15	4884	Unreliable	Unreliable
+	"Wilkinson County, GA"	"13319"	21	4792	438.2	306.9
+	"Worth County, GA"	"13321"	52	10831	480.1	382.7
+	"Hawaii County, HI"	"15001"	270	101533	265.9	197.9
+	"Honolulu County, HI"	"15003"	1107	516505	214.3	191.6
+	"Kalawao County, HI"	"15005"	Suppressed	63	Suppressed	Suppressed
+	"Kauai County, HI"	"15007"	64	37217	172.0	123.9
+	"Maui County, HI"	"15009"	197	89518	220.1	174.3
+	"Ada County, ID"	"16001"	356	228728	155.6	133.5
+	"Adams County, ID"	"16003"	Suppressed	2026	Suppressed	Suppressed
+	"Bannock County, ID"	"16005"	109	41549	262.3	234.1
+	"Bear Lake County, ID"	"16007"	Suppressed	2716	Suppressed	Suppressed
+	"Benewah County, ID"	"16009"	15	4523	Unreliable	Unreliable
+	"Bingham County, ID"	"16011"	58	21218	273.4	225.4
+	"Blaine County, ID"	"16013"	19	11674	Unreliable	Unreliable
+	"Boise County, ID"	"16015"	12	3734	Unreliable	Unreliable
+	"Bonner County, ID"	"16017"	51	21578	236.4	172.6
+	"Bonneville County, ID"	"16019"	87	52337	166.2	147.8
+	"Boundary County, ID"	"16021"	20	5449	367.0	203.5
+	"Butte County, ID"	"16023"	Suppressed	1249	Suppressed	Suppressed
+	"Camas County, ID"	"16025"	Suppressed	547	Suppressed	Suppressed
+	"Canyon County, ID"	"16027"	191	97642	195.6	175.8
+	"Caribou County, ID"	"16029"	Suppressed	3231	Suppressed	Suppressed
+	"Cassia County, ID"	"16031"	20	10633	188.1	170.3
+	"Clark County, ID"	"16033"	Suppressed	423	Suppressed	Suppressed
+	"Clearwater County, ID"	"16035"	Suppressed	4446	Suppressed	Suppressed
+	"Custer County, ID"	"16037"	Suppressed	2187	Suppressed	Suppressed
+	"Elmore County, ID"	"16039"	23	12607	182.4	173.2
+	"Franklin County, ID"	"16041"	Suppressed	5783	Suppressed	Suppressed
+	"Fremont County, ID"	"16043"	11	6092	Unreliable	Unreliable
+	"Gem County, ID"	"16045"	23	8051	285.7	211.1
+	"Gooding County, ID"	"16047"	24	7043	340.8	291.5
+	"Idaho County, ID"	"16049"	29	7947	364.9	200.7
+	"Jefferson County, ID"	"16051"	19	12459	Unreliable	Unreliable
+	"Jerome County, ID"	"16053"	28	10939	256.0	218.7
+	"Kootenai County, ID"	"16055"	179	75234	237.9	183.2
+	"Latah County, ID"	"16057"	27	16956	159.2	130.7
+	"Lemhi County, ID"	"16059"	14	3782	Unreliable	Unreliable
+	"Lewis County, ID"	"16061"	Suppressed	1808	Suppressed	Suppressed
+	"Lincoln County, ID"	"16063"	Suppressed	2553	Suppressed	Suppressed
+	"Madison County, ID"	"16065"	15	13797	Unreliable	Unreliable
+	"Minidoka County, ID"	"16067"	24	9511	252.3	204.4
+	"Nez Perce County, ID"	"16069"	46	20075	229.1	176.4
+	"Oneida County, ID"	"16071"	Suppressed	1920	Suppressed	Suppressed
+	"Owyhee County, ID"	"16073"	23	5468	420.6	321.3
+	"Payette County, ID"	"16075"	22	10862	202.5	171.8
+	"Power County, ID"	"16077"	13	3578	Unreliable	Unreliable
+	"Shoshone County, ID"	"16079"	35	6382	548.4	349.8
+	"Teton County, ID"	"16081"	Suppressed	5911	Suppressed	Suppressed
+	"Twin Falls County, ID"	"16083"	92	39305	234.1	205.8
+	"Valley County, ID"	"16085"	Suppressed	5381	Suppressed	Suppressed
+	"Washington County, ID"	"16087"	14	4635	Unreliable	Unreliable
+	"Adams County, IL"	"17001"	95	33517	283.4	224.5
+	"Alexander County, IL"	"17003"	19	3791	Unreliable	Unreliable
+	"Bond County, IL"	"17005"	20	9399	212.8	159.1
+	"Boone County, IL"	"17007"	67	27358	244.9	201.8
+	"Brown County, IL"	"17009"	Suppressed	4079	Suppressed	Suppressed
+	"Bureau County, IL"	"17011"	46	17072	269.4	214.5
+	"Calhoun County, IL"	"17013"	Suppressed	2463	Suppressed	Suppressed
+	"Carroll County, IL"	"17015"	16	7345	Unreliable	Unreliable
+	"Cass County, IL"	"17017"	27	6704	402.7	301.3
+	"Champaign County, IL"	"17019"	195	96554	202.0	178.8
+	"Christian County, IL"	"17021"	46	17657	260.5	198.3
+	"Clark County, IL"	"17023"	33	8212	401.9	347.0
+	"Clay County, IL"	"17025"	33	6794	485.7	389.7
+	"Clinton County, IL"	"17027"	46	20508	224.3	182.5
+	"Coles County, IL"	"17029"	69	24825	277.9	225.9
+	"Cook County, IL"	"17031"	6868	2884904	238.1	213.3
+	"Crawford County, IL"	"17033"	34	10395	327.1	252.0
+	"Cumberland County, IL"	"17035"	15	5627	Unreliable	Unreliable
+	"DeKalb County, IL"	"17037"	76	48709	156.0	137.9
+	"De Witt County, IL"	"17039"	25	8610	290.4	251.1
+	"Douglas County, IL"	"17041"	26	10008	259.8	206.1
+	"DuPage County, IL"	"17043"	779	506225	153.9	121.4
+	"Edgar County, IL"	"17045"	31	9142	339.1	241.8
+	"Edwards County, IL"	"17047"	11	3318	Unreliable	Unreliable
+	"Effingham County, IL"	"17049"	42	17426	241.0	198.1
+	"Fayette County, IL"	"17051"	21	11456	183.3	132.2
+	"Ford County, IL"	"17053"	21	6803	308.7	235.1
+	"Franklin County, IL"	"17055"	90	19979	450.5	336.3
+	"Fulton County, IL"	"17057"	59	19026	310.1	233.9
+	"Gallatin County, IL"	"17059"	Suppressed	2649	Suppressed	Suppressed
+	"Greene County, IL"	"17061"	23	6976	329.7	253.4
+	"Grundy County, IL"	"17063"	73	26703	273.4	222.1
+	"Hamilton County, IL"	"17065"	11	4153	Unreliable	Unreliable
+	"Hancock County, IL"	"17067"	25	9164	272.8	191.7
+	"Hardin County, IL"	"17069"	13	2083	Unreliable	Unreliable
+	"Henderson County, IL"	"17071"	16	3531	Unreliable	Unreliable
+	"Henry County, IL"	"17073"	67	25274	265.1	201.7
+	"Iroquois County, IL"	"17075"	64	14359	445.7	329.3
+	"Jackson County, IL"	"17077"	91	26891	338.4	305.2
+	"Jasper County, IL"	"17079"	13	4978	Unreliable	Unreliable
+	"Jefferson County, IL"	"17081"	69	20093	343.4	265.6
+	"Jersey County, IL"	"17083"	35	11561	302.7	236.4
+	"Jo Daviess County, IL"	"17085"	30	11018	272.3	199.7
+	"Johnson County, IL"	"17087"	19	6693	Unreliable	Unreliable
+	"Kane County, IL"	"17089"	481	275679	174.5	147.5
+	"Kankakee County, IL"	"17091"	176	56238	313.0	248.2
+	"Kendall County, IL"	"17093"	88	64723	136.0	133.6
+	"Knox County, IL"	"17095"	83	26274	315.9	230.6
+	"Lake County, IL"	"17097"	669	368117	181.7	143.0
+	"LaSalle County, IL"	"17099"	184	57909	317.7	244.0
+	"Lawrence County, IL"	"17101"	28	9024	310.3	276.3
+	"Lee County, IL"	"17103"	50	18722	267.1	205.8
+	"Livingston County, IL"	"17105"	55	19958	275.6	195.4
+	"Logan County, IL"	"17107"	53	15699	337.6	276.2
+	"McDonough County, IL"	"17109"	34	13687	248.4	186.9
+	"McHenry County, IL"	"17111"	328	166619	196.9	151.1
+	"McLean County, IL"	"17113"	177	83985	210.8	178.8
+	"Macon County, IL"	"17115"	180	54612	329.6	243.0
+	"Macoupin County, IL"	"17117"	82	23967	342.1	273.8
+	"Madison County, IL"	"17119"	425	141825	299.7	240.8
+	"Marion County, IL"	"17121"	61	19365	315.0	251.2
+	"Marshall County, IL"	"17123"	11	6080	Unreliable	Unreliable
+	"Mason County, IL"	"17125"	21	7128	294.6	199.5
+	"Massac County, IL"	"17127"	35	7539	464.3	352.7
+	"Menard County, IL"	"17129"	16	6509	Unreliable	Unreliable
+	"Mercer County, IL"	"17131"	21	8065	260.4	164.8
+	"Monroe County, IL"	"17133"	36	18148	198.4	157.9
+	"Montgomery County, IL"	"17135"	56	15498	361.3	269.2
+	"Morgan County, IL"	"17137"	54	17946	300.9	220.9
+	"Moultrie County, IL"	"17139"	16	7275	Unreliable	Unreliable
+	"Ogle County, IL"	"17141"	66	26740	246.8	179.5
+	"Peoria County, IL"	"17143"	274	96293	284.5	230.9
+	"Perry County, IL"	"17145"	34	11499	295.7	249.3
+	"Piatt County, IL"	"17147"	29	8587	337.7	233.5
+	"Pike County, IL"	"17149"	24	8096	296.4	204.9
+	"Pope County, IL"	"17151"	Suppressed	2196	Suppressed	Suppressed
+	"Pulaski County, IL"	"17153"	14	2928	Unreliable	Unreliable
+	"Putnam County, IL"	"17155"	Suppressed	3045	Suppressed	Suppressed
+	"Randolph County, IL"	"17157"	63	18192	346.3	262.2
+	"Richland County, IL"	"17159"	30	8042	373.0	251.3
+	"Rock Island County, IL"	"17161"	172	74956	229.5	176.0
+	"St. Clair County, IL"	"17163"	444	140734	315.5	255.2
+	"Saline County, IL"	"17165"	56	12428	450.6	347.8
+	"Sangamon County, IL"	"17167"	315	105484	298.6	233.5
+	"Schuyler County, IL"	"17169"	13	3888	Unreliable	Unreliable
+	"Scott County, IL"	"17171"	Suppressed	2691	Suppressed	Suppressed
+	"Shelby County, IL"	"17173"	23	11082	207.5	166.8
+	"Stark County, IL"	"17175"	Suppressed	2781	Suppressed	Suppressed
+	"Stephenson County, IL"	"17177"	57	23070	247.1	171.4
+	"Tazewell County, IL"	"17179"	186	71009	261.9	208.6
+	"Union County, IL"	"17181"	34	8971	379.0	295.3
+	"Vermilion County, IL"	"17183"	172	39978	430.2	325.2
+	"Wabash County, IL"	"17185"	16	5842	Unreliable	Unreliable
+	"Warren County, IL"	"17187"	21	8493	247.3	188.1
+	"Washington County, IL"	"17189"	18	7627	Unreliable	Unreliable
+	"Wayne County, IL"	"17191"	32	8291	386.0	276.3
+	"White County, IL"	"17193"	33	7139	462.2	353.6
+	"Whiteside County, IL"	"17195"	66	28738	229.7	165.2
+	"Will County, IL"	"17197"	624	363335	171.7	142.9
+	"Williamson County, IL"	"17199"	111	35330	314.2	256.9
+	"Winnebago County, IL"	"17201"	465	149619	310.8	242.4
+	"Woodford County, IL"	"17203"	32	19686	162.6	126.2
+	"Adams County, IN"	"18001"	39	15870	245.7	195.4
+	"Allen County, IN"	"18003"	523	187403	279.1	233.3
+	"Bartholomew County, IN"	"18005"	108	42078	256.7	213.3
+	"Benton County, IN"	"18007"	19	4409	Unreliable	Unreliable
+	"Blackford County, IN"	"18009"	23	6202	370.8	281.4
+	"Boone County, IN"	"18011"	58	32626	177.8	140.6
+	"Brown County, IN"	"18013"	19	7856	Unreliable	Unreliable
+	"Carroll County, IN"	"18015"	28	10201	274.5	185.8
+	"Cass County, IN"	"18017"	65	19658	330.7	261.3
+	"Clark County, IN"	"18019"	193	62322	309.7	260.3
+	"Clay County, IN"	"18021"	40	13861	288.6	222.9
+	"Clinton County, IN"	"18023"	48	16331	293.9	243.9
+	"Crawford County, IN"	"18025"	22	5609	392.2	262.3
+	"Daviess County, IN"	"18027"	46	15505	296.7	241.7
+	"Dearborn County, IN"	"18029"	62	26305	235.7	173.1
+	"Decatur County, IN"	"18031"	52	13634	381.4	321.8
+	"De Kalb County, IN"	"18033"	83	21995	377.4	286.3
+	"Delaware County, IN"	"18035"	198	52702	375.7	299.6
+	"Dubois County, IN"	"18037"	50	21999	227.3	164.2
+	"Elkhart County, IN"	"18039"	265	100522	263.6	217.3
+	"Fayette County, IN"	"18041"	47	12047	390.1	281.9
+	"Floyd County, IN"	"18043"	129	40849	315.8	250.1
+	"Fountain County, IN"	"18045"	23	8360	275.1	198.4
+	"Franklin County, IN"	"18047"	23	11841	194.2	147.2
+	"Fulton County, IN"	"18049"	33	10344	319.0	248.4
+	"Gibson County, IN"	"18051"	44	17438	252.3	192.8
+	"Grant County, IN"	"18053"	140	32906	425.5	343.9
+	"Greene County, IN"	"18055"	62	16923	366.4	289.5
+	"Hamilton County, IN"	"18057"	216	163289	132.3	116.7
+	"Hancock County, IN"	"18059"	95	38020	249.9	190.9
+	"Harrison County, IN"	"18061"	63	21148	297.9	243.7
+	"Hendricks County, IN"	"18063"	131	84077	155.8	131.7
+	"Henry County, IN"	"18065"	81	25875	313.0	250.1
+	"Howard County, IN"	"18067"	138	42130	327.6	263.7
+	"Huntington County, IN"	"18069"	58	18941	306.2	249.4
+	"Jackson County, IN"	"18071"	85	22826	372.4	284.8
+	"Jasper County, IN"	"18073"	54	16740	322.6	264.1
+	"Jay County, IN"	"18075"	43	10429	412.3	354.6
+	"Jefferson County, IN"	"18077"	60	16961	353.8	253.7
+	"Jennings County, IN"	"18079"	57	14549	391.8	304.2
+	"Johnson County, IN"	"18081"	175	76811	227.8	190.7
+	"Knox County, IN"	"18083"	83	18333	452.7	334.2
+	"Kosciusko County, IN"	"18085"	103	39997	257.5	205.1
+	"Lagrange County, IN"	"18087"	44	17207	255.7	207.6
+	"Lake County, IN"	"18089"	830	254193	326.5	264.3
+	"La Porte County, IN"	"18091"	203	59777	339.6	274.9
+	"Lawrence County, IN"	"18093"	104	23713	438.6	341.4
+	"Madison County, IN"	"18095"	244	67781	360.0	288.3
+	"Marion County, IN"	"18097"	1483	504438	294.0	264.7
+	"Marshall County, IN"	"18099"	64	23435	273.1	222.2
+	"Martin County, IN"	"18101"	20	5317	376.2	256.8
+	"Miami County, IN"	"18103"	67	19382	345.7	287.3
+	"Monroe County, IN"	"18105"	137	64099	213.7	195.5
+	"Montgomery County, IN"	"18107"	65	19193	338.7	264.6
+	"Morgan County, IN"	"18109"	97	37033	261.9	198.0
+	"Newton County, IN"	"18111"	24	7415	323.7	236.8
+	"Noble County, IN"	"18113"	69	24463	282.1	223.8
+	"Ohio County, IN"	"18115"	Suppressed	3244	Suppressed	Suppressed
+	"Orange County, IN"	"18117"	34	9985	340.5	263.2
+	"Owen County, IN"	"18119"	47	11172	420.7	295.7
+	"Parke County, IN"	"18121"	20	9129	219.1	153.9
+	"Perry County, IN"	"18123"	32	10509	304.5	237.3
+	"Pike County, IN"	"18125"	18	6568	Unreliable	Unreliable
+	"Porter County, IN"	"18127"	185	89497	206.7	167.3
+	"Posey County, IN"	"18129"	36	13542	265.8	181.2
+	"Pulaski County, IN"	"18131"	23	6677	344.5	244.2
+	"Putnam County, IN"	"18133"	53	19176	276.4	223.5
+	"Randolph County, IN"	"18135"	47	12723	369.4	279.4
+	"Ripley County, IN"	"18137"	54	14366	375.9	297.5
+	"Rush County, IN"	"18139"	35	8632	405.5	288.5
+	"St. Joseph County, IN"	"18141"	387	135460	285.7	237.1
+	"Scott County, IN"	"18143"	66	12617	523.1	410.9
+	"Shelby County, IN"	"18145"	63	23667	266.2	209.7
+	"Spencer County, IN"	"18147"	28	10786	259.6	197.1
+	"Starke County, IN"	"18149"	58	11952	485.3	338.1
+	"Steuben County, IN"	"18151"	53	17432	304.0	200.8
+	"Sullivan County, IN"	"18153"	35	11522	303.8	246.8
+	"Switzerland County, IN"	"18155"	23	5350	429.9	349.2
+	"Tippecanoe County, IN"	"18157"	173	82090	210.7	196.9
+	"Tipton County, IN"	"18159"	24	7901	303.8	220.8
+	"Union County, IN"	"18161"	10	3764	Unreliable	Unreliable
+	"Vanderburgh County, IN"	"18163"	269	95196	282.6	227.4
+	"Vermillion County, IN"	"18165"	31	8130	381.3	296.4
+	"Vigo County, IN"	"18167"	198	53141	372.6	297.7
+	"Wabash County, IN"	"18169"	58	15690	369.7	261.2
+	"Warren County, IN"	"18171"	12	4283	Unreliable	Unreliable
+	"Warrick County, IN"	"18173"	66	31599	208.9	150.1
+	"Washington County, IN"	"18175"	57	14720	387.2	298.7
+	"Wayne County, IN"	"18177"	147	34299	428.6	329.3
+	"Wells County, IN"	"18179"	44	14137	311.2	238.8
+	"White County, IN"	"18181"	37	12193	303.5	257.0
+	"Whitley County, IN"	"18183"	56	17584	318.5	243.7
+	"Adair County, IA"	"19001"	Suppressed	3646	Suppressed	Suppressed
+	"Adams County, IA"	"19003"	13	1939	Unreliable	Unreliable
+	"Allamakee County, IA"	"19005"	14	6880	Unreliable	Unreliable
+	"Appanoose County, IA"	"19007"	18	6188	Unreliable	Unreliable
+	"Audubon County, IA"	"19009"	10	2812	Unreliable	Unreliable
+	"Benton County, IA"	"19011"	27	13256	203.7	164.4
+	"Black Hawk County, IA"	"19013"	170	63546	267.5	216.6
+	"Boone County, IA"	"19015"	29	13913	208.4	166.3
+	"Bremer County, IA"	"19017"	20	11719	170.7	125.3
+	"Buchanan County, IA"	"19019"	28	10481	267.2	180.8
+	"Buena Vista County, IA"	"19021"	20	9792	204.2	146.6
+	"Butler County, IA"	"19023"	14	7309	Unreliable	Unreliable
+	"Calhoun County, IA"	"19025"	11	4870	Unreliable	Unreliable
+	"Carroll County, IA"	"19027"	27	10098	267.4	188.5
+	"Cass County, IA"	"19029"	21	6571	319.6	226.6
+	"Cedar County, IA"	"19031"	24	9540	251.6	189.0
+	"Cerro Gordo County, IA"	"19033"	58	22193	261.3	194.2
+	"Cherokee County, IA"	"19035"	15	5873	Unreliable	Unreliable
+	"Chickasaw County, IA"	"19037"	Suppressed	6013	Suppressed	Suppressed
+	"Clarke County, IA"	"19039"	13	4622	Unreliable	Unreliable
+	"Clay County, IA"	"19041"	25	8273	302.2	209.8
+	"Clayton County, IA"	"19043"	17	8805	Unreliable	Unreliable
+	"Clinton County, IA"	"19045"	78	24317	320.8	240.3
+	"Crawford County, IA"	"19047"	20	8359	239.3	172.0
+	"Dallas County, IA"	"19049"	64	41828	153.0	147.1
+	"Davis County, IA"	"19051"	Suppressed	4033	Suppressed	Suppressed
+	"Decatur County, IA"	"19053"	15	3491	Unreliable	Unreliable
+	"Delaware County, IA"	"19055"	24	8756	274.1	178.4
+	"Des Moines County, IA"	"19057"	53	20337	260.6	212.4
+	"Dickinson County, IA"	"19059"	21	8524	246.4	167.7
+	"Dubuque County, IA"	"19061"	112	48670	230.1	184.3
+	"Emmet County, IA"	"19063"	13	4933	Unreliable	Unreliable
+	"Fayette County, IA"	"19065"	34	9840	345.5	254.9
+	"Floyd County, IA"	"19067"	22	7730	284.6	216.0
+	"Franklin County, IA"	"19069"	Suppressed	5158	Suppressed	Suppressed
+	"Fremont County, IA"	"19071"	12	3521	Unreliable	Unreliable
+	"Greene County, IA"	"19073"	11	4453	Unreliable	Unreliable
+	"Grundy County, IA"	"19075"	13	6113	Unreliable	Unreliable
+	"Guthrie County, IA"	"19077"	14	5282	Unreliable	Unreliable
+	"Hamilton County, IA"	"19079"	Suppressed	7651	Suppressed	Suppressed
+	"Hancock County, IA"	"19081"	11	5553	Unreliable	Unreliable
+	"Hardin County, IA"	"19083"	13	8383	Unreliable	Unreliable
+	"Harrison County, IA"	"19085"	21	7274	288.7	197.1
+	"Henry County, IA"	"19087"	18	10138	Unreliable	Unreliable
+	"Howard County, IA"	"19089"	15	4541	Unreliable	Unreliable
+	"Humboldt County, IA"	"19091"	10	4755	Unreliable	Unreliable
+	"Ida County, IA"	"19093"	Suppressed	3357	Suppressed	Suppressed
+	"Iowa County, IA"	"19095"	16	8381	Unreliable	Unreliable
+	"Jackson County, IA"	"19097"	19	9820	Unreliable	Unreliable
+	"Jasper County, IA"	"19099"	55	19199	286.5	222.6
+	"Jefferson County, IA"	"19101"	21	9024	232.7	185.8
+	"Johnson County, IA"	"19103"	96	69715	137.7	132.8
+	"Jones County, IA"	"19105"	30	10681	280.9	195.6
+	"Keokuk County, IA"	"19107"	17	5068	Unreliable	Unreliable
+	"Kossuth County, IA"	"19109"	13	7354	Unreliable	Unreliable
+	"Lee County, IA"	"19111"	66	18268	361.3	256.4
+	"Linn County, IA"	"19113"	231	113975	202.7	166.0
+	"Louisa County, IA"	"19115"	Suppressed	5807	Suppressed	Suppressed
+	"Lucas County, IA"	"19117"	15	4189	Unreliable	Unreliable
+	"Lyon County, IA"	"19119"	17	5574	Unreliable	Unreliable
+	"Madison County, IA"	"19121"	17	8011	Unreliable	Unreliable
+	"Mahaska County, IA"	"19123"	33	11124	296.7	233.6
+	"Marion County, IA"	"19125"	39	16260	239.9	186.6
+	"Marshall County, IA"	"19127"	58	19990	290.1	217.9
+	"Mills County, IA"	"19129"	31	7858	394.5	327.2
+	"Mitchell County, IA"	"19131"	11	5058	Unreliable	Unreliable
+	"Monona County, IA"	"19133"	15	4223	Unreliable	Unreliable
+	"Monroe County, IA"	"19135"	19	3985	Unreliable	Unreliable
+	"Montgomery County, IA"	"19137"	22	5130	428.8	334.9
+	"Muscatine County, IA"	"19139"	47	21844	215.2	160.0
+	"O'Brien County, IA"	"19141"	20	6797	294.2	241.2
+	"Osceola County, IA"	"19143"	12	3080	Unreliable	Unreliable
+	"Page County, IA"	"19145"	20	7910	252.8	182.8
+	"Palo Alto County, IA"	"19147"	12	4319	Unreliable	Unreliable
+	"Plymouth County, IA"	"19149"	30	12393	242.1	193.5
+	"Pocahontas County, IA"	"19151"	Suppressed	3421	Suppressed	Suppressed
+	"Polk County, IA"	"19153"	537	248934	215.7	191.9
+	"Pottawattamie County, IA"	"19155"	150	48096	311.9	252.1
+	"Poweshiek County, IA"	"19157"	34	8600	395.3	256.7
+	"Ringgold County, IA"	"19159"	Suppressed	2268	Suppressed	Suppressed
+	"Sac County, IA"	"19161"	15	4866	Unreliable	Unreliable
+	"Scott County, IA"	"19163"	193	90685	212.8	171.1
+	"Shelby County, IA"	"19165"	19	5688	Unreliable	Unreliable
+	"Sioux County, IA"	"19167"	29	15501	187.1	159.0
+	"Story County, IA"	"19169"	70	39077	179.1	156.4
+	"Tama County, IA"	"19171"	21	8530	246.2	178.5
+	"Taylor County, IA"	"19173"	Suppressed	3010	Suppressed	Suppressed
+	"Union County, IA"	"19175"	21	6138	342.1	262.3
+	"Van Buren County, IA"	"19177"	21	3675	571.4	398.8
+	"Wapello County, IA"	"19179"	61	18107	336.9	253.0
+	"Warren County, IA"	"19181"	43	24175	177.9	140.5
+	"Washington County, IA"	"19183"	21	10857	193.4	132.3
+	"Wayne County, IA"	"19185"	Suppressed	2952	Suppressed	Suppressed
+	"Webster County, IA"	"19187"	55	18370	299.4	214.4
+	"Winnebago County, IA"	"19189"	15	5183	Unreliable	Unreliable
+	"Winneshiek County, IA"	"19191"	19	9669	Unreliable	Unreliable
+	"Woodbury County, IA"	"19193"	112	51118	219.1	174.7
+	"Worth County, IA"	"19195"	Suppressed	3852	Suppressed	Suppressed
+	"Wright County, IA"	"19197"	15	6241	Unreliable	Unreliable
+	"Allen County, KS"	"20001"	24	6244	384.4	272.5
+	"Anderson County, KS"	"20003"	Suppressed	3682	Suppressed	Suppressed
+	"Atchison County, KS"	"20005"	22	7645	287.8	228.0
+	"Barber County, KS"	"20007"	Suppressed	2430	Suppressed	Suppressed
+	"Barton County, KS"	"20009"	37	13405	276.0	212.5
+	"Bourbon County, KS"	"20011"	22	6895	319.1	266.5
+	"Brown County, KS"	"20013"	Suppressed	4719	Suppressed	Suppressed
+	"Butler County, KS"	"20015"	84	33686	249.4	186.9
+	"Chase County, KS"	"20017"	Suppressed	1294	Suppressed	Suppressed
+	"Chautauqua County, KS"	"20019"	Suppressed	1624	Suppressed	Suppressed
+	"Cherokee County, KS"	"20021"	37	10506	352.2	268.1
+	"Cheyenne County, KS"	"20023"	Suppressed	1250	Suppressed	Suppressed
+	"Clark County, KS"	"20025"	Suppressed	968	Suppressed	Suppressed
+	"Clay County, KS"	"20027"	Suppressed	3999	Suppressed	Suppressed
+	"Cloud County, KS"	"20029"	14	4300	Unreliable	Unreliable
+	"Coffey County, KS"	"20031"	Suppressed	4297	Suppressed	Suppressed
+	"Comanche County, KS"	"20033"	Suppressed	886	Suppressed	Suppressed
+	"Cowley County, KS"	"20035"	67	17457	383.8	315.7
+	"Crawford County, KS"	"20037"	58	17707	327.6	269.6
+	"Decatur County, KS"	"20039"	Suppressed	1368	Suppressed	Suppressed
+	"Dickinson County, KS"	"20041"	26	9635	269.8	190.2
+	"Doniphan County, KS"	"20043"	18	3816	Unreliable	Unreliable
+	"Douglas County, KS"	"20045"	95	54351	174.8	162.7
+	"Edwards County, KS"	"20047"	Suppressed	1513	Suppressed	Suppressed
+	"Elk County, KS"	"20049"	Suppressed	1236	Suppressed	Suppressed
+	"Ellis County, KS"	"20051"	23	13630	168.7	154.5
+	"Ellsworth County, KS"	"20053"	12	3424	Unreliable	Unreliable
+	"Finney County, KS"	"20055"	29	18058	160.6	139.0
+	"Ford County, KS"	"20057"	28	16957	165.1	156.6
+	"Franklin County, KS"	"20059"	39	12958	301.0	223.2
+	"Geary County, KS"	"20061"	35	16579	211.1	243.1
+	"Gove County, KS"	"20063"	Suppressed	1245	Suppressed	Suppressed
+	"Graham County, KS"	"20065"	Suppressed	1244	Suppressed	Suppressed
+	"Grant County, KS"	"20067"	Suppressed	3740	Suppressed	Suppressed
+	"Gray County, KS"	"20069"	Suppressed	2940	Suppressed	Suppressed
+	"Greeley County, KS"	"20071"	Suppressed	626	Suppressed	Suppressed
+	"Greenwood County, KS"	"20073"	10	3093	Unreliable	Unreliable
+	"Hamilton County, KS"	"20075"	Suppressed	1318	Suppressed	Suppressed
+	"Harper County, KS"	"20077"	Suppressed	2752	Suppressed	Suppressed
+	"Harvey County, KS"	"20079"	57	16474	346.0	266.5
+	"Haskell County, KS"	"20081"	Suppressed	2025	Suppressed	Suppressed
+	"Hodgeman County, KS"	"20083"	Suppressed	897	Suppressed	Suppressed
+	"Jackson County, KS"	"20085"	12	6687	Unreliable	Unreliable
+	"Jefferson County, KS"	"20087"	32	9855	324.7	227.9
+	"Jewell County, KS"	"20089"	Suppressed	1431	Suppressed	Suppressed
+	"Johnson County, KS"	"20091"	451	311251	144.9	122.5
+	"Kearny County, KS"	"20093"	Suppressed	1848	Suppressed	Suppressed
+	"Kingman County, KS"	"20095"	12	3767	Unreliable	Unreliable
+	"Kiowa County, KS"	"20097"	Suppressed	1181	Suppressed	Suppressed
+	"Labette County, KS"	"20099"	48	10409	461.1	343.0
+	"Lane County, KS"	"20101"	Suppressed	809	Suppressed	Suppressed
+	"Leavenworth County, KS"	"20103"	95	43169	220.1	186.8
+	"Lincoln County, KS"	"20105"	Suppressed	1543	Suppressed	Suppressed
+	"Linn County, KS"	"20107"	16	4688	Unreliable	Unreliable
+	"Logan County, KS"	"20109"	Suppressed	1404	Suppressed	Suppressed
+	"Lyon County, KS"	"20111"	35	15354	228.0	175.5
+	"McPherson County, KS"	"20113"	36	14251	252.6	163.2
+	"Marion County, KS"	"20115"	25	5649	442.6	333.8
+	"Marshall County, KS"	"20117"	11	4900	Unreliable	Unreliable
+	"Meade County, KS"	"20119"	Suppressed	2023	Suppressed	Suppressed
+	"Miami County, KS"	"20121"	44	17002	258.8	190.3
+	"Mitchell County, KS"	"20123"	10	2879	Unreliable	Unreliable
+	"Montgomery County, KS"	"20125"	50	16485	303.3	250.1
+	"Morris County, KS"	"20127"	Suppressed	2800	Suppressed	Suppressed
+	"Morton County, KS"	"20129"	Suppressed	1503	Suppressed	Suppressed
+	"Nemaha County, KS"	"20131"	12	4724	Unreliable	Unreliable
+	"Neosho County, KS"	"20133"	35	7861	445.2	321.9
+	"Ness County, KS"	"20135"	Suppressed	1467	Suppressed	Suppressed
+	"Norton County, KS"	"20137"	Suppressed	2960	Suppressed	Suppressed
+	"Osage County, KS"	"20139"	26	8005	324.8	239.5
+	"Osborne County, KS"	"20141"	Suppressed	1776	Suppressed	Suppressed
+	"Ottawa County, KS"	"20143"	Suppressed	3067	Suppressed	Suppressed
+	"Pawnee County, KS"	"20145"	14	3698	Unreliable	Unreliable
+	"Phillips County, KS"	"20147"	Suppressed	2639	Suppressed	Suppressed
+	"Pottawatomie County, KS"	"20149"	32	11282	283.6	224.5
+	"Pratt County, KS"	"20151"	Suppressed	4658	Suppressed	Suppressed
+	"Rawlins County, KS"	"20153"	Suppressed	1216	Suppressed	Suppressed
+	"Reno County, KS"	"20155"	104	31722	327.8	256.7
+	"Republic County, KS"	"20157"	Suppressed	2265	Suppressed	Suppressed
+	"Rice County, KS"	"20159"	13	4676	Unreliable	Unreliable
+	"Riley County, KS"	"20161"	38	31532	120.5	129.3
+	"Rooks County, KS"	"20163"	Suppressed	2530	Suppressed	Suppressed
+	"Rush County, KS"	"20165"	Suppressed	1577	Suppressed	Suppressed
+	"Russell County, KS"	"20167"	Suppressed	3399	Suppressed	Suppressed
+	"Saline County, KS"	"20169"	82	28287	289.9	232.5
+	"Scott County, KS"	"20171"	Suppressed	2461	Suppressed	Suppressed
+	"Sedgwick County, KS"	"20173"	711	260207	273.2	227.9
+	"Seward County, KS"	"20175"	20	11314	176.8	169.4
+	"Shawnee County, KS"	"20177"	291	91067	319.5	249.0
+	"Sheridan County, KS"	"20179"	Suppressed	1210	Suppressed	Suppressed
+	"Sherman County, KS"	"20181"	Suppressed	2991	Suppressed	Suppressed
+	"Smith County, KS"	"20183"	Suppressed	1782	Suppressed	Suppressed
+	"Stafford County, KS"	"20185"	Suppressed	2073	Suppressed	Suppressed
+	"Stanton County, KS"	"20187"	Suppressed	1019	Suppressed	Suppressed
+	"Stevens County, KS"	"20189"	Suppressed	2749	Suppressed	Suppressed
+	"Sumner County, KS"	"20191"	44	11771	373.8	239.1
+	"Thomas County, KS"	"20193"	Suppressed	3754	Suppressed	Suppressed
+	"Trego County, KS"	"20195"	Suppressed	1492	Suppressed	Suppressed
+	"Wabaunsee County, KS"	"20197"	Suppressed	3558	Suppressed	Suppressed
+	"Wallace County, KS"	"20199"	Suppressed	694	Suppressed	Suppressed
+	"Washington County, KS"	"20201"	Suppressed	2609	Suppressed	Suppressed
+	"Wichita County, KS"	"20203"	Suppressed	1045	Suppressed	Suppressed
+	"Wilson County, KS"	"20205"	23	4400	522.7	349.7
+	"Woodson County, KS"	"20207"	Suppressed	1592	Suppressed	Suppressed
+	"Wyandotte County, KS"	"20209"	241	82871	290.8	259.3
+	"Adair County, KY"	"21001"	32	9459	338.3	261.1
+	"Allen County, KY"	"21003"	45	10537	427.1	362.4
+	"Anderson County, KY"	"21005"	42	11822	355.3	286.2
+	"Ballard County, KY"	"21007"	17	4218	Unreliable	Unreliable
+	"Barren County, KY"	"21009"	91	22250	409.0	337.1
+	"Bath County, KY"	"21011"	26	6203	419.2	323.1
+	"Bell County, KY"	"21013"	64	14564	439.4	361.3
+	"Boone County, KY"	"21015"	136	67710	200.9	167.6
+	"Bourbon County, KY"	"21017"	36	10297	349.6	296.5
+	"Boyd County, KY"	"21019"	113	26069	433.5	368.6
+	"Boyle County, KY"	"21021"	50	14840	336.9	271.3
+	"Bracken County, KY"	"21023"	20	4431	451.4	320.9
+	"Breathitt County, KY"	"21025"	65	7346	884.8	718.0
+	"Breckinridge County, KY"	"21027"	37	10318	358.6	272.4
+	"Bullitt County, KY"	"21029"	123	42745	287.8	237.7
+	"Butler County, KY"	"21031"	23	6775	339.5	263.4
+	"Caldwell County, KY"	"21033"	31	6446	480.9	384.5
+	"Calloway County, KY"	"21035"	57	17182	331.7	265.3
+	"Campbell County, KY"	"21037"	131	49232	266.1	204.8
+	"Carlisle County, KY"	"21039"	Suppressed	2514	Suppressed	Suppressed
+	"Carroll County, KY"	"21041"	22	5519	398.6	322.6
+	"Carter County, KY"	"21043"	57	13941	408.9	328.7
+	"Casey County, KY"	"21045"	40	8072	495.5	383.0
+	"Christian County, KY"	"21047"	119	33885	351.2	355.9
+	"Clark County, KY"	"21049"	74	18970	390.1	310.0
+	"Clay County, KY"	"21051"	55	11987	458.8	395.2
+	"Clinton County, KY"	"21053"	30	5227	573.9	439.0
+	"Crittenden County, KY"	"21055"	14	4690	Unreliable	Unreliable
+	"Cumberland County, KY"	"21057"	Suppressed	3367	Suppressed	Suppressed
+	"Daviess County, KY"	"21059"	153	50380	303.7	236.9
+	"Edmonson County, KY"	"21061"	22	6268	351.0	272.6
+	"Elliott County, KY"	"21063"	18	4229	Unreliable	Unreliable
+	"Estill County, KY"	"21065"	45	7704	584.1	449.5
+	"Fayette County, KY"	"21067"	380	163991	231.7	208.5
+	"Fleming County, KY"	"21069"	26	7508	346.3	265.3
+	"Floyd County, KY"	"21071"	108	20401	529.4	443.5
+	"Franklin County, KY"	"21073"	92	26395	348.6	262.7
+	"Fulton County, KY"	"21075"	15	3229	Unreliable	Unreliable
+	"Gallatin County, KY"	"21077"	27	4588	588.5	447.1
+	"Garrard County, KY"	"21079"	34	9182	370.3	289.4
+	"Grant County, KY"	"21081"	50	12805	390.5	315.3
+	"Graves County, KY"	"21083"	58	18903	306.8	251.5
+	"Grayson County, KY"	"21085"	47	13521	347.6	278.5
+	"Green County, KY"	"21087"	17	5750	Unreliable	Unreliable
+	"Greenup County, KY"	"21089"	66	18733	352.3	249.1
+	"Hancock County, KY"	"21091"	11	4401	Unreliable	Unreliable
+	"Hardin County, KY"	"21093"	177	56683	312.3	268.7
+	"Harlan County, KY"	"21095"	101	14850	680.1	528.7
+	"Harrison County, KY"	"21097"	31	9700	319.6	244.7
+	"Hart County, KY"	"21099"	38	9470	401.3	297.5
+	"Henderson County, KY"	"21101"	99	24660	401.5	312.2
+	"Henry County, KY"	"21103"	30	8140	368.6	297.9
+	"Hickman County, KY"	"21105"	Suppressed	2341	Suppressed	Suppressed
+	"Hopkins County, KY"	"21107"	114	24237	470.4	365.3
+	"Jackson County, KY"	"21109"	25	7181	348.1	286.0
+	"Jefferson County, KY"	"21111"	1272	410030	310.2	261.2
+	"Jessamine County, KY"	"21113"	67	26276	255.0	213.7
+	"Johnson County, KY"	"21115"	62	12360	501.6	395.8
+	"Kenton County, KY"	"21117"	257	89131	288.3	249.5
+	"Knott County, KY"	"21119"	51	8433	604.8	481.5
+	"Knox County, KY"	"21121"	97	15928	609.0	487.9
+	"Larue County, KY"	"21123"	29	7456	388.9	325.0
+	"Laurel County, KY"	"21125"	122	32015	381.1	301.8
+	"Lawrence County, KY"	"21127"	47	8378	561.0	419.4
+	"Lee County, KY"	"21129"	22	4431	496.5	423.7
+	"Leslie County, KY"	"21131"	38	5930	640.8	495.1
+	"Letcher County, KY"	"21133"	80	12737	628.1	458.6
+	"Lewis County, KY"	"21135"	39	7319	532.9	398.6
+	"Lincoln County, KY"	"21137"	65	12639	514.3	392.9
+	"Livingston County, KY"	"21139"	24	4901	489.7	333.5
+	"Logan County, KY"	"21141"	62	13678	453.3	344.6
+	"Lyon County, KY"	"21143"	23	4601	499.9	420.9
+	"McCracken County, KY"	"21145"	114	34032	335.0	274.0
+	"McCreary County, KY"	"21147"	36	9804	367.2	324.6
+	"McLean County, KY"	"21149"	21	4761	441.1	358.1
+	"Madison County, KY"	"21151"	108	42155	256.2	211.6
+	"Magoffin County, KY"	"21153"	42	6986	601.2	465.0
+	"Marion County, KY"	"21155"	38	10611	358.1	290.1
+	"Marshall County, KY"	"21157"	59	15948	370.0	256.7
+	"Martin County, KY"	"21159"	25	7239	345.4	320.4
+	"Mason County, KY"	"21161"	36	8824	408.0	306.6
+	"Meade County, KY"	"21163"	43	15783	272.4	234.5
+	"Menifee County, KY"	"21165"	16	3278	Unreliable	Unreliable
+	"Mercer County, KY"	"21167"	38	11078	343.0	271.0
+	"Metcalfe County, KY"	"21169"	20	5084	393.4	310.8
+	"Monroe County, KY"	"21171"	23	5468	420.6	299.5
+	"Montgomery County, KY"	"21173"	59	14499	406.9	346.9
+	"Morgan County, KY"	"21175"	25	7741	323.0	290.1
+	"Muhlenberg County, KY"	"21177"	79	16258	485.9	377.2
+	"Nelson County, KY"	"21179"	66	23810	277.2	235.6
+	"Nicholas County, KY"	"21181"	20	3688	542.3	397.4
+	"Ohio County, KY"	"21183"	46	12199	377.1	296.2
+	"Oldham County, KY"	"21185"	79	34242	230.7	181.5
+	"Owen County, KY"	"21187"	15	5618	Unreliable	Unreliable
+	"Owsley County, KY"	"21189"	15	2422	Unreliable	Unreliable
+	"Pendleton County, KY"	"21191"	23	7830	293.7	250.5
+	"Perry County, KY"	"21193"	91	15231	597.5	493.0
+	"Pike County, KY"	"21195"	160	34123	468.9	355.0
+	"Powell County, KY"	"21197"	39	6646	586.8	432.7
+	"Pulaski County, KY"	"21199"	143	33104	432.0	330.9
+	"Robertson County, KY"	"21201"	Suppressed	1093	Suppressed	Suppressed
+	"Rockcastle County, KY"	"21203"	42	8957	468.9	368.6
+	"Rowan County, KY"	"21205"	44	10826	406.4	334.5
+	"Russell County, KY"	"21207"	38	9080	418.5	307.9
+	"Scott County, KY"	"21209"	69	27546	250.5	218.7
+	"Shelby County, KY"	"21211"	70	23978	291.9	238.3
+	"Simpson County, KY"	"21213"	39	9211	423.4	362.9
+	"Spencer County, KY"	"21215"	26	9960	261.0	215.3
+	"Taylor County, KY"	"21217"	42	12157	345.5	285.1
+	"Todd County, KY"	"21219"	21	6134	342.4	274.8
+	"Trigg County, KY"	"21221"	32	7079	452.0	295.4
+	"Trimble County, KY"	"21223"	19	4635	Unreliable	Unreliable
+	"Union County, KY"	"21225"	36	7318	491.9	372.7
+	"Warren County, KY"	"21227"	177	58917	300.4	262.2
+	"Washington County, KY"	"21229"	18	5982	Unreliable	Unreliable
+	"Wayne County, KY"	"21231"	43	10722	401.0	280.0
+	"Webster County, KY"	"21233"	22	7001	314.2	233.4
+	"Whitley County, KY"	"21235"	101	17574	574.7	467.8
+	"Wolfe County, KY"	"21237"	23	3713	619.4	501.6
+	"Woodford County, KY"	"21239"	36	13660	263.5	180.8
+	"Acadia Parish, LA"	"22001"	134	31683	422.9	348.8
+	"Allen Parish, LA"	"22003"	45	14245	315.9	274.8
+	"Ascension Parish, LA"	"22005"	150	62835	238.7	210.9
+	"Assumption Parish, LA"	"22007"	50	12147	411.6	348.2
+	"Avoyelles Parish, LA"	"22009"	82	21423	382.8	313.9
+	"Beauregard Parish, LA"	"22011"	75	18838	398.1	319.4
+	"Bienville Parish, LA"	"22013"	30	6871	436.6	344.0
+	"Bossier Parish, LA"	"22015"	162	65184	248.5	225.8
+	"Caddo Parish, LA"	"22017"	576	130488	441.4	370.6
+	"Calcasieu Parish, LA"	"22019"	389	101733	382.4	321.3
+	"Caldwell Parish, LA"	"22021"	10	5201	Unreliable	Unreliable
+	"Cameron Parish, LA"	"22023"	Suppressed	3606	Suppressed	Suppressed
+	"Catahoula Parish, LA"	"22025"	32	5342	599.0	473.6
+	"Claiborne Parish, LA"	"22027"	35	9025	387.8	338.1
+	"Concordia Parish, LA"	"22029"	63	10440	603.4	471.4
+	"De Soto Parish, LA"	"22031"	57	13852	411.5	323.0
+	"East Baton Rouge Parish, LA"	"22033"	757	223327	339.0	303.5
+	"East Carroll Parish, LA"	"22035"	25	3834	652.1	558.9
+	"East Feliciana Parish, LA"	"22037"	53	11048	479.7	401.7
+	"Evangeline Parish, LA"	"22039"	79	16661	474.2	403.7
+	"Franklin Parish, LA"	"22041"	46	9994	460.3	373.3
+	"Grant Parish, LA"	"22043"	47	12563	374.1	356.8
+	"Iberia Parish, LA"	"22045"	162	37568	431.2	354.1
+	"Iberville Parish, LA"	"22047"	87	18406	472.7	393.0
+	"Jackson Parish, LA"	"22049"	35	8195	427.1	345.2
+	"Jefferson Parish, LA"	"22051"	768	237806	323.0	270.7
+	"Jefferson Davis Parish, LA"	"22053"	78	15857	491.9	389.5
+	"Lafayette Parish, LA"	"22055"	307	127944	239.9	209.8
+	"Lafourche Parish, LA"	"22057"	153	51867	295.0	247.3
+	"LaSalle Parish, LA"	"22059"	22	7753	283.8	235.6
+	"Lincoln Parish, LA"	"22061"	53	19431	272.8	244.5
+	"Livingston Parish, LA"	"22063"	205	72563	282.5	249.3
+	"Madison Parish, LA"	"22065"	19	6213	Unreliable	Unreliable
+	"Morehouse Parish, LA"	"22067"	75	13437	558.2	410.5
+	"Natchitoches Parish, LA"	"22069"	83	17399	477.0	383.4
+	"Orleans Parish, LA"	"22071"	691	219968	314.1	286.8
+	"Ouachita Parish, LA"	"22073"	294	79274	370.9	311.6
+	"Plaquemines Parish, LA"	"22075"	39	12217	319.2	274.3
+	"Pointe Coupee Parish, LA"	"22077"	53	11401	464.9	348.4
+	"Rapides Parish, LA"	"22079"	287	67242	426.8	351.0
+	"Red River Parish, LA"	"22081"	19	4359	Unreliable	Unreliable
+	"Richland Parish, LA"	"22083"	39	10597	368.0	319.6
+	"Sabine Parish, LA"	"22085"	61	11904	512.4	412.6
+	"St. Bernard Parish, LA"	"22087"	68	24084	282.3	257.9
+	"St. Charles Parish, LA"	"22089"	84	28550	294.2	240.3
+	"St. Helena Parish, LA"	"22091"	28	5436	515.1	393.5
+	"St. James Parish, LA"	"22093"	46	11253	408.8	309.2
+	"St. John the Baptist Parish, LA"	"22095"	80	23141	345.7	272.2
+	"St. Landry Parish, LA"	"22097"	209	41254	506.6	411.0
+	"St. Martin Parish, LA"	"22099"	125	28186	443.5	362.4
+	"St. Mary Parish, LA"	"22101"	97	27467	353.2	287.5
+	"St. Tammany Parish, LA"	"22103"	331	129793	255.0	196.4
+	"Tangipahoa Parish, LA"	"22105"	253	64898	389.8	331.9
+	"Tensas Parish, LA"	"22107"	14	2303	Unreliable	Unreliable
+	"Terrebonne Parish, LA"	"22109"	219	59516	368.0	309.9
+	"Union Parish, LA"	"22111"	55	11514	477.7	379.4
+	"Vermilion Parish, LA"	"22113"	105	30552	343.7	282.8
+	"Vernon Parish, LA"	"22115"	87	25659	339.1	343.4
+	"Washington Parish, LA"	"22117"	142	23693	599.3	488.4
+	"Webster Parish, LA"	"22119"	102	20316	502.1	399.8
+	"West Baton Rouge Parish, LA"	"22121"	47	13737	342.1	299.4
+	"West Carroll Parish, LA"	"22123"	23	5715	402.4	335.8
+	"West Feliciana Parish, LA"	"22125"	38	9967	381.3	311.0
+	"Winn Parish, LA"	"22127"	47	7921	593.4	514.9
+	"Androscoggin County, ME"	"23001"	145	57087	254.0	192.1
+	"Aroostook County, ME"	"23003"	112	36099	310.3	210.7
+	"Cumberland County, ME"	"23005"	287	158247	181.4	140.5
+	"Franklin County, ME"	"23007"	48	15672	306.3	210.1
+	"Hancock County, ME"	"23009"	79	29213	270.4	201.7
+	"Kennebec County, ME"	"23011"	191	65324	292.4	209.1
+	"Knox County, ME"	"23013"	50	20882	239.4	182.1
+	"Lincoln County, ME"	"23015"	53	17338	305.7	209.6
+	"Oxford County, ME"	"23017"	90	30951	290.8	207.9
+	"Penobscot County, ME"	"23019"	202	82026	246.3	181.6
+	"Piscataquis County, ME"	"23021"	33	8937	369.3	219.6
+	"Sagadahoc County, ME"	"23023"	38	19036	199.6	136.9
+	"Somerset County, ME"	"23025"	77	27767	277.3	202.9
+	"Waldo County, ME"	"23027"	61	20810	293.1	205.6
+	"Washington County, ME"	"23029"	54	16362	330.0	230.1
+	"York County, ME"	"23031"	232	109232	212.4	159.2
+	"Allegany County, MD"	"24001"	118	36804	320.6	261.0
+	"Anne Arundel County, MD"	"24003"	711	307398	231.3	192.1
+	"Baltimore County, MD"	"24005"	1092	439577	248.4	203.7
+	"Calvert County, MD"	"24009"	123	49014	250.9	186.5
+	"Caroline County, MD"	"24011"	63	17036	369.8	296.7
+	"Carroll County, MD"	"24013"	204	89245	228.6	174.6
+	"Cecil County, MD"	"24015"	160	55343	289.1	229.1
+	"Charles County, MD"	"24017"	193	84685	227.9	191.9
+	"Dorchester County, MD"	"24019"	61	16715	364.9	282.1
+	"Frederick County, MD"	"24021"	256	132298	193.5	157.4
+	"Garrett County, MD"	"24023"	40	15336	260.8	186.8
+	"Harford County, MD"	"24025"	292	134866	216.5	166.4
+	"Howard County, MD"	"24027"	205	170295	120.4	101.6
+	"Kent County, MD"	"24029"	24	9232	260.0	189.6
+	"Montgomery County, MD"	"24031"	693	566277	122.4	103.0
+	"Prince George's County, MD"	"24033"	1232	500935	245.9	216.5
+	"Queen Anne's County, MD"	"24035"	77	25779	298.7	211.3
+	"St. Mary's County, MD"	"24037"	136	58991	230.5	197.3
+	"Somerset County, MD"	"24039"	38	12681	299.7	246.3
+	"Talbot County, MD"	"24041"	43	18079	237.8	167.9
+	"Washington County, MD"	"24043"	230	80138	287.0	237.4
+	"Wicomico County, MD"	"24045"	165	48882	337.5	262.4
+	"Worcester County, MD"	"24047"	88	25599	343.8	240.2
+	"Baltimore city, MD"	"24510"	1570	346183	453.5	414.7
+	"Barnstable County, MA"	"25001"	259	105490	245.5	160.5
+	"Berkshire County, MA"	"25003"	192	66195	290.1	202.1
+	"Bristol County, MA"	"25005"	690	296708	232.6	185.5
+	"Dukes County, MA"	"25007"	12	9581	Unreliable	Unreliable
+	"Essex County, MA"	"25009"	777	408118	190.4	144.6
+	"Franklin County, MA"	"25011"	99	39560	250.3	188.3
+	"Hampden County, MA"	"25013"	579	240497	240.8	192.0
+	"Hampshire County, MA"	"25015"	163	74442	219.0	158.1
+	"Middlesex County, MA"	"25017"	1169	874663	133.7	113.8
+	"Nantucket County, MA"	"25019"	16	6452	Unreliable	Unreliable
+	"Norfolk County, MA"	"25021"	598	374110	159.8	125.7
+	"Plymouth County, MA"	"25023"	581	266424	218.1	161.7
+	"Suffolk County, MA"	"25025"	663	438663	151.1	160.2
+	"Worcester County, MA"	"25027"	953	439140	217.0	170.9
+	"Alcona County, MI"	"26001"	29	4891	592.9	308.5
+	"Alger County, MI"	"26003"	14	5113	Unreliable	Unreliable
+	"Allegan County, MI"	"26005"	149	59219	251.6	188.7
+	"Alpena County, MI"	"26007"	51	14942	341.3	244.0
+	"Antrim County, MI"	"26009"	37	11462	322.8	208.4
+	"Arenac County, MI"	"26011"	36	7978	451.2	318.4
+	"Baraga County, MI"	"26013"	17	4659	Unreliable	Unreliable
+	"Barry County, MI"	"26015"	72	30936	232.7	162.6
+	"Bay County, MI"	"26017"	171	55659	307.2	227.9
+	"Benzie County, MI"	"26019"	19	8830	Unreliable	Unreliable
+	"Berrien County, MI"	"26021"	287	79252	362.1	272.1
+	"Branch County, MI"	"26023"	68	22588	301.0	227.8
+	"Calhoun County, MI"	"26025"	265	68957	384.3	286.6
+	"Cass County, MI"	"26027"	77	26488	290.7	198.7
+	"Charlevoix County, MI"	"26029"	33	13393	246.4	190.4
+	"Cheboygan County, MI"	"26031"	56	13029	429.8	303.6
+	"Chippewa County, MI"	"26033"	55	20300	270.9	215.4
+	"Clare County, MI"	"26035"	75	15565	481.9	341.4
+	"Clinton County, MI"	"26037"	75	40667	184.4	151.4
+	"Crawford County, MI"	"26039"	27	7042	383.4	244.1
+	"Delta County, MI"	"26041"	52	18637	279.0	187.0
+	"Dickinson County, MI"	"26043"	29	13512	214.6	152.5
+	"Eaton County, MI"	"26045"	141	57389	245.7	188.8
+	"Emmet County, MI"	"26047"	38	17196	221.0	158.0
+	"Genesee County, MI"	"26049"	822	213612	384.8	296.3
+	"Gladwin County, MI"	"26051"	41	12463	329.0	196.3
+	"Gogebic County, MI"	"26053"	29	8354	347.1	271.3
+	"Grand Traverse County, MI"	"26055"	89	49004	181.6	136.1
+	"Gratiot County, MI"	"26057"	54	21546	250.6	200.4
+	"Hillsdale County, MI"	"26059"	81	23071	351.1	265.4
+	"Houghton County, MI"	"26061"	41	15359	266.9	224.6
+	"Huron County, MI"	"26063"	69	16019	430.7	304.2
+	"Ingham County, MI"	"26065"	354	135293	261.7	218.4
+	"Ionia County, MI"	"26067"	88	34882	252.3	205.0
+	"Iosco County, MI"	"26069"	56	12421	450.8	310.7
+	"Iron County, MI"	"26071"	15	5624	Unreliable	Unreliable
+	"Isabella County, MI"	"26073"	69	29704	232.3	197.3
+	"Jackson County, MI"	"26075"	249	83881	296.8	233.3
+	"Kalamazoo County, MI"	"26077"	305	124590	244.8	199.8
+	"Kalkaska County, MI"	"26079"	36	9107	395.3	248.9
+	"Kent County, MI"	"26081"	687	332410	206.7	177.3
+	"Keweenaw County, MI"	"26083"	Suppressed	1027	Suppressed	Suppressed
+	"Lake County, MI"	"26085"	28	5819	481.2	412.2
+	"Lapeer County, MI"	"26087"	119	47297	251.6	173.8
+	"Leelanau County, MI"	"26089"	25	10571	236.5	176.5
+	"Lenawee County, MI"	"26091"	160	51267	312.1	230.5
+	"Livingston County, MI"	"26093"	209	100457	208.0	153.3
+	"Luce County, MI"	"26095"	11	3575	Unreliable	Unreliable
+	"Mackinac County, MI"	"26097"	15	5672	Unreliable	Unreliable
+	"Macomb County, MI"	"26099"	1241	464002	267.5	209.6
+	"Manistee County, MI"	"26101"	44	12543	350.8	238.6
+	"Marquette County, MI"	"26103"	95	33649	282.3	205.5
+	"Mason County, MI"	"26105"	37	14539	254.5	175.5
+	"Mecosta County, MI"	"26107"	54	19090	282.9	202.4
+	"Menominee County, MI"	"26109"	33	12283	268.7	198.9
+	"Midland County, MI"	"26111"	96	43822	219.1	169.6
+	"Missaukee County, MI"	"26113"	26	7531	345.2	223.1
+	"Monroe County, MI"	"26115"	232	80050	289.8	215.4
+	"Montcalm County, MI"	"26117"	101	33179	304.4	231.1
+	"Montmorency County, MI"	"26119"	17	4647	Unreliable	Unreliable
+	"Muskegon County, MI"	"26121"	269	89835	299.4	235.6
+	"Newaygo County, MI"	"26123"	76	24350	312.1	217.6
+	"Oakland County, MI"	"26125"	1485	676241	219.6	170.4
+	"Oceana County, MI"	"26127"	51	12880	396.0	292.6
+	"Ogemaw County, MI"	"26129"	43	10473	410.6	299.3
+	"Ontonagon County, MI"	"26131"	16	3088	Unreliable	Unreliable
+	"Osceola County, MI"	"26133"	35	11526	303.7	205.2
+	"Oscoda County, MI"	"26135"	14	4062	Unreliable	Unreliable
+	"Otsego County, MI"	"26137"	36	12327	292.0	210.6
+	"Ottawa County, MI"	"26139"	224	133545	167.7	136.2
+	"Presque Isle County, MI"	"26141"	13	6382	Unreliable	Unreliable
+	"Roscommon County, MI"	"26143"	50	11755	425.4	245.6
+	"Saginaw County, MI"	"26145"	313	98230	318.6	247.6
+	"St. Clair County, MI"	"26147"	269	84934	316.7	230.7
+	"St. Joseph County, MI"	"26149"	105	30632	342.8	262.6
+	"Sanilac County, MI"	"26151"	77	21072	365.4	269.5
+	"Schoolcraft County, MI"	"26153"	11	4171	Unreliable	Unreliable
+	"Shiawassee County, MI"	"26155"	112	36083	310.4	225.8
+	"Tuscola County, MI"	"26157"	91	28133	323.5	226.1
+	"Van Buren County, MI"	"26159"	116	38844	298.6	223.1
+	"Washtenaw County, MI"	"26161"	336	178916	187.8	160.2
+	"Wayne County, MI"	"26163"	3587	921986	389.1	314.3
+	"Wexford County, MI"	"26165"	50	16847	296.8	218.0
+	"Aitkin County, MN"	"27001"	22	7410	296.9	163.3
+	"Anoka County, MN"	"27003"	308	189881	162.2	134.7
+	"Becker County, MN"	"27005"	39	16362	238.4	162.7
+	"Beltrami County, MN"	"27007"	61	21153	288.4	240.5
+	"Benton County, MN"	"27009"	37	20998	176.2	156.5
+	"Big Stone County, MN"	"27011"	Suppressed	2402	Suppressed	Suppressed
+	"Blue Earth County, MN"	"27013"	51	30264	168.5	151.7
+	"Brown County, MN"	"27015"	25	12252	204.0	130.0
+	"Carlton County, MN"	"27017"	55	18955	290.2	208.4
+	"Carver County, MN"	"27019"	52	52656	98.8	81.8
+	"Cass County, MN"	"27021"	48	13855	346.4	226.2
+	"Chippewa County, MN"	"27023"	11	5914	Unreliable	Unreliable
+	"Chisago County, MN"	"27025"	54	29455	183.3	143.3
+	"Clay County, MN"	"27027"	59	29209	202.0	174.0
+	"Clearwater County, MN"	"27029"	19	4274	Unreliable	Unreliable
+	"Cook County, MN"	"27031"	Suppressed	2810	Suppressed	Suppressed
+	"Cottonwood County, MN"	"27033"	17	5396	Unreliable	Unreliable
+	"Crow Wing County, MN"	"27035"	81	31471	257.4	191.7
+	"Dakota County, MN"	"27037"	325	226282	143.6	117.4
+	"Dodge County, MN"	"27039"	13	10502	Unreliable	Unreliable
+	"Douglas County, MN"	"27041"	41	18217	225.1	173.5
+	"Faribault County, MN"	"27043"	17	6943	Unreliable	Unreliable
+	"Fillmore County, MN"	"27045"	16	10141	Unreliable	Unreliable
+	"Freeborn County, MN"	"27047"	47	15278	307.6	225.3
+	"Goodhue County, MN"	"27049"	52	23827	218.2	148.3
+	"Grant County, MN"	"27051"	13	2892	Unreliable	Unreliable
+	"Hennepin County, MN"	"27053"	1086	682483	159.1	141.4
+	"Houston County, MN"	"27055"	13	9691	Unreliable	Unreliable
+	"Hubbard County, MN"	"27057"	19	10171	Unreliable	Unreliable
+	"Isanti County, MN"	"27059"	50	20445	244.6	193.4
+	"Itasca County, MN"	"27061"	62	23050	269.0	206.2
+	"Jackson County, MN"	"27063"	11	5130	Unreliable	Unreliable
+	"Kanabec County, MN"	"27065"	15	8342	Unreliable	Unreliable
+	"Kandiyohi County, MN"	"27067"	46	21187	217.1	154.9
+	"Kittson County, MN"	"27069"	Suppressed	2162	Suppressed	Suppressed
+	"Koochiching County, MN"	"27071"	17	6672	Unreliable	Unreliable
+	"Lac qui Parle County, MN"	"27073"	Suppressed	3308	Suppressed	Suppressed
+	"Lake County, MN"	"27075"	14	5410	Unreliable	Unreliable
+	"Lake of the Woods County, MN"	"27077"	Suppressed	2092	Suppressed	Suppressed
+	"Le Sueur County, MN"	"27079"	19	14467	Unreliable	Unreliable
+	"Lincoln County, MN"	"27081"	Suppressed	2705	Suppressed	Suppressed
+	"Lyon County, MN"	"27083"	12	12824	Unreliable	Unreliable
+	"McLeod County, MN"	"27085"	31	18284	169.5	147.2
+	"Mahnomen County, MN"	"27087"	10	2459	Unreliable	Unreliable
+	"Marshall County, MN"	"27089"	Suppressed	4688	Suppressed	Suppressed
+	"Martin County, MN"	"27091"	29	9991	290.3	190.0
+	"Meeker County, MN"	"27093"	28	11592	241.5	175.8
+	"Mille Lacs County, MN"	"27095"	39	13061	298.6	240.7
+	"Morrison County, MN"	"27097"	30	16923	177.3	128.9
+	"Mower County, MN"	"27099"	39	19393	201.1	157.1
+	"Murray County, MN"	"27101"	Suppressed	4040	Suppressed	Suppressed
+	"Nicollet County, MN"	"27103"	12	16830	Unreliable	Unreliable
+	"Nobles County, MN"	"27105"	21	10514	199.7	152.1
+	"Norman County, MN"	"27107"	Suppressed	3164	Suppressed	Suppressed
+	"Olmsted County, MN"	"27109"	127	80554	157.7	136.7
+	"Otter Tail County, MN"	"27111"	65	28224	230.3	155.0
+	"Pennington County, MN"	"27113"	11	7306	Unreliable	Unreliable
+	"Pine County, MN"	"27115"	43	15736	273.3	205.7
+	"Pipestone County, MN"	"27117"	11	4430	Unreliable	Unreliable
+	"Polk County, MN"	"27119"	43	15657	274.6	210.5
+	"Pope County, MN"	"27121"	11	5434	Unreliable	Unreliable
+	"Ramsey County, MN"	"27123"	504	281724	178.9	156.6
+	"Red Lake County, MN"	"27125"	Suppressed	2044	Suppressed	Suppressed
+	"Redwood County, MN"	"27127"	14	7406	Unreliable	Unreliable
+	"Renville County, MN"	"27129"	23	7501	306.6	236.3
+	"Rice County, MN"	"27131"	38	31761	119.6	90.6
+	"Rock County, MN"	"27133"	Suppressed	4524	Suppressed	Suppressed
+	"Roseau County, MN"	"27135"	21	8113	258.8	198.4
+	"St. Louis County, MN"	"27137"	243	102074	238.1	172.4
+	"Scott County, MN"	"27139"	94	76245	123.3	112.0
+	"Sherburne County, MN"	"27141"	56	49353	113.5	101.7
+	"Sibley County, MN"	"27143"	15	7551	Unreliable	Unreliable
+	"Stearns County, MN"	"27145"	120	73642	163.0	129.2
+	"Steele County, MN"	"27147"	32	18620	171.9	137.2
+	"Stevens County, MN"	"27149"	Suppressed	4166	Suppressed	Suppressed
+	"Swift County, MN"	"27151"	Suppressed	4682	Suppressed	Suppressed
+	"Todd County, MN"	"27153"	28	11927	234.8	171.4
+	"Traverse County, MN"	"27155"	Suppressed	1574	Suppressed	Suppressed
+	"Wabasha County, MN"	"27157"	15	11032	Unreliable	Unreliable
+	"Wadena County, MN"	"27159"	18	6378	Unreliable	Unreliable
+	"Waseca County, MN"	"27161"	16	10106	Unreliable	Unreliable
+	"Washington County, MN"	"27163"	195	134698	144.8	116.6
+	"Watonwan County, MN"	"27165"	Suppressed	5336	Suppressed	Suppressed
+	"Wilkin County, MN"	"27167"	10	3325	Unreliable	Unreliable
+	"Winona County, MN"	"27169"	47	23124	203.3	160.7
+	"Wright County, MN"	"27171"	97	68631	141.3	122.1
+	"Yellow Medicine County, MN"	"27173"	Suppressed	4961	Suppressed	Suppressed
+	"Adams County, MS"	"28001"	87	17052	510.2	411.6
+	"Alcorn County, MS"	"28003"	72	19045	378.1	307.1
+	"Amite County, MS"	"28005"	34	6367	534.0	333.3
+	"Attala County, MS"	"28007"	39	9053	430.8	351.0
+	"Benton County, MS"	"28009"	21	4281	490.5	363.3
+	"Bolivar County, MS"	"28011"	95	16643	570.8	491.1
+	"Calhoun County, MS"	"28013"	39	7402	526.9	404.8
+	"Carroll County, MS"	"28015"	29	5275	549.8	352.5
+	"Chickasaw County, MS"	"28017"	29	8617	336.5	268.9
+	"Choctaw County, MS"	"28019"	18	4171	Unreliable	Unreliable
+	"Claiborne County, MS"	"28021"	27	4081	661.6	468.5
+	"Clarke County, MS"	"28023"	37	8186	452.0	344.0
+	"Clay County, MS"	"28025"	43	10125	424.7	343.1
+	"Coahoma County, MS"	"28027"	79	11909	663.4	549.4
+	"Copiah County, MS"	"28029"	73	14350	508.7	418.2
+	"Covington County, MS"	"28031"	34	9570	355.3	263.9
+	"DeSoto County, MS"	"28033"	273	90161	302.8	266.6
+	"Forrest County, MS"	"28035"	150	36441	411.6	375.5
+	"Franklin County, MS"	"28037"	17	3929	Unreliable	Unreliable
+	"George County, MS"	"28039"	48	11653	411.9	352.3
+	"Greene County, MS"	"28041"	18	8255	Unreliable	Unreliable
+	"Grenada County, MS"	"28043"	59	10941	539.3	451.0
+	"Hancock County, MS"	"28045"	89	24204	367.7	266.6
+	"Harrison County, MS"	"28047"	391	103483	377.8	325.4
+	"Hinds County, MS"	"28049"	533	124279	428.9	381.3
+	"Holmes County, MS"	"28051"	53	8668	611.4	522.8
+	"Humphreys County, MS"	"28053"	25	4303	581.0	538.8
+	"Issaquena County, MS"	"28055"	Suppressed	796	Suppressed	Suppressed
+	"Itawamba County, MS"	"28057"	50	11639	429.6	351.1
+	"Jackson County, MS"	"28059"	250	74578	335.2	267.9
+	"Jasper County, MS"	"28061"	41	8267	495.9	343.2
+	"Jefferson County, MS"	"28063"	24	4036	594.6	451.8
+	"Jefferson Davis County, MS"	"28065"	37	5963	620.5	458.6
+	"Jones County, MS"	"28067"	123	33856	363.3	288.1
+	"Kemper County, MS"	"28069"	24	5031	477.0	365.1
+	"Lafayette County, MS"	"28071"	63	23388	269.4	256.5
+	"Lamar County, MS"	"28073"	77	32032	240.4	217.4
+	"Lauderdale County, MS"	"28075"	156	40430	385.9	325.6
+	"Lawrence County, MS"	"28077"	30	6442	465.7	399.4
+	"Leake County, MS"	"28079"	51	11233	454.0	366.7
+	"Lee County, MS"	"28081"	181	43699	414.2	353.8
+	"Leflore County, MS"	"28083"	87	15345	567.0	492.9
+	"Lincoln County, MS"	"28085"	81	17730	456.9	362.1
+	"Lowndes County, MS"	"28087"	108	30528	353.8	305.6
+	"Madison County, MS"	"28089"	171	54105	316.1	266.8
+	"Marion County, MS"	"28091"	68	13095	519.3	418.9
+	"Marshall County, MS"	"28093"	103	19225	535.8	429.9
+	"Monroe County, MS"	"28095"	72	18283	393.8	304.4
+	"Montgomery County, MS"	"28097"	27	5164	522.9	385.9
+	"Neshoba County, MS"	"28099"	85	14291	594.8	489.2
+	"Newton County, MS"	"28101"	54	10429	517.8	437.6
+	"Noxubee County, MS"	"28103"	17	5431	Unreliable	Unreliable
+	"Oktibbeha County, MS"	"28105"	68	19996	340.1	314.8
+	"Panola County, MS"	"28107"	103	17334	594.2	472.3
+	"Pearl River County, MS"	"28109"	121	27713	436.6	335.9
+	"Perry County, MS"	"28111"	32	6184	517.5	387.8
+	"Pike County, MS"	"28113"	111	19310	574.8	450.7
+	"Pontotoc County, MS"	"28115"	44	15773	279.0	234.2
+	"Prentiss County, MS"	"28117"	51	12532	407.0	333.5
+	"Quitman County, MS"	"28119"	26	3883	669.6	578.3
+	"Rankin County, MS"	"28121"	225	80620	279.1	246.7
+	"Scott County, MS"	"28123"	58	14337	404.5	344.8
+	"Sharkey County, MS"	"28125"	16	2306	Unreliable	Unreliable
+	"Simpson County, MS"	"28127"	55	13853	397.0	299.1
+	"Smith County, MS"	"28129"	31	8097	382.9	262.5
+	"Stone County, MS"	"28131"	32	9062	353.1	278.4
+	"Sunflower County, MS"	"28133"	79	14745	535.8	477.0
+	"Tallahatchie County, MS"	"28135"	36	8101	444.4	420.5
+	"Tate County, MS"	"28137"	59	13925	423.7	327.6
+	"Tippah County, MS"	"28139"	51	11063	461.0	381.3
+	"Tishomingo County, MS"	"28141"	53	9751	543.5	407.6
+	"Tunica County, MS"	"28143"	27	5327	506.9	450.2
+	"Union County, MS"	"28145"	42	14196	295.9	258.2
+	"Walthall County, MS"	"28147"	36	7332	491.0	406.3
+	"Warren County, MS"	"28149"	126	24846	507.1	391.1
+	"Washington County, MS"	"28151"	136	24471	555.8	431.2
+	"Wayne County, MS"	"28153"	48	10301	466.0	382.1
+	"Webster County, MS"	"28155"	28	5109	548.1	416.9
+	"Wilkinson County, MS"	"28157"	24	4936	486.2	396.5
+	"Winston County, MS"	"28159"	35	9359	374.0	289.0
+	"Yalobusha County, MS"	"28161"	29	6242	464.6	396.0
+	"Yazoo County, MS"	"28163"	76	15163	501.2	453.8
+	"Adair County, MO"	"29001"	44	10534	417.7	332.5
+	"Andrew County, MO"	"29003"	21	8995	233.5	185.8
+	"Atchison County, MO"	"29005"	Suppressed	2639	Suppressed	Suppressed
+	"Audrain County, MO"	"29007"	48	13291	361.1	288.7
+	"Barry County, MO"	"29009"	83	17491	474.5	379.3
+	"Barton County, MO"	"29011"	22	5816	378.3	294.9
+	"Bates County, MO"	"29013"	25	8256	302.8	250.0
+	"Benton County, MO"	"29015"	38	9020	421.3	285.5
+	"Bollinger County, MO"	"29017"	24	6399	375.1	274.4
+	"Boone County, MO"	"29019"	153	83633	182.9	166.0
+	"Buchanan County, MO"	"29021"	175	46843	373.6	301.9
+	"Butler County, MO"	"29023"	106	21752	487.3	377.4
+	"Caldwell County, MO"	"29025"	15	4495	Unreliable	Unreliable
+	"Callaway County, MO"	"29027"	45	23632	190.4	147.1
+	"Camden County, MO"	"29029"	83	22225	373.5	253.8
+	"Cape Girardeau County, MO"	"29031"	106	37715	281.1	219.8
+	"Carroll County, MO"	"29033"	18	4393	Unreliable	Unreliable
+	"Carter County, MO"	"29035"	Suppressed	3168	Suppressed	Suppressed
+	"Cass County, MO"	"29037"	134	52061	257.4	209.7
+	"Cedar County, MO"	"29039"	32	6414	498.9	390.2
+	"Chariton County, MO"	"29041"	13	3701	Unreliable	Unreliable
+	"Christian County, MO"	"29043"	98	42749	229.2	195.0
+	"Clark County, MO"	"29045"	11	3484	Unreliable	Unreliable
+	"Clay County, MO"	"29047"	250	126188	198.1	170.0
+	"Clinton County, MO"	"29049"	35	10409	336.2	238.3
+	"Cole County, MO"	"29051"	100	41295	242.2	186.8
+	"Cooper County, MO"	"29053"	13	9096	Unreliable	Unreliable
+	"Crawford County, MO"	"29055"	48	12587	381.3	290.6
+	"Dade County, MO"	"29057"	17	3803	Unreliable	Unreliable
+	"Dallas County, MO"	"29059"	26	8169	318.3	230.6
+	"Daviess County, MO"	"29061"	14	3918	Unreliable	Unreliable
+	"DeKalb County, MO"	"29063"	22	7519	292.6	275.3
+	"Dent County, MO"	"29065"	30	7708	389.2	325.8
+	"Douglas County, MO"	"29067"	24	6721	357.1	262.1
+	"Dunklin County, MO"	"29069"	93	15186	612.4	482.0
+	"Franklin County, MO"	"29071"	157	53603	292.9	231.6
+	"Gasconade County, MO"	"29073"	20	7434	269.0	166.3
+	"Gentry County, MO"	"29075"	10	3251	Unreliable	Unreliable
+	"Greene County, MO"	"29077"	439	141685	309.8	260.0
+	"Grundy County, MO"	"29079"	19	4703	Unreliable	Unreliable
+	"Harrison County, MO"	"29081"	16	4071	Unreliable	Unreliable
+	"Henry County, MO"	"29083"	47	11037	425.8	302.8
+	"Hickory County, MO"	"29085"	23	4215	545.7	365.1
+	"Holt County, MO"	"29087"	Suppressed	2288	Suppressed	Suppressed
+	"Howard County, MO"	"29089"	17	4923	Unreliable	Unreliable
+	"Howell County, MO"	"29091"	81	19771	409.7	333.8
+	"Iron County, MO"	"29093"	41	5363	764.5	522.3
+	"Jackson County, MO"	"29095"	1119	366576	305.3	262.2
+	"Jasper County, MO"	"29097"	219	59913	365.5	305.3
+	"Jefferson County, MO"	"29099"	395	121755	324.4	259.4
+	"Johnson County, MO"	"29101"	61	24695	247.0	213.0
+	"Knox County, MO"	"29103"	Suppressed	1888	Suppressed	Suppressed
+	"Laclede County, MO"	"29105"	66	17925	368.2	281.8
+	"Lafayette County, MO"	"29107"	62	16518	375.3	269.3
+	"Lawrence County, MO"	"29109"	74	18687	396.0	319.3
+	"Lewis County, MO"	"29111"	13	4771	Unreliable	Unreliable
+	"Lincoln County, MO"	"29113"	89	28669	310.4	233.9
+	"Linn County, MO"	"29115"	22	5946	370.0	276.6
+	"Livingston County, MO"	"29117"	31	7758	399.6	299.0
+	"McDonald County, MO"	"29119"	59	11683	505.0	402.3
+	"Macon County, MO"	"29121"	30	7448	402.8	325.3
+	"Madison County, MO"	"29123"	21	6166	340.6	282.1
+	"Maries County, MO"	"29125"	16	4650	Unreliable	Unreliable
+	"Marion County, MO"	"29127"	57	14583	390.9	309.8
+	"Mercer County, MO"	"29129"	Suppressed	1777	Suppressed	Suppressed
+	"Miller County, MO"	"29131"	46	12762	360.4	274.5
+	"Mississippi County, MO"	"29133"	27	7526	358.8	307.6
+	"Moniteau County, MO"	"29135"	23	8262	278.4	249.2
+	"Monroe County, MO"	"29137"	13	4279	Unreliable	Unreliable
+	"Montgomery County, MO"	"29139"	30	5955	503.8	377.7
+	"Morgan County, MO"	"29141"	52	9594	542.0	363.7
+	"New Madrid County, MO"	"29143"	49	9275	528.3	406.0
+	"Newton County, MO"	"29145"	113	29034	389.2	300.3
+	"Nodaway County, MO"	"29147"	21	9412	223.1	181.0
+	"Oregon County, MO"	"29149"	18	5259	Unreliable	Unreliable
+	"Osage County, MO"	"29151"	21	6951	302.1	234.0
+	"Ozark County, MO"	"29153"	22	4548	483.7	427.7
+	"Pemiscot County, MO"	"29155"	54	8636	625.3	478.1
+	"Perry County, MO"	"29157"	21	9827	213.7	167.0
+	"Pettis County, MO"	"29159"	50	21370	234.0	195.7
+	"Phelps County, MO"	"29161"	75	20718	362.0	308.4
+	"Pike County, MO"	"29163"	37	9790	377.9	311.3
+	"Platte County, MO"	"29165"	92	51841	177.5	140.4
+	"Polk County, MO"	"29167"	56	14494	386.4	305.0
+	"Pulaski County, MO"	"29169"	63	24936	252.6	284.8
+	"Putnam County, MO"	"29171"	13	2297	Unreliable	Unreliable
+	"Ralls County, MO"	"29173"	13	5346	Unreliable	Unreliable
+	"Randolph County, MO"	"29175"	46	13330	345.1	278.4
+	"Ray County, MO"	"29177"	41	11814	347.0	241.6
+	"Reynolds County, MO"	"29179"	24	3265	735.1	518.1
+	"Ripley County, MO"	"29181"	26	7002	371.3	308.9
+	"St. Charles County, MO"	"29183"	372	203580	182.7	148.3
+	"St. Clair County, MO"	"29185"	26	4587	566.8	371.2
+	"Ste. Genevieve County, MO"	"29186"	27	9428	286.4	183.8
+	"St. Francois County, MO"	"29187"	150	35727	419.9	353.8
+	"St. Louis County, MO"	"29189"	1362	523812	260.0	203.2
+	"Saline County, MO"	"29195"	39	11355	343.5	280.5
+	"Schuyler County, MO"	"29197"	Suppressed	2056	Suppressed	Suppressed
+	"Scotland County, MO"	"29199"	Suppressed	2171	Suppressed	Suppressed
+	"Scott County, MO"	"29201"	86	19830	433.7	344.2
+	"Shannon County, MO"	"29203"	18	4196	Unreliable	Unreliable
+	"Shelby County, MO"	"29205"	Suppressed	3013	Suppressed	Suppressed
+	"Stoddard County, MO"	"29207"	73	15102	483.4	390.5
+	"Stone County, MO"	"29209"	61	15181	401.8	254.6
+	"Sullivan County, MO"	"29211"	15	3240	Unreliable	Unreliable
+	"Taney County, MO"	"29213"	73	26502	275.5	224.7
+	"Texas County, MO"	"29215"	52	13029	399.1	309.5
+	"Vernon County, MO"	"29217"	45	10303	436.8	310.3
+	"Warren County, MO"	"29219"	53	17154	309.0	241.6
+	"Washington County, MO"	"29221"	71	13471	527.1	420.8
+	"Wayne County, MO"	"29223"	36	6784	530.7	316.7
+	"Webster County, MO"	"29225"	38	18565	204.7	162.8
+	"Worth County, MO"	"29227"	Suppressed	995	Suppressed	Suppressed
+	"Wright County, MO"	"29229"	43	8840	486.4	356.5
+	"St. Louis city, MO"	"29510"	680	183392	370.8	343.3
+	"Beaverhead County, MT"	"30001"	20	4456	448.8	340.9
+	"Big Horn County, MT"	"30003"	15	6085	Unreliable	Unreliable
+	"Blaine County, MT"	"30005"	10	3080	Unreliable	Unreliable
+	"Broadwater County, MT"	"30007"	Suppressed	2947	Suppressed	Suppressed
+	"Carbon County, MT"	"30009"	Suppressed	5523	Suppressed	Suppressed
+	"Carter County, MT"	"30011"	Suppressed	601	Suppressed	Suppressed
+	"Cascade County, MT"	"30013"	109	41245	264.3	206.9
+	"Chouteau County, MT"	"30015"	Suppressed	2863	Suppressed	Suppressed
+	"Custer County, MT"	"30017"	11	6137	Unreliable	Unreliable
+	"Daniels County, MT"	"30019"	Suppressed	865	Suppressed	Suppressed
+	"Dawson County, MT"	"30021"	Suppressed	4906	Suppressed	Suppressed
+	"Deer Lodge County, MT"	"30023"	18	4944	Unreliable	Unreliable
+	"Fallon County, MT"	"30025"	Suppressed	1590	Suppressed	Suppressed
+	"Fergus County, MT"	"30027"	22	5746	382.9	241.5
+	"Flathead County, MT"	"30029"	126	50386	250.1	176.1
+	"Gallatin County, MT"	"30031"	64	50838	125.9	112.5
+	"Garfield County, MT"	"30033"	Suppressed	638	Suppressed	Suppressed
+	"Glacier County, MT"	"30035"	18	6581	Unreliable	Unreliable
+	"Golden Valley County, MT"	"30037"	Suppressed	419	Suppressed	Suppressed
+	"Granite County, MT"	"30039"	Suppressed	1609	Suppressed	Suppressed
+	"Hill County, MT"	"30041"	22	8081	272.2	219.5
+	"Jefferson County, MT"	"30043"	13	6221	Unreliable	Unreliable
+	"Judith Basin County, MT"	"30045"	Suppressed	1032	Suppressed	Suppressed
+	"Lake County, MT"	"30047"	26	14004	185.7	117.5
+	"Lewis and Clark County, MT"	"30049"	62	35304	175.6	139.2
+	"Liberty County, MT"	"30051"	Suppressed	1204	Suppressed	Suppressed
+	"Lincoln County, MT"	"30053"	32	9850	324.9	176.0
+	"McCone County, MT"	"30055"	Suppressed	845	Suppressed	Suppressed
+	"Madison County, MT"	"30057"	Suppressed	4044	Suppressed	Suppressed
+	"Meagher County, MT"	"30059"	Suppressed	892	Suppressed	Suppressed
+	"Mineral County, MT"	"30061"	Suppressed	2121	Suppressed	Suppressed
+	"Missoula County, MT"	"30063"	116	57919	200.3	168.6
+	"Musselshell County, MT"	"30065"	11	2426	Unreliable	Unreliable
+	"Park County, MT"	"30067"	23	8819	260.8	148.0
+	"Petroleum County, MT"	"30069"	Suppressed	243	Suppressed	Suppressed
+	"Phillips County, MT"	"30071"	Suppressed	2057	Suppressed	Suppressed
+	"Pondera County, MT"	"30073"	11	3012	Unreliable	Unreliable
+	"Powder River County, MT"	"30075"	Suppressed	900	Suppressed	Suppressed
+	"Powell County, MT"	"30077"	14	3984	Unreliable	Unreliable
+	"Prairie County, MT"	"30079"	Suppressed	531	Suppressed	Suppressed
+	"Ravalli County, MT"	"30081"	65	20564	316.1	204.3
+	"Richland County, MT"	"30083"	11	6150	Unreliable	Unreliable
+	"Roosevelt County, MT"	"30085"	39	5392	723.3	682.9
+	"Rosebud County, MT"	"30087"	15	4555	Unreliable	Unreliable
+	"Sanders County, MT"	"30089"	28	5630	497.3	350.4
+	"Sheridan County, MT"	"30091"	Suppressed	1900	Suppressed	Suppressed
+	"Silver Bow County, MT"	"30093"	63	17512	359.8	259.4
+	"Stillwater County, MT"	"30095"	10	4834	Unreliable	Unreliable
+	"Sweet Grass County, MT"	"30097"	Suppressed	1748	Suppressed	Suppressed
+	"Teton County, MT"	"30099"	Suppressed	2890	Suppressed	Suppressed
+	"Toole County, MT"	"30101"	Suppressed	2875	Suppressed	Suppressed
+	"Treasure County, MT"	"30103"	Suppressed	345	Suppressed	Suppressed
+	"Valley County, MT"	"30105"	10	3774	Unreliable	Unreliable
+	"Wheatland County, MT"	"30107"	Suppressed	978	Suppressed	Suppressed
+	"Wibaux County, MT"	"30109"	Suppressed	523	Suppressed	Suppressed
+	"Yellowstone County, MT"	"30111"	162	81797	198.1	157.5
+	"Adams County, NE"	"31001"	47	15197	309.3	241.5
+	"Antelope County, NE"	"31003"	Suppressed	3043	Suppressed	Suppressed
+	"Arthur County, NE"	"31005"	Suppressed	204	Suppressed	Suppressed
+	"Banner County, NE"	"31007"	Suppressed	347	Suppressed	Suppressed
+	"Blaine County, NE"	"31009"	Suppressed	238	Suppressed	Suppressed
+	"Boone County, NE"	"31011"	Suppressed	2554	Suppressed	Suppressed
+	"Box Butte County, NE"	"31013"	14	5794	Unreliable	Unreliable
+	"Boyd County, NE"	"31015"	Suppressed	897	Suppressed	Suppressed
+	"Brown County, NE"	"31017"	Suppressed	1429	Suppressed	Suppressed
+	"Buffalo County, NE"	"31019"	32	23032	138.9	124.0
+	"Burt County, NE"	"31021"	15	3107	Unreliable	Unreliable
+	"Butler County, NE"	"31023"	Suppressed	4009	Suppressed	Suppressed
+	"Cass County, NE"	"31025"	24	13294	180.5	142.0
+	"Cedar County, NE"	"31027"	Suppressed	4001	Suppressed	Suppressed
+	"Chase County, NE"	"31029"	Suppressed	1932	Suppressed	Suppressed
+	"Cherry County, NE"	"31031"	11	2861	Unreliable	Unreliable
+	"Cheyenne County, NE"	"31033"	10	5322	Unreliable	Unreliable
+	"Clay County, NE"	"31035"	Suppressed	3111	Suppressed	Suppressed
+	"Colfax County, NE"	"31037"	Suppressed	5128	Suppressed	Suppressed
+	"Cuming County, NE"	"31039"	Suppressed	4215	Suppressed	Suppressed
+	"Custer County, NE"	"31041"	15	5208	Unreliable	Unreliable
+	"Dakota County, NE"	"31043"	25	10109	247.3	217.2
+	"Dawes County, NE"	"31045"	11	3815	Unreliable	Unreliable
+	"Dawson County, NE"	"31047"	20	11625	172.0	151.0
+	"Deuel County, NE"	"31049"	Suppressed	956	Suppressed	Suppressed
+	"Dixon County, NE"	"31051"	Suppressed	2779	Suppressed	Suppressed
+	"Dodge County, NE"	"31053"	55	17761	309.7	243.0
+	"Douglas County, NE"	"31055"	605	289494	209.0	187.0
+	"Dundy County, NE"	"31057"	Suppressed	911	Suppressed	Suppressed
+	"Fillmore County, NE"	"31059"	11	2790	Unreliable	Unreliable
+	"Franklin County, NE"	"31061"	Suppressed	1487	Suppressed	Suppressed
+	"Frontier County, NE"	"31063"	Suppressed	1257	Suppressed	Suppressed
+	"Furnas County, NE"	"31065"	10	2342	Unreliable	Unreliable
+	"Gage County, NE"	"31067"	39	10871	358.8	255.3
+	"Garden County, NE"	"31069"	Suppressed	934	Suppressed	Suppressed
+	"Garfield County, NE"	"31071"	Suppressed	951	Suppressed	Suppressed
+	"Gosper County, NE"	"31073"	Suppressed	956	Suppressed	Suppressed
+	"Grant County, NE"	"31075"	Suppressed	336	Suppressed	Suppressed
+	"Greeley County, NE"	"31077"	Suppressed	1148	Suppressed	Suppressed
+	"Hall County, NE"	"31079"	65	30845	210.7	176.7
+	"Hamilton County, NE"	"31081"	Suppressed	4555	Suppressed	Suppressed
+	"Harlan County, NE"	"31083"	Suppressed	1650	Suppressed	Suppressed
+	"Hayes County, NE"	"31085"	Suppressed	447	Suppressed	Suppressed
+	"Hitchcock County, NE"	"31087"	Suppressed	1408	Suppressed	Suppressed
+	"Holt County, NE"	"31089"	10	5041	Unreliable	Unreliable
+	"Hooker County, NE"	"31091"	Suppressed	331	Suppressed	Suppressed
+	"Howard County, NE"	"31093"	10	3121	Unreliable	Unreliable
+	"Jefferson County, NE"	"31095"	16	3619	Unreliable	Unreliable
+	"Johnson County, NE"	"31097"	Suppressed	2883	Suppressed	Suppressed
+	"Kearney County, NE"	"31099"	Suppressed	3292	Suppressed	Suppressed
+	"Keith County, NE"	"31101"	10	4029	Unreliable	Unreliable
+	"Keya Paha County, NE"	"31103"	Suppressed	375	Suppressed	Suppressed
+	"Kimball County, NE"	"31105"	Suppressed	1784	Suppressed	Suppressed
+	"Knox County, NE"	"31107"	Suppressed	3857	Suppressed	Suppressed
+	"Lancaster County, NE"	"31109"	267	149392	178.7	155.5
+	"Lincoln County, NE"	"31111"	45	18156	247.9	208.6
+	"Logan County, NE"	"31113"	Suppressed	378	Suppressed	Suppressed
+	"Loup County, NE"	"31115"	Suppressed	294	Suppressed	Suppressed
+	"McPherson County, NE"	"31117"	Suppressed	248	Suppressed	Suppressed
+	"Madison County, NE"	"31119"	34	17441	194.9	150.4
+	"Merrick County, NE"	"31121"	11	3901	Unreliable	Unreliable
+	"Morrill County, NE"	"31123"	Suppressed	2441	Suppressed	Suppressed
+	"Nance County, NE"	"31125"	Suppressed	1794	Suppressed	Suppressed
+	"Nemaha County, NE"	"31127"	Suppressed	3425	Suppressed	Suppressed
+	"Nuckolls County, NE"	"31129"	Suppressed	2049	Suppressed	Suppressed
+	"Otoe County, NE"	"31131"	19	7811	Unreliable	Unreliable
+	"Pawnee County, NE"	"31133"	Suppressed	1231	Suppressed	Suppressed
+	"Perkins County, NE"	"31135"	Suppressed	1386	Suppressed	Suppressed
+	"Phelps County, NE"	"31137"	Suppressed	4417	Suppressed	Suppressed
+	"Pierce County, NE"	"31139"	Suppressed	3564	Suppressed	Suppressed
+	"Platte County, NE"	"31141"	36	16164	222.7	170.7
+	"Polk County, NE"	"31143"	Suppressed	2607	Suppressed	Suppressed
+	"Red Willow County, NE"	"31145"	14	5323	Unreliable	Unreliable
+	"Richardson County, NE"	"31147"	11	3946	Unreliable	Unreliable
+	"Rock County, NE"	"31149"	Suppressed	747	Suppressed	Suppressed
+	"Saline County, NE"	"31151"	18	6764	Unreliable	Unreliable
+	"Sarpy County, NE"	"31153"	144	91169	157.9	147.0
+	"Saunders County, NE"	"31155"	30	10524	285.1	196.0
+	"Scotts Bluff County, NE"	"31157"	32	17958	178.2	141.1
+	"Seward County, NE"	"31159"	19	7990	Unreliable	Unreliable
+	"Sheridan County, NE"	"31161"	Suppressed	2527	Suppressed	Suppressed
+	"Sherman County, NE"	"31163"	Suppressed	1435	Suppressed	Suppressed
+	"Sioux County, NE"	"31165"	Suppressed	665	Suppressed	Suppressed
+	"Stanton County, NE"	"31167"	Suppressed	3107	Suppressed	Suppressed
+	"Thayer County, NE"	"31169"	Suppressed	2418	Suppressed	Suppressed
+	"Thomas County, NE"	"31171"	Suppressed	351	Suppressed	Suppressed
+	"Thurston County, NE"	"31173"	12	2943	Unreliable	Unreliable
+	"Valley County, NE"	"31175"	Suppressed	1949	Suppressed	Suppressed
+	"Washington County, NE"	"31177"	20	10337	193.5	138.5
+	"Wayne County, NE"	"31179"	Suppressed	3828	Suppressed	Suppressed
+	"Webster County, NE"	"31181"	Suppressed	1727	Suppressed	Suppressed
+	"Wheeler County, NE"	"31183"	Suppressed	388	Suppressed	Suppressed
+	"York County, NE"	"31185"	20	6810	293.7	230.3
+	"Churchill County, NV"	"32001"	33	12023	274.5	207.7
+	"Clark County, NV"	"32003"	2583	1115318	231.6	206.7
+	"Douglas County, NV"	"32005"	53	24120	219.7	142.8
+	"Elko County, NV"	"32007"	49	28019	174.9	151.3
+	"Esmeralda County, NV"	"32009"	Suppressed	423	Suppressed	Suppressed
+	"Eureka County, NV"	"32011"	Suppressed	1099	Suppressed	Suppressed
+	"Humboldt County, NV"	"32013"	33	9215	358.1	275.5
+	"Lander County, NV"	"32015"	Suppressed	3076	Suppressed	Suppressed
+	"Lincoln County, NV"	"32017"	Suppressed	2522	Suppressed	Suppressed
+	"Lyon County, NV"	"32019"	90	26293	342.3	246.3
+	"Mineral County, NV"	"32021"	Suppressed	2188	Suppressed	Suppressed
+	"Nye County, NV"	"32023"	110	20244	543.4	371.2
+	"Pershing County, NV"	"32027"	Suppressed	3945	Suppressed	Suppressed
+	"Storey County, NV"	"32029"	Suppressed	2116	Suppressed	Suppressed
+	"Washoe County, NV"	"32031"	579	234688	246.7	199.7
+	"White Pine County, NV"	"32033"	14	5503	Unreliable	Unreliable
+	"Carson City, NV"	"32510"	89	28270	314.8	242.3
+	"Belknap County, NH"	"33001"	61	32235	189.2	141.1
+	"Carroll County, NH"	"33003"	52	24748	210.1	127.6
+	"Cheshire County, NH"	"33005"	85	39556	214.9	157.6
+	"Coos County, NH"	"33007"	59	16974	347.6	204.0
+	"Grafton County, NH"	"33009"	91	45942	198.1	138.3
+	"Hillsborough County, NH"	"33011"	439	224930	195.2	151.1
+	"Merrimack County, NH"	"33013"	200	79849	250.5	180.4
+	"Rockingham County, NH"	"33015"	305	169228	180.2	128.5
+	"Strafford County, NH"	"33017"	137	63360	216.2	166.4
+	"Sullivan County, NH"	"33019"	51	23381	218.1	141.2
+	"Atlantic County, NJ"	"34001"	379	144372	262.5	204.1
+	"Bergen County, NJ"	"34003"	767	506594	151.4	119.4
+	"Burlington County, NJ"	"34005"	562	242395	231.9	183.1
+	"Camden County, NJ"	"34007"	704	274088	256.9	211.7
+	"Cape May County, NJ"	"34009"	160	47573	336.3	231.4
+	"Cumberland County, NJ"	"34011"	264	84623	312.0	275.4
+	"Essex County, NJ"	"34013"	1121	429819	260.8	228.6
+	"Gloucester County, NJ"	"34015"	401	156602	256.1	200.5
+	"Hudson County, NJ"	"34017"	648	400096	162.0	170.6
+	"Hunterdon County, NJ"	"34019"	134	69013	194.2	141.0
+	"Mercer County, NJ"	"34021"	418	197355	211.8	174.5
+	"Middlesex County, NJ"	"34023"	730	458652	159.2	136.2
+	"Monmouth County, NJ"	"34025"	657	337724	194.5	146.6
+	"Morris County, NJ"	"34027"	415	270226	153.6	118.2
+	"Ocean County, NJ"	"34029"	732	275452	265.7	201.1
+	"Passaic County, NJ"	"34031"	580	266568	217.6	183.5
+	"Salem County, NJ"	"34033"	129	33784	381.8	308.9
+	"Somerset County, NJ"	"34035"	262	182596	143.5	109.6
+	"Sussex County, NJ"	"34037"	180	79976	225.1	156.6
+	"Union County, NJ"	"34039"	575	300043	191.6	160.8
+	"Warren County, NJ"	"34041"	124	57874	214.3	157.2
+	"Bernalillo County, NM"	"35001"	802	359972	222.8	192.6
+	"Catron County, NM"	"35003"	Suppressed	1625	Suppressed	Suppressed
+	"Chaves County, NM"	"35005"	97	31442	308.5	253.5
+	"Cibola County, NM"	"35006"	40	14168	282.3	230.1
+	"Colfax County, NM"	"35007"	22	6295	349.5	260.5
+	"Curry County, NM"	"35009"	57	24818	229.7	221.7
+	"DeBaca County, NM"	"35011"	Suppressed	878	Suppressed	Suppressed
+	"Dona Ana County, NM"	"35013"	192	97246	197.4	162.8
+	"Eddy County, NM"	"35015"	89	28456	312.8	261.3
+	"Grant County, NM"	"35017"	49	13582	360.8	267.6
+	"Guadalupe County, NM"	"35019"	Suppressed	2380	Suppressed	Suppressed
+	"Harding County, NM"	"35021"	Suppressed	333	Suppressed	Suppressed
+	"Hidalgo County, NM"	"35023"	Suppressed	2212	Suppressed	Suppressed
+	"Lea County, NM"	"35025"	99	34344	288.3	266.5
+	"Lincoln County, NM"	"35027"	32	9591	333.6	194.3
+	"Los Alamos County, NM"	"35028"	Suppressed	9448	Suppressed	Suppressed
+	"Luna County, NM"	"35029"	34	10848	313.4	242.6
+	"McKinley County, NM"	"35031"	97	35400	274.0	254.6
+	"Mora County, NM"	"35033"	Suppressed	2326	Suppressed	Suppressed
+	"Otero County, NM"	"35035"	98	31508	311.0	268.2
+	"Quay County, NM"	"35037"	12	4088	Unreliable	Unreliable
+	"Rio Arriba County, NM"	"35039"	70	20126	347.8	282.6
+	"Roosevelt County, NM"	"35041"	26	8516	305.3	260.1
+	"Sandoval County, NM"	"35043"	152	71556	212.4	172.5
+	"San Juan County, NM"	"35045"	126	62483	201.7	167.0
+	"San Miguel County, NM"	"35047"	49	14335	341.8	249.7
+	"Santa Fe County, NM"	"35049"	141	78865	178.8	128.2
+	"Sierra County, NM"	"35051"	29	5100	568.6	369.9
+	"Socorro County, NM"	"35053"	32	8368	382.4	330.8
+	"Taos County, NM"	"35055"	41	17131	239.3	167.5
+	"Torrance County, NM"	"35057"	37	8014	461.7	346.4
+	"Union County, NM"	"35059"	Suppressed	2280	Suppressed	Suppressed
+	"Valencia County, NM"	"35061"	89	38599	230.6	179.6
+	"Albany County, NY"	"36001"	362	156960	230.6	183.1
+	"Allegany County, NY"	"36003"	58	22513	257.6	172.9
+	"Bronx County, NY"	"36005"	2039	745259	273.6	254.7
+	"Broome County, NY"	"36007"	275	96007	286.4	207.3
+	"Cattaraugus County, NY"	"36009"	108	39852	271.0	191.3
+	"Cayuga County, NY"	"36011"	103	42257	243.7	182.7
+	"Chautauqua County, NY"	"36013"	202	66776	302.5	218.8
+	"Chemung County, NY"	"36015"	142	45646	311.1	247.6
+	"Chenango County, NY"	"36017"	66	25517	258.7	183.9
+	"Clinton County, NY"	"36019"	109	43028	253.3	191.7
+	"Columbia County, NY"	"36021"	105	32811	320.0	223.3
+	"Cortland County, NY"	"36023"	63	23041	273.4	198.4
+	"Delaware County, NY"	"36025"	69	23088	298.9	207.9
+	"Dutchess County, NY"	"36027"	337	157095	214.5	158.9
+	"Erie County, NY"	"36029"	1304	486068	268.3	210.7
+	"Essex County, NY"	"36031"	60	20890	287.2	216.6
+	"Franklin County, NY"	"36033"	70	28107	249.0	198.8
+	"Fulton County, NY"	"36035"	96	28670	334.8	254.3
+	"Genesee County, NY"	"36037"	66	31299	210.9	151.2
+	"Greene County, NY"	"36039"	86	25459	337.8	247.8
+	"Hamilton County, NY"	"36041"	Suppressed	2449	Suppressed	Suppressed
+	"Herkimer County, NY"	"36043"	88	32509	270.7	192.1
+	"Jefferson County, NY"	"36045"	130	59542	218.3	212.4
+	"Kings County, NY"	"36047"	2949	1445952	203.9	196.4
+	"Lewis County, NY"	"36049"	27	14036	192.4	129.0
+	"Livingston County, NY"	"36051"	84	32082	261.8	192.2
+	"Madison County, NY"	"36053"	86	36614	234.9	170.3
+	"Monroe County, NY"	"36055"	876	392028	223.5	179.7
+	"Montgomery County, NY"	"36057"	60	25616	234.2	177.3
+	"Nassau County, NY"	"36059"	1290	713541	180.8	139.2
+	"New York County, NY"	"36061"	1459	1004179	145.3	149.9
+	"Niagara County, NY"	"36063"	350	113543	308.3	226.4
+	"Oneida County, NY"	"36065"	322	119430	269.6	217.1
+	"Onondaga County, NY"	"36067"	598	243648	245.4	200.6
+	"Ontario County, NY"	"36069"	128	56849	225.2	164.0
+	"Orange County, NY"	"36071"	416	190311	218.6	175.7
+	"Orleans County, NY"	"36073"	70	22604	309.7	238.9
+	"Oswego County, NY"	"36075"	199	63121	315.3	236.3
+	"Otsego County, NY"	"36077"	83	28737	288.8	194.6
+	"Putnam County, NY"	"36079"	86	54991	156.4	112.8
+	"Queens County, NY"	"36081"	2343	1324920	176.8	157.8
+	"Rensselaer County, NY"	"36083"	223	86014	259.3	201.4
+	"Richmond County, NY"	"36085"	594	255514	232.5	185.2
+	"Rockland County, NY"	"36087"	243	155413	156.4	121.9
+	"St. Lawrence County, NY"	"36089"	132	55128	239.4	179.2
+	"Saratoga County, NY"	"36091"	225	122718	183.3	138.5
+	"Schenectady County, NY"	"36093"	221	82078	269.3	214.4
+	"Schoharie County, NY"	"36095"	42	16188	259.5	183.0
+	"Schuyler County, NY"	"36097"	29	9806	295.7	190.8
+	"Seneca County, NY"	"36099"	34	18507	183.7	135.4
+	"Steuben County, NY"	"36101"	153	51105	299.4	211.8
+	"Suffolk County, NY"	"36103"	1589	798884	198.9	156.2
+	"Sullivan County, NY"	"36105"	123	40298	305.2	230.5
+	"Tioga County, NY"	"36107"	71	26087	272.2	188.6
+	"Tompkins County, NY"	"36109"	74	46561	158.9	133.6
+	"Ulster County, NY"	"36111"	255	97848	260.6	199.3
+	"Warren County, NY"	"36113"	93	34580	268.9	187.4
+	"Washington County, NY"	"36115"	89	33926	262.3	202.5
+	"Wayne County, NY"	"36117"	113	48899	231.1	175.9
+	"Westchester County, NY"	"36119"	792	511884	154.7	122.1
+	"Wyoming County, NY"	"36121"	49	23495	208.6	171.5
+	"Yates County, NY"	"36123"	33	11867	278.1	215.0
+	"Alamance County, NC"	"37001"	246	79606	309.0	250.4
+	"Alexander County, NC"	"37003"	60	19546	307.0	239.3
+	"Alleghany County, NC"	"37005"	24	5459	439.6	259.2
+	"Anson County, NC"	"37007"	55	13900	395.7	316.3
+	"Ashe County, NC"	"37009"	52	13843	375.6	268.5
+	"Avery County, NC"	"37011"	35	9555	366.3	300.7
+	"Beaufort County, NC"	"37013"	100	23700	421.9	293.9
+	"Bertie County, NC"	"37015"	45	10602	424.4	334.2
+	"Bladen County, NC"	"37017"	89	17825	499.3	367.8
+	"Brunswick County, NC"	"37019"	193	59039	326.9	232.7
+	"Buncombe County, NC"	"37021"	350	135605	258.1	209.5
+	"Burke County, NC"	"37023"	163	46754	348.6	262.5
+	"Cabarrus County, NC"	"37025"	198	101645	194.8	167.3
+	"Caldwell County, NC"	"37027"	154	43134	357.0	270.8
+	"Camden County, NC"	"37029"	17	5558	Unreliable	Unreliable
+	"Carteret County, NC"	"37031"	104	36138	287.8	199.3
+	"Caswell County, NC"	"37033"	51	12380	412.0	332.4
+	"Catawba County, NC"	"37035"	258	80654	319.9	251.8
+	"Chatham County, NC"	"37037"	87	34149	254.8	181.5
+	"Cherokee County, NC"	"37039"	46	13280	346.4	235.4
+	"Chowan County, NC"	"37041"	25	7168	348.8	225.1
+	"Clay County, NC"	"37043"	16	5028	Unreliable	Unreliable
+	"Cleveland County, NC"	"37045"	245	49339	496.6	370.4
+	"Columbus County, NC"	"37047"	137	29202	469.1	366.2
+	"Craven County, NC"	"37049"	147	49274	298.3	244.9
+	"Cumberland County, NC"	"37051"	542	165603	327.3	311.0
+	"Currituck County, NC"	"37053"	39	13829	282.0	218.0
+	"Dare County, NC"	"37055"	60	19406	309.2	211.2
+	"Davidson County, NC"	"37057"	292	86096	339.2	264.2
+	"Davie County, NC"	"37059"	56	21217	263.9	177.5
+	"Duplin County, NC"	"37061"	105	30313	346.4	268.7
+	"Durham County, NC"	"37063"	331	165872	199.6	189.1
+	"Edgecombe County, NC"	"37065"	120	27917	429.8	335.4
+	"Forsyth County, NC"	"37067"	457	189540	241.1	202.1
+	"Franklin County, NC"	"37069"	89	33301	267.3	203.0
+	"Gaston County, NC"	"37071"	421	112163	375.3	301.0
+	"Gates County, NC"	"37073"	23	6083	378.1	264.2
+	"Graham County, NC"	"37075"	18	4250	Unreliable	Unreliable
+	"Granville County, NC"	"37077"	86	31623	272.0	215.9
+	"Greene County, NC"	"37079"	38	11636	326.6	263.2
+	"Guilford County, NC"	"37081"	676	268594	251.7	211.8
+	"Halifax County, NC"	"37083"	122	26991	452.0	332.1
+	"Harnett County, NC"	"37085"	181	65969	274.4	254.9
+	"Haywood County, NC"	"37087"	107	30134	355.1	265.2
+	"Henderson County, NC"	"37089"	161	54677	294.5	216.6
+	"Hertford County, NC"	"37091"	42	12509	335.8	264.5
+	"Hoke County, NC"	"37093"	65	27951	232.5	234.9
+	"Hyde County, NC"	"37095"	12	3233	Unreliable	Unreliable
+	"Iredell County, NC"	"37097"	218	88122	247.4	200.4
+	"Jackson County, NC"	"37099"	55	18948	290.3	235.5
+	"Johnston County, NC"	"37101"	239	96626	247.3	210.0
+	"Jones County, NC"	"37103"	19	5155	Unreliable	Unreliable
+	"Lee County, NC"	"37105"	74	30374	243.6	202.4
+	"Lenoir County, NC"	"37107"	122	29497	413.6	321.9
+	"Lincoln County, NC"	"37109"	113	43247	261.3	197.1
+	"McDowell County, NC"	"37111"	75	23781	315.4	240.9
+	"Macon County, NC"	"37113"	58	16147	359.2	236.6
+	"Madison County, NC"	"37115"	32	10599	301.9	240.4
+	"Martin County, NC"	"37117"	59	11879	496.7	350.9
+	"Mecklenburg County, NC"	"37119"	1042	566538	183.9	176.3
+	"Mitchell County, NC"	"37121"	29	7764	373.5	271.0
+	"Montgomery County, NC"	"37123"	46	13698	335.8	257.2
+	"Moore County, NC"	"37125"	123	44739	274.9	219.9
+	"Nash County, NC"	"37127"	175	48747	359.0	274.5
+	"New Hanover County, NC"	"37129"	274	111912	244.8	203.7
+	"Northampton County, NC"	"37131"	39	10229	381.3	247.9
+	"Onslow County, NC"	"37133"	199	83803	237.5	270.3
+	"Orange County, NC"	"37135"	129	69874	184.6	150.9
+	"Pamlico County, NC"	"37137"	28	6557	427.0	299.1
+	"Pasquotank County, NC"	"37139"	59	20488	288.0	227.2
+	"Pender County, NC"	"37141"	70	29581	236.6	180.2
+	"Perquimans County, NC"	"37143"	20	6614	302.4	197.5
+	"Person County, NC"	"37145"	81	20575	393.7	295.4
+	"Pitt County, NC"	"37147"	196	84662	231.5	200.9
+	"Polk County, NC"	"37149"	24	9863	243.3	192.7
+	"Randolph County, NC"	"37151"	241	74324	324.3	255.5
+	"Richmond County, NC"	"37153"	92	23150	397.4	318.2
+	"Robeson County, NC"	"37155"	279	67489	413.4	351.5
+	"Rockingham County, NC"	"37157"	205	48325	424.2	311.9
+	"Rowan County, NC"	"37159"	269	71689	375.2	293.5
+	"Rutherford County, NC"	"37161"	145	34050	425.8	305.1
+	"Sampson County, NC"	"37163"	131	32377	404.6	317.0
+	"Scotland County, NC"	"37165"	83	17863	464.6	370.9
+	"Stanly County, NC"	"37167"	108	31202	346.1	264.4
+	"Stokes County, NC"	"37169"	72	24513	293.7	208.5
+	"Surry County, NC"	"37171"	129	37016	348.5	272.2
+	"Swain County, NC"	"37173"	26	7065	368.0	296.7
+	"Transylvania County, NC"	"37175"	38	15462	245.8	173.9
+	"Tyrrell County, NC"	"37177"	Suppressed	2239	Suppressed	Suppressed
+	"Union County, NC"	"37179"	263	112406	234.0	198.3
+	"Vance County, NC"	"37181"	99	22286	444.2	325.3
+	"Wake County, NC"	"37183"	817	554730	147.3	136.5
+	"Warren County, NC"	"37185"	27	10375	260.2	179.3
+	"Washington County, NC"	"37187"	26	6180	420.7	351.1
+	"Watauga County, NC"	"37189"	42	22463	187.0	141.5
+	"Wayne County, NC"	"37191"	205	63447	323.1	266.4
+	"Wilkes County, NC"	"37193"	138	35329	390.6	282.5
+	"Wilson County, NC"	"37195"	127	41582	305.4	249.3
+	"Yadkin County, NC"	"37197"	64	19509	328.1	241.5
+	"Yancey County, NC"	"37199"	27	8785	307.3	211.4
+	"Adams County, ND"	"38001"	Suppressed	1170	Suppressed	Suppressed
+	"Barnes County, ND"	"38003"	13	5466	Unreliable	Unreliable
+	"Benson County, ND"	"38005"	13	3033	Unreliable	Unreliable
+	"Billings County, ND"	"38007"	Suppressed	500	Suppressed	Suppressed
+	"Bottineau County, ND"	"38009"	Suppressed	3235	Suppressed	Suppressed
+	"Bowman County, ND"	"38011"	Suppressed	1580	Suppressed	Suppressed
+	"Burke County, ND"	"38013"	Suppressed	1156	Suppressed	Suppressed
+	"Burleigh County, ND"	"38015"	65	47708	136.2	112.6
+	"Cass County, ND"	"38017"	142	85442	166.2	152.8
+	"Cavalier County, ND"	"38019"	Suppressed	1799	Suppressed	Suppressed
+	"Dickey County, ND"	"38021"	Suppressed	2349	Suppressed	Suppressed
+	"Divide County, ND"	"38023"	Suppressed	1175	Suppressed	Suppressed
+	"Dunn County, ND"	"38025"	Suppressed	2398	Suppressed	Suppressed
+	"Eddy County, ND"	"38027"	Suppressed	1133	Suppressed	Suppressed
+	"Emmons County, ND"	"38029"	Suppressed	1539	Suppressed	Suppressed
+	"Foster County, ND"	"38031"	Suppressed	1659	Suppressed	Suppressed
+	"Golden Valley County, ND"	"38033"	Suppressed	922	Suppressed	Suppressed
+	"Grand Forks County, ND"	"38035"	60	32005	187.5	163.3
+	"Grant County, ND"	"38037"	Suppressed	1121	Suppressed	Suppressed
+	"Griggs County, ND"	"38039"	Suppressed	1085	Suppressed	Suppressed
+	"Hettinger County, ND"	"38041"	Suppressed	1260	Suppressed	Suppressed
+	"Kidder County, ND"	"38043"	Suppressed	1237	Suppressed	Suppressed
+	"LaMoure County, ND"	"38045"	Suppressed	1955	Suppressed	Suppressed
+	"Logan County, ND"	"38047"	Suppressed	875	Suppressed	Suppressed
+	"McHenry County, ND"	"38049"	Suppressed	3005	Suppressed	Suppressed
+	"McIntosh County, ND"	"38051"	Suppressed	1221	Suppressed	Suppressed
+	"McKenzie County, ND"	"38053"	Suppressed	5789	Suppressed	Suppressed
+	"McLean County, ND"	"38055"	13	4824	Unreliable	Unreliable
+	"Mercer County, ND"	"38057"	17	4704	Unreliable	Unreliable
+	"Morton County, ND"	"38059"	18	15950	Unreliable	Unreliable
+	"Mountrail County, ND"	"38061"	17	5239	Unreliable	Unreliable
+	"Nelson County, ND"	"38063"	Suppressed	1445	Suppressed	Suppressed
+	"Oliver County, ND"	"38065"	Suppressed	954	Suppressed	Suppressed
+	"Pembina County, ND"	"38067"	13	3614	Unreliable	Unreliable
+	"Pierce County, ND"	"38069"	11	2102	Unreliable	Unreliable
+	"Ramsey County, ND"	"38071"	12	5763	Unreliable	Unreliable
+	"Ransom County, ND"	"38073"	11	2684	Unreliable	Unreliable
+	"Renville County, ND"	"38075"	Suppressed	1320	Suppressed	Suppressed
+	"Richland County, ND"	"38077"	32	7835	408.4	284.7
+	"Rolette County, ND"	"38079"	35	6759	517.8	431.9
+	"Sargent County, ND"	"38081"	Suppressed	2010	Suppressed	Suppressed
+	"Sheridan County, ND"	"38083"	Suppressed	642	Suppressed	Suppressed
+	"Sioux County, ND"	"38085"	12	1972	Unreliable	Unreliable
+	"Slope County, ND"	"38087"	Suppressed	392	Suppressed	Suppressed
+	"Stark County, ND"	"38089"	28	15797	177.2	158.5
+	"Steele County, ND"	"38091"	Suppressed	961	Suppressed	Suppressed
+	"Stutsman County, ND"	"38093"	28	10847	258.1	192.8
+	"Towner County, ND"	"38095"	Suppressed	1123	Suppressed	Suppressed
+	"Traill County, ND"	"38097"	Suppressed	3943	Suppressed	Suppressed
+	"Walsh County, ND"	"38099"	15	5361	Unreliable	Unreliable
+	"Ward County, ND"	"38101"	57	34560	164.9	157.2
+	"Wells County, ND"	"38103"	Suppressed	1978	Suppressed	Suppressed
+	"Williams County, ND"	"38105"	31	17409	178.1	178.6
+	"Adams County, OH"	"39001"	53	14419	367.6	269.9
+	"Allen County, OH"	"39003"	169	52664	320.9	252.7
+	"Ashland County, OH"	"39005"	63	26113	241.3	181.0
+	"Ashtabula County, OH"	"39007"	195	51687	377.3	286.8
+	"Athens County, OH"	"39009"	75	27964	268.2	233.2
+	"Auglaize County, OH"	"39011"	56	23253	240.8	174.0
+	"Belmont County, OH"	"39013"	126	37372	337.2	260.5
+	"Brown County, OH"	"39015"	81	22931	353.2	263.6
+	"Butler County, OH"	"39017"	496	188486	263.1	211.4
+	"Carroll County, OH"	"39019"	59	14550	405.5	264.3
+	"Champaign County, OH"	"39021"	72	20081	358.5	280.3
+	"Clark County, OH"	"39023"	255	68883	370.2	289.4
+	"Clermont County, OH"	"39025"	301	108502	277.4	216.0
+	"Clinton County, OH"	"39027"	88	21500	409.3	306.3
+	"Columbiana County, OH"	"39029"	183	56324	324.9	235.9
+	"Coshocton County, OH"	"39031"	61	18626	327.5	268.0
+	"Crawford County, OH"	"39033"	82	21461	382.1	282.9
+	"Cuyahoga County, OH"	"39035"	2044	665389	307.2	238.6
+	"Darke County, OH"	"39037"	74	25784	287.0	227.1
+	"Defiance County, OH"	"39039"	51	19496	261.6	214.4
+	"Delaware County, OH"	"39041"	150	101044	148.5	126.1
+	"Erie County, OH"	"39043"	121	38834	311.6	240.9
+	"Fairfield County, OH"	"39045"	167	79073	211.2	169.0
+	"Fayette County, OH"	"39047"	55	14828	370.9	266.6
+	"Franklin County, OH"	"39049"	1674	679202	246.5	230.9
+	"Fulton County, OH"	"39051"	55	21871	251.5	184.3
+	"Gallia County, OH"	"39053"	68	15526	438.0	347.6
+	"Geauga County, OH"	"39055"	81	46875	172.8	112.6
+	"Greene County, OH"	"39057"	197	83339	236.4	187.8
+	"Guernsey County, OH"	"39059"	71	20456	347.1	266.6
+	"Hamilton County, OH"	"39061"	1255	426633	294.2	246.2
+	"Hancock County, OH"	"39063"	99	39032	253.6	203.0
+	"Hardin County, OH"	"39065"	56	14559	384.6	312.1
+	"Harrison County, OH"	"39067"	38	8097	469.3	296.8
+	"Henry County, OH"	"39069"	37	14154	261.4	189.1
+	"Highland County, OH"	"39071"	75	21909	342.3	264.2
+	"Hocking County, OH"	"39073"	50	14949	334.5	251.8
+	"Holmes County, OH"	"39075"	41	19541	209.8	176.7
+	"Huron County, OH"	"39077"	85	30205	281.4	225.5
+	"Jackson County, OH"	"39079"	86	17138	501.8	376.0
+	"Jefferson County, OH"	"39081"	161	34654	464.6	326.1
+	"Knox County, OH"	"39083"	83	29787	278.6	210.6
+	"Lake County, OH"	"39085"	297	122025	243.4	186.3
+	"Lawrence County, OH"	"39087"	139	32351	429.7	346.9
+	"Licking County, OH"	"39089"	252	88165	285.8	217.6
+	"Logan County, OH"	"39091"	57	23488	242.7	189.9
+	"Lorain County, OH"	"39093"	442	158428	279.0	211.3
+	"Lucas County, OH"	"39095"	784	227175	345.1	278.2
+	"Madison County, OH"	"39097"	61	24783	246.1	195.9
+	"Mahoning County, OH"	"39099"	392	120250	326.0	230.5
+	"Marion County, OH"	"39101"	126	35595	354.0	273.5
+	"Medina County, OH"	"39103"	193	93776	205.8	159.1
+	"Meigs County, OH"	"39105"	62	12398	500.1	372.7
+	"Mercer County, OH"	"39107"	71	20178	351.9	270.6
+	"Miami County, OH"	"39109"	149	53877	276.6	213.8
+	"Monroe County, OH"	"39111"	27	7284	370.7	252.6
+	"Montgomery County, OH"	"39113"	950	274261	346.4	274.5
+	"Morgan County, OH"	"39115"	21	7547	278.3	259.2
+	"Morrow County, OH"	"39117"	46	18441	249.4	191.5
+	"Muskingum County, OH"	"39119"	160	43593	367.0	285.7
+	"Noble County, OH"	"39121"	17	7415	Unreliable	Unreliable
+	"Ottawa County, OH"	"39123"	61	21180	288.0	189.5
+	"Paulding County, OH"	"39125"	25	9779	255.6	187.8
+	"Perry County, OH"	"39127"	77	18829	408.9	317.9
+	"Pickaway County, OH"	"39129"	91	30771	295.7	246.8
+	"Pike County, OH"	"39131"	60	14624	410.3	317.0
+	"Portage County, OH"	"39133"	216	80091	269.7	204.7
+	"Preble County, OH"	"39135"	70	21596	324.1	229.2
+	"Putnam County, OH"	"39137"	32	17210	185.9	144.1
+	"Richland County, OH"	"39139"	217	62752	345.8	260.0
+	"Ross County, OH"	"39141"	146	42537	343.2	273.3
+	"Sandusky County, OH"	"39143"	100	31149	321.0	242.0
+	"Scioto County, OH"	"39145"	183	40143	455.9	376.4
+	"Seneca County, OH"	"39147"	90	28102	320.3	249.4
+	"Shelby County, OH"	"39149"	72	24920	288.9	224.4
+	"Stark County, OH"	"39151"	579	193217	299.7	222.4
+	"Summit County, OH"	"39153"	885	287917	307.4	236.5
+	"Trumbull County, OH"	"39155"	366	105789	346.0	252.2
+	"Tuscarawas County, OH"	"39157"	136	47647	285.4	232.8
+	"Union County, OH"	"39159"	52	29663	175.3	144.6
+	"Van Wert County, OH"	"39161"	38	14331	265.2	204.6
+	"Vinton County, OH"	"39163"	33	7033	469.2	358.2
+	"Warren County, OH"	"39165"	243	118344	205.3	167.2
+	"Washington County, OH"	"39167"	100	31531	317.1	230.5
+	"Wayne County, OH"	"39169"	142	56759	250.2	186.4
+	"Williams County, OH"	"39171"	60	19226	312.1	250.0
+	"Wood County, OH"	"39173"	158	62233	253.9	194.7
+	"Wyandot County, OH"	"39175"	30	11386	263.5	202.8
+	"Adair County, OK"	"40001"	53	11021	480.9	405.5
+	"Alfalfa County, OK"	"40003"	12	3258	Unreliable	Unreliable
+	"Atoka County, OK"	"40005"	28	7090	394.9	311.5
+	"Beaver County, OK"	"40007"	Suppressed	2712	Suppressed	Suppressed
+	"Beckham County, OK"	"40009"	42	12489	336.3	306.8
+	"Blaine County, OK"	"40011"	21	4720	444.9	331.2
+	"Bryan County, OK"	"40013"	89	21921	406.0	331.2
+	"Caddo County, OK"	"40015"	64	14907	429.3	378.9
+	"Canadian County, OK"	"40017"	148	69530	212.9	194.3
+	"Carter County, OK"	"40019"	103	24758	416.0	334.6
+	"Cherokee County, OK"	"40021"	90	22481	400.3	339.2
+	"Choctaw County, OK"	"40023"	37	7346	503.7	389.2
+	"Cimarron County, OK"	"40025"	Suppressed	1073	Suppressed	Suppressed
+	"Cleveland County, OK"	"40027"	320	137003	233.6	203.9
+	"Coal County, OK"	"40029"	11	2730	Unreliable	Unreliable
+	"Comanche County, OK"	"40031"	193	64263	300.3	280.5
+	"Cotton County, OK"	"40033"	11	3068	Unreliable	Unreliable
+	"Craig County, OK"	"40035"	38	7445	510.4	396.2
+	"Creek County, OK"	"40037"	172	35873	479.5	372.0
+	"Custer County, OK"	"40039"	52	13291	391.2	326.0
+	"Delaware County, OK"	"40041"	87	20037	434.2	325.2
+	"Dewey County, OK"	"40043"	11	2301	Unreliable	Unreliable
+	"Ellis County, OK"	"40045"	Suppressed	2045	Suppressed	Suppressed
+	"Garfield County, OK"	"40047"	120	31466	381.4	321.0
+	"Garvin County, OK"	"40049"	56	13775	406.5	343.4
+	"Grady County, OK"	"40051"	87	28085	309.8	243.6
+	"Grant County, OK"	"40053"	12	2189	Unreliable	Unreliable
+	"Greer County, OK"	"40055"	16	3307	Unreliable	Unreliable
+	"Harmon County, OK"	"40057"	Suppressed	1340	Suppressed	Suppressed
+	"Harper County, OK"	"40059"	Suppressed	1866	Suppressed	Suppressed
+	"Haskell County, OK"	"40061"	21	6196	338.9	255.3
+	"Hughes County, OK"	"40063"	32	7055	453.6	360.9
+	"Jackson County, OK"	"40065"	48	12931	371.2	336.2
+	"Jefferson County, OK"	"40067"	18	3086	Unreliable	Unreliable
+	"Johnston County, OK"	"40069"	34	5448	624.1	530.2
+	"Kay County, OK"	"40071"	93	21691	428.7	321.6
+	"Kingfisher County, OK"	"40073"	24	7708	311.4	238.7
+	"Kiowa County, OK"	"40075"	25	4625	540.5	394.6
+	"Latimer County, OK"	"40077"	23	5079	452.8	319.3
+	"Le Flore County, OK"	"40079"	99	25088	394.6	327.9
+	"Lincoln County, OK"	"40081"	76	17487	434.6	312.2
+	"Logan County, OK"	"40083"	76	22806	333.2	264.9
+	"Love County, OK"	"40085"	19	4733	Unreliable	Unreliable
+	"McClain County, OK"	"40087"	59	19278	306.0	248.7
+	"McCurtain County, OK"	"40089"	88	16149	544.9	422.9
+	"McIntosh County, OK"	"40091"	55	9680	568.2	393.1
+	"Major County, OK"	"40093"	15	3819	Unreliable	Unreliable
+	"Marshall County, OK"	"40095"	34	7748	438.8	303.9
+	"Mayes County, OK"	"40097"	83	20491	405.1	299.3
+	"Murray County, OK"	"40099"	29	6908	419.8	316.8
+	"Muskogee County, OK"	"40101"	181	35233	513.7	417.6
+	"Noble County, OK"	"40103"	24	5817	412.6	334.5
+	"Nowata County, OK"	"40105"	22	5227	420.9	324.8
+	"Okfuskee County, OK"	"40107"	35	6222	562.5	493.6
+	"Oklahoma County, OK"	"40109"	1380	400711	344.4	308.3
+	"Okmulgee County, OK"	"40111"	94	19067	493.0	361.4
+	"Osage County, OK"	"40113"	91	24378	373.3	290.3
+	"Ottawa County, OK"	"40115"	69	15063	458.1	357.7
+	"Pawnee County, OK"	"40117"	34	8208	414.2	303.8
+	"Payne County, OK"	"40119"	101	33417	302.2	265.3
+	"Pittsburg County, OK"	"40121"	104	23001	452.2	366.9
+	"Pontotoc County, OK"	"40123"	74	18548	399.0	355.0
+	"Pottawatomie County, OK"	"40125"	155	35934	431.3	363.0
+	"Pushmataha County, OK"	"40127"	26	5427	479.1	395.9
+	"Roger Mills County, OK"	"40129"	Suppressed	1867	Suppressed	Suppressed
+	"Rogers County, OK"	"40131"	149	45824	325.2	265.8
+	"Seminole County, OK"	"40133"	68	12337	551.2	420.1
+	"Sequoyah County, OK"	"40135"	100	20913	478.2	374.4
+	"Stephens County, OK"	"40137"	81	22346	362.5	290.7
+	"Texas County, OK"	"40139"	24	11017	217.8	189.6
+	"Tillman County, OK"	"40141"	15	3765	Unreliable	Unreliable
+	"Tulsa County, OK"	"40143"	1080	328431	328.8	282.7
+	"Wagoner County, OK"	"40145"	116	39606	292.9	231.8
+	"Washington County, OK"	"40147"	101	25587	394.7	306.8
+	"Washita County, OK"	"40149"	21	5794	362.4	295.8
+	"Woods County, OK"	"40151"	17	4264	Unreliable	Unreliable
+	"Woodward County, OK"	"40153"	30	11118	269.8	246.2
+	"Baker County, OR"	"41001"	24	7899	303.8	198.9
+	"Benton County, OR"	"41003"	69	39898	172.9	125.8
+	"Clackamas County, OR"	"41005"	390	211559	184.3	139.7
+	"Clatsop County, OR"	"41007"	50	19799	252.5	184.7
+	"Columbia County, OR"	"41009"	72	26235	274.4	185.7
+	"Coos County, OR"	"41011"	128	31408	407.5	281.5
+	"Crook County, OR"	"41013"	24	10516	228.2	140.9
+	"Curry County, OR"	"41015"	41	10638	385.4	226.4
+	"Deschutes County, OR"	"41017"	175	90814	192.7	147.0
+	"Douglas County, OR"	"41019"	178	53053	335.5	235.1
+	"Gilliam County, OR"	"41021"	Suppressed	973	Suppressed	Suppressed
+	"Grant County, OR"	"41023"	Suppressed	3501	Suppressed	Suppressed
+	"Harney County, OR"	"41025"	11	3553	Unreliable	Unreliable
+	"Hood River County, OR"	"41027"	23	12034	191.1	141.5
+	"Jackson County, OR"	"41029"	290	106621	272.0	202.0
+	"Jefferson County, OR"	"41031"	34	10979	309.7	242.1
+	"Josephine County, OR"	"41033"	139	40651	341.9	238.0
+	"Klamath County, OR"	"41035"	113	32861	343.9	251.2
+	"Lake County, OR"	"41037"	Suppressed	4082	Suppressed	Suppressed
+	"Lane County, OR"	"41039"	426	180461	236.1	177.8
+	"Lincoln County, OR"	"41041"	95	23931	397.0	231.5
+	"Linn County, OR"	"41043"	170	61245	277.6	217.7
+	"Malheur County, OR"	"41045"	38	14937	254.4	213.9
+	"Marion County, OR"	"41047"	370	164595	224.8	187.4
+	"Morrow County, OR"	"41049"	14	5449	Unreliable	Unreliable
+	"Multnomah County, OR"	"41051"	876	464431	188.6	176.0
+	"Polk County, OR"	"41053"	70	36402	192.3	158.3
+	"Sherman County, OR"	"41055"	Suppressed	868	Suppressed	Suppressed
+	"Tillamook County, OR"	"41057"	39	12860	303.3	220.2
+	"Umatilla County, OR"	"41059"	108	38862	277.9	229.6
+	"Union County, OR"	"41061"	30	12079	248.4	186.8
+	"Wallowa County, OR"	"41063"	10	3427	Unreliable	Unreliable
+	"Wasco County, OR"	"41065"	43	12626	340.6	270.7
+	"Washington County, OR"	"41067"	420	312472	134.4	120.9
+	"Wheeler County, OR"	"41069"	Suppressed	631	Suppressed	Suppressed
+	"Yamhill County, OR"	"41071"	114	51101	223.1	169.1
+	"Adams County, PA"	"42001"	131	52209	250.9	188.3
+	"Allegheny County, PA"	"42003"	1782	669026	266.4	207.4
+	"Armstrong County, PA"	"42005"	101	35809	282.1	200.9
+	"Beaver County, PA"	"42007"	273	89188	306.1	223.9
+	"Bedford County, PA"	"42009"	77	25244	305.0	226.2
+	"Berks County, PA"	"42011"	478	212492	224.9	182.6
+	"Blair County, PA"	"42013"	170	64506	263.5	197.7
+	"Bradford County, PA"	"42015"	99	31437	314.9	243.1
+	"Bucks County, PA"	"42017"	601	338104	177.8	131.7
+	"Butler County, PA"	"42019"	199	99251	200.5	151.9
+	"Cambria County, PA"	"42021"	216	70290	307.3	220.1
+	"Cameron County, PA"	"42023"	Suppressed	2487	Suppressed	Suppressed
+	"Carbon County, PA"	"42025"	96	34628	277.2	203.9
+	"Centre County, PA"	"42027"	102	73195	139.4	120.9
+	"Chester County, PA"	"42029"	427	271357	157.4	121.5
+	"Clarion County, PA"	"42031"	65	18920	343.6	261.5
+	"Clearfield County, PA"	"42033"	129	44063	292.8	225.4
+	"Clinton County, PA"	"42035"	51	18468	276.2	208.7
+	"Columbia County, PA"	"42037"	80	32309	247.6	189.7
+	"Crawford County, PA"	"42039"	110	44194	248.9	176.3
+	"Cumberland County, PA"	"42041"	250	128129	195.1	154.8
+	"Dauphin County, PA"	"42043"	389	146099	266.3	209.1
+	"Delaware County, PA"	"42045"	703	293995	239.1	185.7
+	"Elk County, PA"	"42047"	40	16398	243.9	182.7
+	"Erie County, PA"	"42049"	435	144041	302.0	241.6
+	"Fayette County, PA"	"42051"	226	71543	315.9	230.3
+	"Forest County, PA"	"42053"	19	4533	Unreliable	Unreliable
+	"Franklin County, PA"	"42055"	192	78003	246.1	190.4
+	"Fulton County, PA"	"42057"	24	7524	319.0	238.1
+	"Greene County, PA"	"42059"	58	20342	285.1	227.4
+	"Huntingdon County, PA"	"42061"	61	24183	252.2	192.7
+	"Indiana County, PA"	"42063"	116	41444	279.9	202.9
+	"Jefferson County, PA"	"42065"	73	22937	318.3	225.0
+	"Juniata County, PA"	"42067"	33	12475	264.5	197.8
+	"Lackawanna County, PA"	"42069"	331	109927	301.1	236.7
+	"Lancaster County, PA"	"42071"	574	267347	214.7	171.2
+	"Lawrence County, PA"	"42073"	146	45365	321.8	239.9
+	"Lebanon County, PA"	"42075"	166	68463	242.5	181.4
+	"Lehigh County, PA"	"42077"	407	186700	218.0	173.9
+	"Luzerne County, PA"	"42079"	424	166491	254.7	193.8
+	"Lycoming County, PA"	"42081"	169	60335	280.1	216.9
+	"Mc Kean County, PA"	"42083"	64	22306	286.9	214.6
+	"Mercer County, PA"	"42085"	160	57298	279.2	192.5
+	"Mifflin County, PA"	"42087"	61	23148	263.5	203.7
+	"Monroe County, PA"	"42089"	230	87844	261.8	194.6
+	"Montgomery County, PA"	"42091"	837	437787	191.2	147.6
+	"Montour County, PA"	"42093"	30	9796	306.2	224.0
+	"Northampton County, PA"	"42095"	351	156107	224.8	167.2
+	"Northumberland County, PA"	"42097"	161	49642	324.3	239.0
+	"Perry County, PA"	"42099"	75	24706	303.6	229.3
+	"Philadelphia County, PA"	"42101"	2672	841355	317.6	298.6
+	"Pike County, PA"	"42103"	56	29084	192.5	131.3
+	"Potter County, PA"	"42105"	20	8555	233.8	156.0
+	"Schuylkill County, PA"	"42107"	273	78314	348.6	261.6
+	"Snyder County, PA"	"42109"	38	19935	190.6	134.7
+	"Somerset County, PA"	"42111"	120	41047	292.3	213.8
+	"Sullivan County, PA"	"42113"	14	3239	Unreliable	Unreliable
+	"Susquehanna County, PA"	"42115"	66	22108	298.5	225.5
+	"Tioga County, PA"	"42117"	64	21069	303.8	221.5
+	"Union County, PA"	"42119"	35	23625	148.1	129.3
+	"Venango County, PA"	"42121"	101	28073	359.8	266.4
+	"Warren County, PA"	"42123"	68	21270	319.7	217.9
+	"Washington County, PA"	"42125"	284	109377	259.7	185.1
+	"Wayne County, PA"	"42127"	96	27901	344.1	235.3
+	"Westmoreland County, PA"	"42129"	511	188916	270.5	186.6
+	"Wyoming County, PA"	"42131"	34	14702	231.3	159.0
+	"York County, PA"	"42133"	539	234731	229.6	180.0
+	"Bristol County, RI"	"44001"	51	24906	204.8	161.8
+	"Kent County, RI"	"44003"	201	92032	218.4	163.1
+	"Newport County, RI"	"44005"	90	43622	206.3	152.9
+	"Providence County, RI"	"44007"	767	336372	228.0	190.8
+	"Washington County, RI"	"44009"	146	62112	235.1	161.5
+	"Abbeville County, SC"	"45001"	43	12309	349.3	240.9
+	"Aiken County, SC"	"45003"	262	85246	307.3	243.5
+	"Allendale County, SC"	"45005"	29	5312	545.9	470.8
+	"Anderson County, SC"	"45007"	332	98608	336.7	266.4
+	"Bamberg County, SC"	"45009"	27	7113	379.6	297.0
+	"Barnwell County, SC"	"45011"	42	10976	382.7	274.6
+	"Beaufort County, SC"	"45013"	180	81499	220.9	175.5
+	"Berkeley County, SC"	"45015"	289	105334	274.4	240.1
+	"Calhoun County, SC"	"45017"	27	7748	348.5	265.5
+	"Charleston County, SC"	"45019"	489	210867	231.9	202.4
+	"Cherokee County, SC"	"45021"	112	28780	389.2	312.7
+	"Chester County, SC"	"45023"	100	16787	595.7	453.0
+	"Chesterfield County, SC"	"45025"	108	24119	447.8	346.2
+	"Clarendon County, SC"	"45027"	66	16934	389.7	297.2
+	"Colleton County, SC"	"45029"	86	18998	452.7	340.8
+	"Darlington County, SC"	"45031"	165	34673	475.9	377.9
+	"Dillon County, SC"	"45033"	76	15618	486.6	371.3
+	"Dorchester County, SC"	"45035"	200	80246	249.2	214.6
+	"Edgefield County, SC"	"45037"	48	14784	324.7	254.5
+	"Fairfield County, SC"	"45039"	73	12179	599.4	435.1
+	"Florence County, SC"	"45041"	271	71627	378.3	312.3
+	"Georgetown County, SC"	"45043"	94	29562	318.0	239.9
+	"Greenville County, SC"	"45045"	627	255216	245.7	209.2
+	"Greenwood County, SC"	"45047"	115	34700	331.4	278.8
+	"Hampton County, SC"	"45049"	34	10796	314.9	271.8
+	"Horry County, SC"	"45051"	522	155186	336.4	265.2
+	"Jasper County, SC"	"45053"	50	14449	346.0	284.6
+	"Kershaw County, SC"	"45055"	108	32904	328.2	257.9
+	"Lancaster County, SC"	"45057"	160	43203	370.3	305.9
+	"Laurens County, SC"	"45059"	174	33888	513.5	413.6
+	"Lee County, SC"	"45061"	59	9738	605.9	501.3
+	"Lexington County, SC"	"45063"	401	149559	268.1	218.6
+	"McCormick County, SC"	"45065"	24	5049	475.3	356.8
+	"Marion County, SC"	"45067"	97	16146	600.8	487.8
+	"Marlboro County, SC"	"45069"	49	15505	316.0	266.5
+	"Newberry County, SC"	"45071"	62	18914	327.8	240.5
+	"Oconee County, SC"	"45073"	133	37619	353.5	261.4
+	"Orangeburg County, SC"	"45075"	219	44141	496.1	404.7
+	"Pickens County, SC"	"45077"	184	56559	325.3	258.5
+	"Richland County, SC"	"45079"	609	203979	298.6	262.1
+	"Saluda County, SC"	"45081"	42	10328	406.7	313.1
+	"Spartanburg County, SC"	"45083"	547	151001	362.2	294.6
+	"Sumter County, SC"	"45085"	209	53788	388.6	318.3
+	"Union County, SC"	"45087"	63	14407	437.3	325.5
+	"Williamsburg County, SC"	"45089"	78	16919	461.0	337.9
+	"York County, SC"	"45091"	322	130580	246.6	203.9
+	"Aurora County, SD"	"46003"	Suppressed	1296	Suppressed	Suppressed
+	"Beadle County, SD"	"46005"	22	8972	245.2	195.7
+	"Bennett County, SD"	"46007"	Suppressed	1493	Suppressed	Suppressed
+	"Bon Homme County, SD"	"46009"	Suppressed	3661	Suppressed	Suppressed
+	"Brookings County, SD"	"46011"	16	13877	Unreliable	Unreliable
+	"Brown County, SD"	"46013"	39	19284	202.2	161.8
+	"Brule County, SD"	"46015"	Suppressed	2629	Suppressed	Suppressed
+	"Buffalo County, SD"	"46017"	Suppressed	879	Suppressed	Suppressed
+	"Butte County, SD"	"46019"	13	5125	Unreliable	Unreliable
+	"Campbell County, SD"	"46021"	Suppressed	714	Suppressed	Suppressed
+	"Charles Mix County, SD"	"46023"	11	4097	Unreliable	Unreliable
+	"Clark County, SD"	"46025"	Suppressed	1764	Suppressed	Suppressed
+	"Clay County, SD"	"46027"	18	5470	Unreliable	Unreliable
+	"Codington County, SD"	"46029"	36	14199	253.5	194.9
+	"Corson County, SD"	"46031"	15	1890	Unreliable	Unreliable
+	"Custer County, SD"	"46033"	12	4452	Unreliable	Unreliable
+	"Davison County, SD"	"46035"	33	9769	337.8	260.3
+	"Day County, SD"	"46037"	Suppressed	2638	Suppressed	Suppressed
+	"Deuel County, SD"	"46039"	Suppressed	2122	Suppressed	Suppressed
+	"Dewey County, SD"	"46041"	11	2538	Unreliable	Unreliable
+	"Douglas County, SD"	"46043"	Suppressed	1347	Suppressed	Suppressed
+	"Edmunds County, SD"	"46045"	Suppressed	1938	Suppressed	Suppressed
+	"Fall River County, SD"	"46047"	10	3398	Unreliable	Unreliable
+	"Faulk County, SD"	"46049"	Suppressed	1094	Suppressed	Suppressed
+	"Grant County, SD"	"46051"	10	3625	Unreliable	Unreliable
+	"Gregory County, SD"	"46053"	Suppressed	1961	Suppressed	Suppressed
+	"Haakon County, SD"	"46055"	Suppressed	903	Suppressed	Suppressed
+	"Hamlin County, SD"	"46057"	Suppressed	2609	Suppressed	Suppressed
+	"Hand County, SD"	"46059"	Suppressed	1586	Suppressed	Suppressed
+	"Hanson County, SD"	"46061"	Suppressed	1595	Suppressed	Suppressed
+	"Harding County, SD"	"46063"	Suppressed	683	Suppressed	Suppressed
+	"Hughes County, SD"	"46065"	22	9426	233.4	187.6
+	"Hutchinson County, SD"	"46067"	Suppressed	3302	Suppressed	Suppressed
+	"Hyde County, SD"	"46069"	Suppressed	663	Suppressed	Suppressed
+	"Jackson County, SD"	"46071"	10	1398	Unreliable	Unreliable
+	"Jerauld County, SD"	"46073"	Suppressed	958	Suppressed	Suppressed
+	"Jones County, SD"	"46075"	Suppressed	501	Suppressed	Suppressed
+	"Kingsbury County, SD"	"46077"	Suppressed	2505	Suppressed	Suppressed
+	"Lake County, SD"	"46079"	14	6102	Unreliable	Unreliable
+	"Lawrence County, SD"	"46081"	23	12363	186.0	127.3
+	"Lincoln County, SD"	"46083"	38	27600	137.7	126.7
+	"Lyman County, SD"	"46085"	Suppressed	1842	Suppressed	Suppressed
+	"McCook County, SD"	"46087"	11	2670	Unreliable	Unreliable
+	"McPherson County, SD"	"46089"	Suppressed	1060	Suppressed	Suppressed
+	"Marshall County, SD"	"46091"	Suppressed	2365	Suppressed	Suppressed
+	"Meade County, SD"	"46093"	30	13643	219.9	181.5
+	"Mellette County, SD"	"46095"	Suppressed	925	Suppressed	Suppressed
+	"Miner County, SD"	"46097"	Suppressed	1098	Suppressed	Suppressed
+	"Minnehaha County, SD"	"46099"	202	97197	207.8	183.1
+	"Moody County, SD"	"46101"	Suppressed	3186	Suppressed	Suppressed
+	"Pennington County, SD"	"46103"	134	55973	239.4	202.8
+	"Perkins County, SD"	"46105"	Suppressed	1472	Suppressed	Suppressed
+	"Potter County, SD"	"46107"	Suppressed	1056	Suppressed	Suppressed
+	"Roberts County, SD"	"46109"	14	4657	Unreliable	Unreliable
+	"Sanborn County, SD"	"46111"	Suppressed	1208	Suppressed	Suppressed
+	"Shannon County, SD"	"46113"	19	6177	Unreliable	Unreliable
+	"Spink County, SD"	"46115"	Suppressed	3203	Suppressed	Suppressed
+	"Stanley County, SD"	"46117"	Suppressed	1546	Suppressed	Suppressed
+	"Sully County, SD"	"46119"	Suppressed	762	Suppressed	Suppressed
+	"Todd County, SD"	"46121"	17	4148	Unreliable	Unreliable
+	"Tripp County, SD"	"46123"	Suppressed	2623	Suppressed	Suppressed
+	"Turner County, SD"	"46125"	16	4125	Unreliable	Unreliable
+	"Union County, SD"	"46127"	22	7735	284.4	216.8
+	"Walworth County, SD"	"46129"	14	2572	Unreliable	Unreliable
+	"Yankton County, SD"	"46135"	28	11906	235.2	185.8
+	"Ziebach County, SD"	"46137"	Suppressed	1292	Suppressed	Suppressed
+	"Anderson County, TN"	"47001"	160	39377	406.3	308.6
+	"Bedford County, TN"	"47003"	75	23521	318.9	261.5
+	"Benton County, TN"	"47005"	48	8160	588.2	401.8
+	"Bledsoe County, TN"	"47007"	23	7896	291.3	230.1
+	"Blount County, TN"	"47009"	178	65915	270.0	201.6
+	"Bradley County, TN"	"47011"	189	53153	355.6	294.2
+	"Campbell County, TN"	"47013"	112	20636	542.7	426.6
+	"Cannon County, TN"	"47015"	37	7253	510.1	400.4
+	"Carroll County, TN"	"47017"	69	13810	499.6	362.9
+	"Carter County, TN"	"47019"	109	29911	364.4	286.9
+	"Cheatham County, TN"	"47021"	57	21919	260.0	200.5
+	"Chester County, TN"	"47023"	42	8170	514.1	415.8
+	"Claiborne County, TN"	"47025"	82	16543	495.7	372.1
+	"Clay County, TN"	"47027"	16	3789	Unreliable	Unreliable
+	"Cocke County, TN"	"47029"	121	18471	655.1	468.6
+	"Coffee County, TN"	"47031"	127	27255	466.0	386.2
+	"Crockett County, TN"	"47033"	28	7354	380.7	313.1
+	"Cumberland County, TN"	"47035"	115	26702	430.7	327.6
+	"Davidson County, TN"	"47037"	1000	380802	262.6	252.5
+	"Decatur County, TN"	"47039"	28	5839	479.5	343.9
+	"DeKalb County, TN"	"47041"	47	10047	467.8	384.1
+	"Dickson County, TN"	"47043"	108	27013	399.8	310.0
+	"Dyer County, TN"	"47045"	70	19247	363.7	300.6
+	"Fayette County, TN"	"47047"	80	20835	384.0	290.0
+	"Fentress County, TN"	"47049"	42	9046	464.3	347.4
+	"Franklin County, TN"	"47051"	87	20258	429.5	350.5
+	"Gibson County, TN"	"47053"	136	24770	549.1	453.4
+	"Giles County, TN"	"47055"	58	14855	390.4	319.4
+	"Grainger County, TN"	"47057"	50	12055	414.8	328.5
+	"Greene County, TN"	"47059"	128	35206	363.6	278.6
+	"Grundy County, TN"	"47061"	38	6692	567.8	470.0
+	"Hamblen County, TN"	"47063"	137	32066	427.2	338.3
+	"Hamilton County, TN"	"47065"	586	186750	313.8	255.5
+	"Hancock County, TN"	"47067"	33	3510	940.2	706.8
+	"Hardeman County, TN"	"47069"	56	14194	394.5	322.3
+	"Hardin County, TN"	"47071"	84	13035	644.4	468.2
+	"Hawkins County, TN"	"47073"	140	29532	474.1	374.8
+	"Haywood County, TN"	"47075"	46	9371	490.9	377.0
+	"Henderson County, TN"	"47077"	59	14508	406.7	328.0
+	"Henry County, TN"	"47079"	72	16185	444.9	312.6
+	"Hickman County, TN"	"47081"	48	13238	362.6	276.5
+	"Houston County, TN"	"47083"	14	4171	Unreliable	Unreliable
+	"Humphreys County, TN"	"47085"	37	9244	400.3	287.3
+	"Jackson County, TN"	"47087"	29	6055	478.9	337.5
+	"Jefferson County, TN"	"47089"	98	26720	366.8	272.4
+	"Johnson County, TN"	"47091"	32	9700	329.9	279.0
+	"Knox County, TN"	"47093"	741	232305	319.0	266.9
+	"Lake County, TN"	"47095"	18	4496	Unreliable	Unreliable
+	"Lauderdale County, TN"	"47097"	66	14709	448.7	379.2
+	"Lawrence County, TN"	"47099"	98	20903	468.8	368.5
+	"Lewis County, TN"	"47101"	32	6130	522.0	371.7
+	"Lincoln County, TN"	"47103"	72	17255	417.3	326.2
+	"Loudon County, TN"	"47105"	85	24753	343.4	258.9
+	"McMinn County, TN"	"47107"	119	26841	443.4	341.3
+	"McNairy County, TN"	"47109"	62	13129	472.2	353.0
+	"Macon County, TN"	"47111"	62	11782	526.2	441.9
+	"Madison County, TN"	"47113"	183	49920	366.6	299.6
+	"Marion County, TN"	"47115"	60	14946	401.4	291.5
+	"Marshall County, TN"	"47117"	62	16573	374.1	292.0
+	"Maury County, TN"	"47119"	170	45711	371.9	305.7
+	"Meigs County, TN"	"47121"	20	6137	325.9	253.9
+	"Monroe County, TN"	"47123"	82	23059	355.6	276.5
+	"Montgomery County, TN"	"47125"	220	99218	221.7	234.6
+	"Moore County, TN"	"47127"	Suppressed	3266	Suppressed	Suppressed
+	"Morgan County, TN"	"47129"	55	12069	455.7	359.1
+	"Obion County, TN"	"47131"	66	15798	417.8	331.9
+	"Overton County, TN"	"47133"	54	11099	486.5	369.5
+	"Perry County, TN"	"47135"	20	3896	513.3	353.5
+	"Pickett County, TN"	"47137"	Suppressed	2537	Suppressed	Suppressed
+	"Polk County, TN"	"47139"	33	8766	376.5	282.2
+	"Putnam County, TN"	"47141"	120	35425	338.7	288.5
+	"Rhea County, TN"	"47143"	75	16337	459.1	338.8
+	"Roane County, TN"	"47145"	122	27352	446.0	321.2
+	"Robertson County, TN"	"47147"	131	36321	360.7	290.1
+	"Rutherford County, TN"	"47149"	329	150605	218.5	202.9
+	"Scott County, TN"	"47151"	60	11326	529.8	414.1
+	"Sequatchie County, TN"	"47153"	33	7560	436.5	348.6
+	"Sevier County, TN"	"47155"	200	50225	398.2	319.8
+	"Shelby County, TN"	"47157"	1778	494122	359.8	308.9
+	"Smith County, TN"	"47159"	37	10095	366.5	274.4
+	"Stewart County, TN"	"47161"	34	6906	492.3	358.7
+	"Sullivan County, TN"	"47163"	305	81426	374.6	278.1
+	"Sumner County, TN"	"47165"	265	91482	289.7	239.4
+	"Tipton County, TN"	"47167"	139	32221	431.4	364.0
+	"Trousdale County, TN"	"47169"	21	4227	496.8	424.9
+	"Unicoi County, TN"	"47171"	31	9311	332.9	238.3
+	"Union County, TN"	"47173"	46	10058	457.3	360.9
+	"Van Buren County, TN"	"47175"	17	2975	Unreliable	Unreliable
+	"Warren County, TN"	"47177"	76	20678	367.5	282.4
+	"Washington County, TN"	"47179"	226	64333	351.3	288.0
+	"Wayne County, TN"	"47181"	41	9273	442.1	368.1
+	"Weakley County, TN"	"47183"	65	15934	407.9	338.7
+	"White County, TN"	"47185"	79	13445	587.6	470.6
+	"Williamson County, TN"	"47187"	142	108719	130.6	103.3
+	"Wilson County, TN"	"47189"	181	67037	270.0	212.6
+	"Anderson County, TX"	"48001"	157	33955	462.4	418.8
+	"Andrews County, TX"	"48003"	20	8639	231.5	214.8
+	"Angelina County, TX"	"48005"	155	43579	355.7	290.0
+	"Aransas County, TX"	"48007"	41	11843	346.2	241.5
+	"Archer County, TX"	"48009"	Suppressed	4574	Suppressed	Suppressed
+	"Armstrong County, TX"	"48011"	Suppressed	956	Suppressed	Suppressed
+	"Atascosa County, TX"	"48013"	76	23421	324.5	276.4
+	"Austin County, TX"	"48015"	41	14590	281.0	222.9
+	"Bailey County, TX"	"48017"	10	3154	Unreliable	Unreliable
+	"Bandera County, TX"	"48019"	33	10787	305.9	208.9
+	"Bastrop County, TX"	"48021"	126	41081	306.7	236.0
+	"Baylor County, TX"	"48023"	Suppressed	1679	Suppressed	Suppressed
+	"Bee County, TX"	"48025"	46	18179	253.0	242.2
+	"Bell County, TX"	"48027"	375	165243	226.9	228.7
+	"Bexar County, TX"	"48029"	2245	961219	233.6	220.1
+	"Blanco County, TX"	"48031"	12	5613	Unreliable	Unreliable
+	"Borden County, TX"	"48033"	Suppressed	330	Suppressed	Suppressed
+	"Bosque County, TX"	"48035"	36	8446	426.2	255.9
+	"Bowie County, TX"	"48037"	196	48183	406.8	338.5
+	"Brazoria County, TX"	"48039"	393	181702	216.3	192.8
+	"Brazos County, TX"	"48041"	155	90172	171.9	175.5
+	"Brewster County, TX"	"48043"	Suppressed	4842	Suppressed	Suppressed
+	"Briscoe County, TX"	"48045"	Suppressed	742	Suppressed	Suppressed
+	"Brooks County, TX"	"48047"	10	3158	Unreliable	Unreliable
+	"Brown County, TX"	"48049"	92	18422	499.4	405.3
+	"Burleson County, TX"	"48051"	32	8666	369.3	239.9
+	"Burnet County, TX"	"48053"	63	22121	284.8	203.3
+	"Caldwell County, TX"	"48055"	58	20141	288.0	255.5
+	"Calhoun County, TX"	"48057"	28	10823	258.7	224.9
+	"Callahan County, TX"	"48059"	32	6845	467.5	329.1
+	"Cameron County, TX"	"48061"	458	190223	240.8	221.3
+	"Camp County, TX"	"48063"	24	6026	398.3	316.1
+	"Carson County, TX"	"48065"	Suppressed	3016	Suppressed	Suppressed
+	"Cass County, TX"	"48067"	69	14732	468.4	363.2
+	"Castro County, TX"	"48069"	13	3620	Unreliable	Unreliable
+	"Chambers County, TX"	"48071"	50	20064	249.2	204.4
+	"Cherokee County, TX"	"48073"	70	24845	281.7	218.6
+	"Childress County, TX"	"48075"	15	3655	Unreliable	Unreliable
+	"Clay County, TX"	"48077"	17	5290	Unreliable	Unreliable
+	"Cochran County, TX"	"48079"	Suppressed	1392	Suppressed	Suppressed
+	"Coke County, TX"	"48081"	Suppressed	1541	Suppressed	Suppressed
+	"Coleman County, TX"	"48083"	21	4057	517.6	454.2
+	"Collin County, TX"	"48085"	632	487687	129.6	119.1
+	"Collingsworth County, TX"	"48087"	Suppressed	1407	Suppressed	Suppressed
+	"Colorado County, TX"	"48089"	33	10011	329.6	235.5
+	"Comal County, TX"	"48091"	147	64107	229.3	175.9
+	"Comanche County, TX"	"48093"	22	6306	348.9	253.2
+	"Concho County, TX"	"48095"	Suppressed	2596	Suppressed	Suppressed
+	"Cooke County, TX"	"48097"	80	19141	418.0	307.5
+	"Coryell County, TX"	"48099"	84	40665	206.6	232.3
+	"Cottle County, TX"	"48101"	Suppressed	659	Suppressed	Suppressed
+	"Crane County, TX"	"48103"	Suppressed	2412	Suppressed	Suppressed
+	"Crockett County, TX"	"48105"	Suppressed	1951	Suppressed	Suppressed
+	"Crosby County, TX"	"48107"	17	2714	Unreliable	Unreliable
+	"Culberson County, TX"	"48109"	Suppressed	1119	Suppressed	Suppressed
+	"Dallam County, TX"	"48111"	13	3572	Unreliable	Unreliable
+	"Dallas County, TX"	"48113"	3174	1351029	234.9	224.0
+	"Dawson County, TX"	"48115"	22	6590	333.8	314.3
+	"Deaf Smith County, TX"	"48117"	22	8862	248.3	224.4
+	"Delta County, TX"	"48119"	14	2531	Unreliable	Unreliable
+	"Denton County, TX"	"48121"	586	418526	140.0	133.5
+	"DeWitt County, TX"	"48123"	40	10589	377.8	308.7
+	"Dickens County, TX"	"48125"	Suppressed	1144	Suppressed	Suppressed
+	"Dimmit County, TX"	"48127"	10	5047	Unreliable	Unreliable
+	"Donley County, TX"	"48129"	Suppressed	1530	Suppressed	Suppressed
+	"Duval County, TX"	"48131"	30	5348	561.0	501.4
+	"Eastland County, TX"	"48133"	37	8495	435.6	302.2
+	"Ector County, TX"	"48135"	248	76279	325.1	305.6
+	"Edwards County, TX"	"48137"	Suppressed	872	Suppressed	Suppressed
+	"Ellis County, TX"	"48139"	231	82322	280.6	231.7
+	"El Paso County, TX"	"48141"	789	405357	194.6	179.1
+	"Erath County, TX"	"48143"	51	17517	291.1	251.1
+	"Falls County, TX"	"48145"	30	8904	336.9	282.7
+	"Fannin County, TX"	"48147"	68	17390	391.0	288.6
+	"Fayette County, TX"	"48149"	33	11949	276.2	191.4
+	"Fisher County, TX"	"48151"	Suppressed	1833	Suppressed	Suppressed
+	"Floyd County, TX"	"48153"	Suppressed	2721	Suppressed	Suppressed
+	"Foard County, TX"	"48155"	Suppressed	587	Suppressed	Suppressed
+	"Fort Bend County, TX"	"48157"	568	370986	153.1	132.4
+	"Franklin County, TX"	"48159"	19	5127	Unreliable	Unreliable
+	"Freestone County, TX"	"48161"	39	10213	381.9	293.8
+	"Frio County, TX"	"48163"	35	9382	373.1	396.3
+	"Gaines County, TX"	"48165"	15	8913	Unreliable	Unreliable
+	"Galveston County, TX"	"48167"	529	168435	314.1	260.2
+	"Garza County, TX"	"48169"	12	3620	Unreliable	Unreliable
+	"Gillespie County, TX"	"48171"	26	11571	224.7	172.1
+	"Glasscock County, TX"	"48173"	Suppressed	649	Suppressed	Suppressed
+	"Goliad County, TX"	"48175"	12	3775	Unreliable	Unreliable
+	"Gonzales County, TX"	"48177"	27	9904	272.6	211.0
+	"Gray County, TX"	"48179"	51	11698	436.0	379.8
+	"Grayson County, TX"	"48181"	228	62063	367.4	292.7
+	"Gregg County, TX"	"48183"	222	61290	362.2	303.4
+	"Grimes County, TX"	"48185"	67	14496	462.2	348.0
+	"Guadalupe County, TX"	"48187"	167	76217	219.1	188.8
+	"Hale County, TX"	"48189"	42	16531	254.1	218.4
+	"Hall County, TX"	"48191"	Suppressed	1396	Suppressed	Suppressed
+	"Hamilton County, TX"	"48193"	17	3795	Unreliable	Unreliable
+	"Hansford County, TX"	"48195"	10	2629	Unreliable	Unreliable
+	"Hardeman County, TX"	"48197"	10	1951	Unreliable	Unreliable
+	"Hardin County, TX"	"48199"	106	28825	367.7	307.2
+	"Harris County, TX"	"48201"	5230	2388788	218.9	208.0
+	"Harrison County, TX"	"48203"	124	33486	370.3	296.4
+	"Hartley County, TX"	"48205"	Suppressed	3563	Suppressed	Suppressed
+	"Haskell County, TX"	"48207"	17	2851	Unreliable	Unreliable
+	"Hays County, TX"	"48209"	153	90393	169.3	154.2
+	"Hemphill County, TX"	"48211"	Suppressed	2007	Suppressed	Suppressed
+	"Henderson County, TX"	"48213"	178	38864	458.0	347.8
+	"Hidalgo County, TX"	"48215"	722	373373	193.4	191.6
+	"Hill County, TX"	"48217"	55	16629	330.7	244.9
+	"Hockley County, TX"	"48219"	32	11120	287.8	240.7
+	"Hood County, TX"	"48221"	86	26083	329.7	237.4
+	"Hopkins County, TX"	"48223"	69	17656	390.8	311.5
+	"Houston County, TX"	"48225"	45	11863	379.3	267.6
+	"Howard County, TX"	"48227"	56	20129	278.2	242.8
+	"Hudspeth County, TX"	"48229"	Suppressed	1547	Suppressed	Suppressed
+	"Hunt County, TX"	"48231"	202	44991	449.0	358.6
+	"Hutchinson County, TX"	"48233"	30	10989	273.0	205.6
+	"Irion County, TX"	"48235"	Suppressed	812	Suppressed	Suppressed
+	"Jack County, TX"	"48237"	16	4608	Unreliable	Unreliable
+	"Jackson County, TX"	"48239"	27	7235	373.2	312.4
+	"Jasper County, TX"	"48241"	88	17577	500.7	397.1
+	"Jeff Davis County, TX"	"48243"	Suppressed	1160	Suppressed	Suppressed
+	"Jefferson County, TX"	"48245"	468	132801	352.4	302.1
+	"Jim Hogg County, TX"	"48247"	Suppressed	2413	Suppressed	Suppressed
+	"Jim Wells County, TX"	"48249"	65	19781	328.6	278.0
+	"Johnson County, TX"	"48251"	232	81233	285.6	232.8
+	"Jones County, TX"	"48253"	21	11566	181.6	171.3
+	"Karnes County, TX"	"48255"	25	8007	312.2	295.8
+	"Kaufman County, TX"	"48257"	173	58248	297.0	252.4
+	"Kendall County, TX"	"48259"	32	19290	165.9	121.0
+	"Kenedy County, TX"	"48261"	Suppressed	204	Suppressed	Suppressed
+	"Kent County, TX"	"48263"	Suppressed	362	Suppressed	Suppressed
+	"Kerr County, TX"	"48265"	66	22949	287.6	217.0
+	"Kimble County, TX"	"48267"	Suppressed	2132	Suppressed	Suppressed
+	"King County, TX"	"48269"	Suppressed	145	Suppressed	Suppressed
+	"Kinney County, TX"	"48271"	Suppressed	1637	Suppressed	Suppressed
+	"Kleberg County, TX"	"48273"	54	13559	398.3	364.2
+	"Knox County, TX"	"48275"	Suppressed	1756	Suppressed	Suppressed
+	"Lamar County, TX"	"48277"	106	24237	437.3	353.2
+	"Lamb County, TX"	"48279"	22	6328	347.7	290.2
+	"Lampasas County, TX"	"48281"	35	10211	342.8	267.4
+	"La Salle County, TX"	"48283"	Suppressed	3582	Suppressed	Suppressed
+	"Lavaca County, TX"	"48285"	28	9320	300.4	209.3
+	"Lee County, TX"	"48287"	33	8557	385.6	264.8
+	"Leon County, TX"	"48289"	45	7991	563.1	392.1
+	"Liberty County, TX"	"48291"	160	41204	388.3	320.0
+	"Limestone County, TX"	"48293"	44	11874	370.6	285.2
+	"Lipscomb County, TX"	"48295"	Suppressed	1783	Suppressed	Suppressed
+	"Live Oak County, TX"	"48297"	22	6297	349.4	258.1
+	"Llano County, TX"	"48299"	26	8797	295.6	184.4
+	"Loving County, TX"	"48301"	Suppressed	46	Suppressed	Suppressed
+	"Lubbock County, TX"	"48303"	414	137606	300.9	273.2
+	"Lynn County, TX"	"48305"	Suppressed	2808	Suppressed	Suppressed
+	"McCulloch County, TX"	"48307"	13	3889	Unreliable	Unreliable
+	"McLennan County, TX"	"48309"	371	113764	326.1	277.6
+	"McMullen County, TX"	"48311"	Suppressed	399	Suppressed	Suppressed
+	"Madison County, TX"	"48313"	15	7211	Unreliable	Unreliable
+	"Marion County, TX"	"48315"	35	5205	672.4	449.7
+	"Martin County, TX"	"48317"	Suppressed	2616	Suppressed	Suppressed
+	"Mason County, TX"	"48319"	Suppressed	1877	Suppressed	Suppressed
+	"Matagorda County, TX"	"48321"	58	18129	319.9	249.0
+	"Maverick County, TX"	"48323"	54	25721	209.9	192.9
+	"Medina County, TX"	"48325"	64	24100	265.6	203.7
+	"Menard County, TX"	"48327"	Suppressed	986	Suppressed	Suppressed
+	"Midland County, TX"	"48329"	165	81137	203.4	183.0
+	"Milam County, TX"	"48331"	57	11525	494.6	383.2
+	"Mills County, TX"	"48333"	Suppressed	2211	Suppressed	Suppressed
+	"Mitchell County, TX"	"48335"	17	4867	Unreliable	Unreliable
+	"Montague County, TX"	"48337"	44	9413	467.4	343.8
+	"Montgomery County, TX"	"48339"	591	273647	216.0	178.9
+	"Moore County, TX"	"48341"	20	10653	187.7	169.2
+	"Morris County, TX"	"48343"	32	6111	523.6	398.6
+	"Motley County, TX"	"48345"	Suppressed	531	Suppressed	Suppressed
+	"Nacogdoches County, TX"	"48347"	89	28329	314.2	266.3
+	"Navarro County, TX"	"48349"	76	23385	325.0	268.6
+	"Newton County, TX"	"48351"	34	7264	468.1	354.4
+	"Nolan County, TX"	"48353"	28	7248	386.3	284.3
+	"Nueces County, TX"	"48355"	503	183340	274.4	235.0
+	"Ochiltree County, TX"	"48357"	13	5225	Unreliable	Unreliable
+	"Oldham County, TX"	"48359"	Suppressed	1059	Suppressed	Suppressed
+	"Orange County, TX"	"48361"	186	42933	433.2	343.9
+	"Palo Pinto County, TX"	"48363"	57	13771	413.9	315.7
+	"Panola County, TX"	"48365"	35	11890	294.4	242.1
+	"Parker County, TX"	"48367"	165	64348	256.4	195.1
+	"Parmer County, TX"	"48369"	Suppressed	4754	Suppressed	Suppressed
+	"Pecos County, TX"	"48371"	17	8597	Unreliable	Unreliable
+	"Polk County, TX"	"48373"	116	23732	488.8	363.8
+	"Potter County, TX"	"48375"	212	62508	339.2	309.4
+	"Presidio County, TX"	"48377"	13	3079	Unreliable	Unreliable
+	"Rains County, TX"	"48379"	20	5451	366.9	262.5
+	"Randall County, TX"	"48381"	155	66288	233.8	208.0
+	"Reagan County, TX"	"48383"	Suppressed	1886	Suppressed	Suppressed
+	"Real County, TX"	"48385"	Suppressed	1582	Suppressed	Suppressed
+	"Red River County, TX"	"48387"	33	6159	535.8	346.9
+	"Reeves County, TX"	"48389"	29	7610	381.1	385.6
+	"Refugio County, TX"	"48391"	14	3462	Unreliable	Unreliable
+	"Roberts County, TX"	"48393"	Suppressed	470	Suppressed	Suppressed
+	"Robertson County, TX"	"48395"	41	8018	511.3	368.1
+	"Rockwall County, TX"	"48397"	76	46168	164.6	139.2
+	"Runnels County, TX"	"48399"	21	4969	422.6	322.5
+	"Rusk County, TX"	"48401"	102	28382	359.4	294.3
+	"Sabine County, TX"	"48403"	20	4799	416.8	275.1
+	"San Augustine County, TX"	"48405"	29	4067	713.1	433.5
+	"San Jacinto County, TX"	"48407"	80	13509	592.2	411.5
+	"San Patricio County, TX"	"48409"	99	32827	301.6	250.3
+	"San Saba County, TX"	"48411"	Suppressed	2653	Suppressed	Suppressed
+	"Schleicher County, TX"	"48413"	Suppressed	1534	Suppressed	Suppressed
+	"Scurry County, TX"	"48415"	23	8783	261.9	241.2
+	"Shackelford County, TX"	"48417"	Suppressed	1672	Suppressed	Suppressed
+	"Shelby County, TX"	"48419"	56	12498	448.1	363.1
+	"Sherman County, TX"	"48421"	Suppressed	1506	Suppressed	Suppressed
+	"Smith County, TX"	"48423"	289	108209	267.1	219.5
+	"Somervell County, TX"	"48425"	10	4336	Unreliable	Unreliable
+	"Starr County, TX"	"48427"	68	27742	245.1	236.6
+	"Stephens County, TX"	"48429"	14	4623	Unreliable	Unreliable
+	"Sterling County, TX"	"48431"	Suppressed	663	Suppressed	Suppressed
+	"Stonewall County, TX"	"48433"	Suppressed	648	Suppressed	Suppressed
+	"Sutton County, TX"	"48435"	Suppressed	1964	Suppressed	Suppressed
+	"Swisher County, TX"	"48437"	19	3577	Unreliable	Unreliable
+	"Tarrant County, TX"	"48439"	2245	1035365	216.8	197.3
+	"Taylor County, TX"	"48441"	231	63113	366.0	319.2
+	"Terrell County, TX"	"48443"	Suppressed	457	Suppressed	Suppressed
+	"Terry County, TX"	"48445"	16	6211	Unreliable	Unreliable
+	"Throckmorton County, TX"	"48447"	Suppressed	745	Suppressed	Suppressed
+	"Titus County, TX"	"48449"	39	15437	252.6	215.8
+	"Tom Green County, TX"	"48451"	129	57467	224.5	195.0
+	"Travis County, TX"	"48453"	928	673830	137.7	142.8
+	"Trinity County, TX"	"48455"	38	6880	552.3	388.9
+	"Tyler County, TX"	"48457"	50	10942	457.0	359.2
+	"Upshur County, TX"	"48459"	77	20415	377.2	278.3
+	"Upton County, TX"	"48461"	Suppressed	1709	Suppressed	Suppressed
+	"Uvalde County, TX"	"48463"	34	12260	277.3	231.1
+	"Val Verde County, TX"	"48465"	46	22543	204.1	190.3
+	"Van Zandt County, TX"	"48467"	88	26016	338.3	248.5
+	"Victoria County, TX"	"48469"	140	45644	306.7	261.4
+	"Walker County, TX"	"48471"	83	37214	223.0	196.7
+	"Waller County, TX"	"48473"	62	20468	302.9	237.2
+	"Ward County, TX"	"48475"	17	5631	Unreliable	Unreliable
+	"Washington County, TX"	"48477"	56	16395	341.6	247.1
+	"Webb County, TX"	"48479"	275	122025	225.4	224.8
+	"Wharton County, TX"	"48481"	41	20180	203.2	157.3
+	"Wheeler County, TX"	"48483"	10	2764	Unreliable	Unreliable
+	"Wichita County, TX"	"48485"	222	66006	336.3	296.2
+	"Wilbarger County, TX"	"48487"	22	6458	340.7	273.4
+	"Willacy County, TX"	"48489"	38	10697	355.2	351.8
+	"Williamson County, TX"	"48491"	354	264477	133.8	126.9
+	"Wilson County, TX"	"48493"	70	24220	289.0	236.7
+	"Winkler County, TX"	"48495"	13	3820	Unreliable	Unreliable
+	"Wise County, TX"	"48497"	89	32143	276.9	213.5
+	"Wood County, TX"	"48499"	78	19691	396.1	275.8
+	"Yoakum County, TX"	"48501"	Suppressed	3869	Suppressed	Suppressed
+	"Young County, TX"	"48503"	37	8967	412.6	304.7
+	"Zapata County, TX"	"48505"	26	6325	411.1	384.6
+	"Zavala County, TX"	"48507"	21	5439	386.1	356.2
+	"Beaver County, UT"	"49001"	Suppressed	2930	Suppressed	Suppressed
+	"Box Elder County, UT"	"49003"	40	23886	167.5	150.5
+	"Cache County, UT"	"49005"	59	49010	120.4	123.7
+	"Carbon County, UT"	"49007"	25	9997	250.1	210.2
+	"Daggett County, UT"	"49009"	Suppressed	557	Suppressed	Suppressed
+	"Davis County, UT"	"49011"	207	158544	130.6	129.3
+	"Duchesne County, UT"	"49013"	18	9423	Unreliable	Unreliable
+	"Emery County, UT"	"49015"	11	4986	Unreliable	Unreliable
+	"Garfield County, UT"	"49017"	Suppressed	2440	Suppressed	Suppressed
+	"Grand County, UT"	"49019"	14	5145	Unreliable	Unreliable
+	"Iron County, UT"	"49021"	41	20474	200.3	183.0
+	"Juab County, UT"	"49023"	11	4635	Unreliable	Unreliable
+	"Kane County, UT"	"49025"	Suppressed	3493	Suppressed	Suppressed
+	"Millard County, UT"	"49027"	15	5577	Unreliable	Unreliable
+	"Morgan County, UT"	"49029"	Suppressed	4770	Suppressed	Suppressed
+	"Piute County, UT"	"49031"	Suppressed	634	Suppressed	Suppressed
+	"Rich County, UT"	"49033"	Suppressed	1049	Suppressed	Suppressed
+	"Salt Lake County, UT"	"49035"	898	571181	157.2	153.5
+	"San Juan County, UT"	"49037"	11	6879	Unreliable	Unreliable
+	"Sanpete County, UT"	"49039"	21	12453	168.6	138.2
+	"Sevier County, UT"	"49041"	28	9543	293.4	258.5
+	"Summit County, UT"	"49043"	25	21914	114.1	92.3
+	"Tooele County, UT"	"49045"	50	29861	167.4	167.3
+	"Uintah County, UT"	"49047"	34	17675	192.4	177.5
+	"Utah County, UT"	"49049"	241	231974	103.9	115.8
+	"Wasatch County, UT"	"49051"	21	13679	153.5	143.8
+	"Washington County, UT"	"49053"	113	65802	171.7	156.5
+	"Wayne County, UT"	"49055"	Suppressed	1271	Suppressed	Suppressed
+	"Weber County, UT"	"49057"	228	120357	189.4	180.3
+	"Addison County, VT"	"50001"	48	18835	254.8	160.1
+	"Bennington County, VT"	"50003"	53	18214	291.0	207.8
+	"Caledonia County, VT"	"50005"	35	16150	216.7	151.4
+	"Chittenden County, VT"	"50007"	140	83562	167.5	139.0
+	"Essex County, VT"	"50009"	Suppressed	3234	Suppressed	Suppressed
+	"Franklin County, VT"	"50011"	65	26857	242.0	184.0
+	"Grand Isle County, VT"	"50013"	15	3934	Unreliable	Unreliable
+	"Lamoille County, VT"	"50015"	29	13549	214.0	149.8
+	"Orange County, VT"	"50017"	34	15713	216.4	158.4
+	"Orleans County, VT"	"50019"	45	14101	319.1	223.2
+	"Rutland County, VT"	"50021"	87	31706	274.4	196.7
+	"Washington County, VT"	"50023"	72	31902	225.7	168.8
+	"Windham County, VT"	"50025"	49	23347	209.9	146.7
+	"Windsor County, VT"	"50027"	57	30128	189.2	128.0
+	"Accomack County, VA"	"51001"	73	16687	437.5	296.2
+	"Albemarle County, VA"	"51003"	72	53015	135.8	106.6
+	"Alleghany County, VA"	"51005"	30	7759	386.6	249.7
+	"Amelia County, VA"	"51007"	16	6828	Unreliable	Unreliable
+	"Amherst County, VA"	"51009"	52	16470	315.7	234.6
+	"Appomattox County, VA"	"51011"	34	7873	431.9	317.0
+	"Arlington County, VA"	"51013"	135	149228	90.5	107.3
+	"Augusta County, VA"	"51015"	114	39174	291.0	212.7
+	"Bath County, VA"	"51017"	Suppressed	2345	Suppressed	Suppressed
+	"Bedford County, VA"	"51019"	107	40211	266.1	196.5
+	"Bland County, VA"	"51021"	16	3710	Unreliable	Unreliable
+	"Botetourt County, VA"	"51023"	53	17504	302.8	218.1
+	"Brunswick County, VA"	"51025"	40	8930	447.9	345.9
+	"Buchanan County, VA"	"51027"	70	12833	545.5	447.6
+	"Buckingham County, VA"	"51029"	30	9515	315.3	237.8
+	"Campbell County, VA"	"51031"	88	29003	303.4	242.3
+	"Caroline County, VA"	"51033"	50	16075	311.0	265.4
+	"Carroll County, VA"	"51035"	78	15355	508.0	369.2
+	"Charles City County, VA"	"51036"	13	3914	Unreliable	Unreliable
+	"Charlotte County, VA"	"51037"	14	6132	Unreliable	Unreliable
+	"Chesterfield County, VA"	"51041"	339	177712	190.8	155.6
+	"Clarke County, VA"	"51043"	14	7584	Unreliable	Unreliable
+	"Craig County, VA"	"51045"	Suppressed	2725	Suppressed	Suppressed
+	"Culpeper County, VA"	"51047"	66	25917	254.7	209.9
+	"Cumberland County, VA"	"51049"	14	5046	Unreliable	Unreliable
+	"Dickenson County, VA"	"51051"	46	8128	565.9	464.6
+	"Dinwiddie County, VA"	"51053"	45	15174	296.6	222.6
+	"Essex County, VA"	"51057"	22	5697	386.2	253.9
+	"Fairfax County, VA"	"51059"	639	641265	99.6	85.4
+	"Fauquier County, VA"	"51061"	86	36204	237.5	185.4
+	"Floyd County, VA"	"51063"	25	8183	305.5	215.0
+	"Fluvanna County, VA"	"51065"	25	13901	179.8	140.1
+	"Franklin County, VA"	"51067"	112	28557	392.2	278.4
+	"Frederick County, VA"	"51069"	93	43654	213.0	171.9
+	"Giles County, VA"	"51071"	44	8715	504.9	377.4
+	"Gloucester County, VA"	"51073"	73	20076	363.6	284.3
+	"Goochland County, VA"	"51075"	22	12038	182.8	110.1
+	"Grayson County, VA"	"51077"	18	7796	Unreliable	Unreliable
+	"Greene County, VA"	"51079"	30	10093	297.2	232.0
+	"Greensville County, VA"	"51081"	32	6863	466.3	390.2
+	"Halifax County, VA"	"51083"	66	17332	380.8	273.2
+	"Hanover County, VA"	"51085"	118	53586	220.2	163.6
+	"Henrico County, VA"	"51087"	366	175643	208.4	180.1
+	"Henry County, VA"	"51089"	121	26641	454.2	342.0
+	"Highland County, VA"	"51091"	Suppressed	1152	Suppressed	Suppressed
+	"Isle of Wight County, VA"	"51093"	62	19408	319.5	229.7
+	"James City County, VA"	"51095"	65	35339	183.9	126.1
+	"King and Queen County, VA"	"51097"	14	3814	Unreliable	Unreliable
+	"King George County, VA"	"51099"	29	13573	213.7	181.0
+	"King William County, VA"	"51101"	22	8802	249.9	190.6
+	"Lancaster County, VA"	"51103"	21	4848	433.2	355.9
+	"Lee County, VA"	"51105"	72	13653	527.4	415.4
+	"Loudoun County, VA"	"51107"	191	202587	94.3	92.0
+	"Louisa County, VA"	"51109"	59	18670	316.0	245.1
+	"Lunenburg County, VA"	"51111"	26	6743	385.6	289.1
+	"Madison County, VA"	"51113"	25	6681	374.2	274.3
+	"Mathews County, VA"	"51115"	Suppressed	4258	Suppressed	Suppressed
+	"Mecklenburg County, VA"	"51117"	70	15555	450.0	355.9
+	"Middlesex County, VA"	"51119"	20	5249	381.0	271.3
+	"Montgomery County, VA"	"51121"	87	43295	200.9	187.0
+	"Nelson County, VA"	"51125"	31	7562	409.9	299.3
+	"New Kent County, VA"	"51127"	27	11277	239.4	190.8
+	"Northampton County, VA"	"51131"	29	5894	492.0	346.3
+	"Northumberland County, VA"	"51133"	19	5388	Unreliable	Unreliable
+	"Nottoway County, VA"	"51135"	25	8253	302.9	231.8
+	"Orange County, VA"	"51137"	57	17798	320.3	237.7
+	"Page County, VA"	"51139"	46	12543	366.7	289.3
+	"Patrick County, VA"	"51141"	33	9327	353.8	263.2
+	"Pittsylvania County, VA"	"51143"	115	32859	350.0	256.5
+	"Powhatan County, VA"	"51145"	23	16091	142.9	105.2
+	"Prince Edward County, VA"	"51147"	38	9597	396.0	301.6
+	"Prince George County, VA"	"51149"	46	21334	215.6	196.1
+	"Prince William County, VA"	"51153"	332	244265	135.9	127.8
+	"Pulaski County, VA"	"51155"	63	18383	342.7	257.5
+	"Rappahannock County, VA"	"51157"	Suppressed	3786	Suppressed	Suppressed
+	"Richmond County, VA"	"51159"	13	4969	Unreliable	Unreliable
+	"Roanoke County, VA"	"51161"	127	48286	263.0	189.9
+	"Rockbridge County, VA"	"51163"	27	11492	234.9	167.6
+	"Rockingham County, VA"	"51165"	79	39332	200.9	144.7
+	"Russell County, VA"	"51167"	81	15110	536.1	412.1
+	"Scott County, VA"	"51169"	60	11738	511.2	390.8
+	"Shenandoah County, VA"	"51171"	66	21852	302.0	222.5
+	"Smyth County, VA"	"51173"	71	16374	433.6	321.7
+	"Southampton County, VA"	"51175"	27	10002	269.9	177.5
+	"Spotsylvania County, VA"	"51177"	147	68744	213.8	179.8
+	"Stafford County, VA"	"51179"	128	75022	170.6	152.6
+	"Surry County, VA"	"51181"	17	3699	Unreliable	Unreliable
+	"Sussex County, VA"	"51183"	29	6795	426.8	336.7
+	"Tazewell County, VA"	"51185"	117	23022	508.2	392.0
+	"Warren County, VA"	"51187"	56	21001	266.7	206.2
+	"Washington County, VA"	"51191"	96	28725	334.2	253.6
+	"Westmoreland County, VA"	"51193"	38	8789	432.4	306.6
+	"Wise County, VA"	"51195"	97	21500	451.2	393.0
+	"Wythe County, VA"	"51197"	49	15425	317.7	226.3
+	"York County, VA"	"51199"	52	34405	151.1	122.2
+	"Alexandria city, VA"	"51510"	116	99788	116.2	126.4
+	"Bedford city, VA"	"51515"	Missing	Missing	Missing	Missing
+	"Bristol city, VA"	"51520"	52	8959	580.4	493.6
+	"Buena Vista city, VA"	"51530"	Suppressed	3085	Suppressed	Suppressed
+	"Charlottesville city, VA"	"51540"	45	23780	189.2	208.6
+	"Chesapeake city, VA"	"51550"	284	126724	224.1	189.2
+	"Clifton Forge city, VA"	"51560"	Missing	Missing	Missing	Missing
+	"Colonial Heights city, VA"	"51570"	32	8559	373.9	291.1
+	"Covington city, VA"	"51580"	13	2918	Unreliable	Unreliable
+	"Danville city, VA"	"51590"	91	20691	439.8	335.2
+	"Emporia city, VA"	"51595"	19	2709	Unreliable	Unreliable
+	"Fairfax city, VA"	"51600"	19	12908	Unreliable	Unreliable
+	"Falls Church city, VA"	"51610"	Suppressed	7515	Suppressed	Suppressed
+	"Franklin city, VA"	"51620"	18	4097	Unreliable	Unreliable
+	"Fredericksburg city, VA"	"51630"	32	13922	229.9	227.3
+	"Galax city, VA"	"51640"	20	3369	593.6	483.4
+	"Hampton city, VA"	"51650"	258	71842	359.1	304.6
+	"Harrisonburg city, VA"	"51660"	25	21715	115.1	120.5
+	"Hopewell city, VA"	"51670"	68	11140	610.4	521.0
+	"Lexington city, VA"	"51678"	Suppressed	2072	Suppressed	Suppressed
+	"Lynchburg city, VA"	"51680"	102	33072	308.4	275.9
+	"Manassas city, VA"	"51683"	31	23242	133.4	128.0
+	"Manassas Park city, VA"	"51685"	Suppressed	9037	Suppressed	Suppressed
+	"Martinsville city, VA"	"51690"	44	6693	657.4	522.4
+	"Newport News city, VA"	"51700"	312	95202	327.7	304.0
+	"Norfolk city, VA"	"51710"	370	125413	295.0	293.5
+	"Norton city, VA"	"51720"	Suppressed	2129	Suppressed	Suppressed
+	"Petersburg city, VA"	"51730"	103	16984	606.5	476.7
+	"Poquoson city, VA"	"51735"	14	6187	Unreliable	Unreliable
+	"Portsmouth city, VA"	"51740"	208	50336	413.2	352.1
+	"Radford city, VA"	"51750"	19	6523	Unreliable	Unreliable
+	"Richmond city, VA"	"51760"	410	122517	334.6	316.5
+	"Roanoke city, VA"	"51770"	205	54286	377.6	316.4
+	"Salem city, VA"	"51775"	32	12592	254.1	198.9
+	"Staunton city, VA"	"51790"	38	12312	308.6	238.2
+	"Suffolk city, VA"	"51800"	151	46682	323.5	276.8
+	"Virginia Beach city, VA"	"51810"	458	246128	186.1	170.3
+	"Waynesboro city, VA"	"51820"	35	10886	321.5	262.9
+	"Williamsburg city, VA"	"51830"	13	5298	Unreliable	Unreliable
+	"Winchester city, VA"	"51840"	46	14238	323.1	268.1
+	"Adams County, WA"	"53001"	19	8455	Unreliable	Unreliable
+	"Asotin County, WA"	"53003"	28	11215	249.7	185.7
+	"Benton County, WA"	"53005"	174	95042	183.1	149.0
+	"Chelan County, WA"	"53007"	84	37096	226.4	168.3
+	"Clallam County, WA"	"53009"	99	35254	280.8	197.3
+	"Clark County, WA"	"53011"	472	237526	198.7	162.6
+	"Columbia County, WA"	"53013"	Suppressed	1915	Suppressed	Suppressed
+	"Cowlitz County, WA"	"53015"	153	51858	295.0	216.2
+	"Douglas County, WA"	"53017"	39	19652	198.5	150.6
+	"Ferry County, WA"	"53019"	15	3889	Unreliable	Unreliable
+	"Franklin County, WA"	"53021"	52	42894	121.2	121.8
+	"Garfield County, WA"	"53023"	Suppressed	1094	Suppressed	Suppressed
+	"Grant County, WA"	"53025"	105	43913	239.1	204.6
+	"Grays Harbor County, WA"	"53027"	140	36934	379.1	272.6
+	"Island County, WA"	"53029"	90	39192	229.6	161.3
+	"Jefferson County, WA"	"53031"	37	14907	248.2	148.5
+	"King County, WA"	"53033"	1835	1209873	151.7	136.2
+	"Kitsap County, WA"	"53035"	318	133666	237.9	182.3
+	"Kittitas County, WA"	"53037"	33	19057	173.2	146.1
+	"Klickitat County, WA"	"53039"	35	10765	325.1	202.9
+	"Lewis County, WA"	"53041"	114	37729	302.2	220.5
+	"Lincoln County, WA"	"53043"	14	4937	Unreliable	Unreliable
+	"Mason County, WA"	"53045"	79	31442	251.3	194.3
+	"Okanogan County, WA"	"53047"	63	20396	308.9	197.5
+	"Pacific County, WA"	"53049"	43	10055	427.6	274.1
+	"Pend Oreille County, WA"	"53051"	28	6494	431.2	267.6
+	"Pierce County, WA"	"53053"	997	444701	224.2	190.8
+	"San Juan County, WA"	"53055"	24	8177	293.5	195.9
+	"Skagit County, WA"	"53057"	156	60689	257.0	197.5
+	"Skamania County, WA"	"53059"	13	6251	Unreliable	Unreliable
+	"Snohomish County, WA"	"53061"	772	425982	181.2	151.1
+	"Spokane County, WA"	"53063"	643	253568	253.6	208.4
+	"Stevens County, WA"	"53065"	63	21819	288.7	172.8
+	"Thurston County, WA"	"53067"	299	143008	209.1	168.5
+	"Wahkiakum County, WA"	"53069"	Suppressed	1877	Suppressed	Suppressed
+	"Walla Walla County, WA"	"53071"	64	28695	223.0	166.0
+	"Whatcom County, WA"	"53073"	185	102622	180.3	144.3
+	"Whitman County, WA"	"53075"	34	17840	190.6	166.7
+	"Yakima County, WA"	"53077"	299	117005	255.5	221.3
+	"Barbour County, WV"	"54001"	34	8349	407.2	287.9
+	"Berkeley County, WV"	"54003"	163	60526	269.3	227.7
+	"Boone County, WV"	"54005"	68	12694	535.7	374.9
+	"Braxton County, WV"	"54007"	26	7533	345.1	267.0
+	"Brooke County, WV"	"54009"	37	11904	310.8	210.4
+	"Cabell County, WV"	"54011"	188	48227	389.8	327.1
+	"Calhoun County, WV"	"54013"	14	4028	Unreliable	Unreliable
+	"Clay County, WV"	"54015"	23	4551	505.4	386.2
+	"Doddridge County, WV"	"54017"	15	4660	Unreliable	Unreliable
+	"Fayette County, WV"	"54019"	121	23945	505.3	394.7
+	"Gilmer County, WV"	"54021"	Suppressed	4842	Suppressed	Suppressed
+	"Grant County, WV"	"54023"	21	5948	353.1	226.4
+	"Greenbrier County, WV"	"54025"	62	18384	337.2	237.7
+	"Hampshire County, WV"	"54027"	30	12371	242.5	174.5
+	"Hancock County, WV"	"54029"	64	15991	400.2	295.6
+	"Hardy County, WV"	"54031"	23	7337	313.5	244.6
+	"Harrison County, WV"	"54033"	120	36434	329.4	249.5
+	"Jackson County, WV"	"54035"	65	15043	432.1	335.3
+	"Jefferson County, WV"	"54037"	87	30007	289.9	226.3
+	"Kanawha County, WV"	"54039"	419	101760	411.8	313.6
+	"Lewis County, WV"	"54041"	33	8646	381.7	303.8
+	"Lincoln County, WV"	"54043"	62	11430	542.4	430.9
+	"Logan County, WV"	"54045"	109	19256	566.1	404.9
+	"McDowell County, WV"	"54047"	66	11040	597.8	473.7
+	"Marion County, WV"	"54049"	92	28742	320.1	243.1
+	"Marshall County, WV"	"54051"	71	17094	415.4	299.4
+	"Mason County, WV"	"54053"	74	14222	520.3	381.4
+	"Mercer County, WV"	"54055"	143	31418	455.2	331.2
+	"Mineral County, WV"	"54057"	39	13949	279.6	217.8
+	"Mingo County, WV"	"54059"	87	14126	615.9	481.4
+	"Monongalia County, WV"	"54061"	86	51617	166.6	152.1
+	"Monroe County, WV"	"54063"	22	6791	324.0	254.9
+	"Morgan County, WV"	"54065"	32	9273	345.1	228.9
+	"Nicholas County, WV"	"54067"	53	13492	392.8	312.9
+	"Ohio County, WV"	"54069"	65	21855	297.4	233.9
+	"Pendleton County, WV"	"54071"	Suppressed	3667	Suppressed	Suppressed
+	"Pleasants County, WV"	"54073"	11	4112	Unreliable	Unreliable
+	"Pocahontas County, WV"	"54075"	18	4653	Unreliable	Unreliable
+	"Preston County, WV"	"54077"	52	18914	274.9	218.3
+	"Putnam County, WV"	"54079"	89	30437	292.4	218.3
+	"Raleigh County, WV"	"54081"	157	41386	379.4	305.3
+	"Randolph County, WV"	"54083"	44	15350	286.6	217.3
+	"Ritchie County, WV"	"54085"	21	5220	402.3	306.7
+	"Roane County, WV"	"54087"	32	7584	421.9	328.7
+	"Summers County, WV"	"54089"	32	7422	431.2	323.8
+	"Taylor County, WV"	"54091"	26	9309	279.3	218.1
+	"Tucker County, WV"	"54093"	Suppressed	3653	Suppressed	Suppressed
+	"Tyler County, WV"	"54095"	22	4754	462.8	302.5
+	"Upshur County, WV"	"54097"	40	12304	325.1	246.9
+	"Wayne County, WV"	"54099"	89	21587	412.3	309.4
+	"Webster County, WV"	"54101"	13	4557	Unreliable	Unreliable
+	"Wetzel County, WV"	"54103"	28	8128	344.5	256.3
+	"Wirt County, WV"	"54105"	18	3117	Unreliable	Unreliable
+	"Wood County, WV"	"54107"	184	45292	406.3	307.1
+	"Wyoming County, WV"	"54109"	68	12127	560.7	426.2
+	"Adams County, WI"	"55001"	45	10578	425.4	268.5
+	"Ashland County, WI"	"55003"	26	8095	321.2	221.3
+	"Barron County, WI"	"55005"	52	23044	225.7	166.2
+	"Bayfield County, WI"	"55007"	17	7806	Unreliable	Unreliable
+	"Brown County, WI"	"55009"	251	136650	183.7	152.3
+	"Buffalo County, WI"	"55011"	21	6817	308.1	201.0
+	"Burnett County, WI"	"55013"	26	7576	343.2	221.3
+	"Calumet County, WI"	"55015"	83	26646	311.5	244.5
+	"Chippewa County, WI"	"55017"	65	34106	190.6	143.2
+	"Clark County, WI"	"55019"	35	16189	216.2	168.6
+	"Columbia County, WI"	"55021"	80	30699	260.6	204.2
+	"Crawford County, WI"	"55023"	23	8354	275.3	220.2
+	"Dane County, WI"	"55025"	433	275497	157.2	138.4
+	"Dodge County, WI"	"55027"	100	48703	205.3	154.3
+	"Door County, WI"	"55029"	28	14051	199.3	142.2
+	"Douglas County, WI"	"55031"	70	23589	296.7	213.5
+	"Dunn County, WI"	"55033"	35	20628	169.7	136.1
+	"Eau Claire County, WI"	"55035"	110	49100	224.0	192.0
+	"Florence County, WI"	"55037"	Suppressed	2392	Suppressed	Suppressed
+	"Fond du Lac County, WI"	"55039"	134	53526	250.3	187.7
+	"Forest County, WI"	"55041"	11	4446	Unreliable	Unreliable
+	"Grant County, WI"	"55043"	57	23391	243.7	183.2
+	"Green County, WI"	"55045"	28	19566	143.1	106.7
+	"Green Lake County, WI"	"55047"	25	9376	266.6	183.9
+	"Iowa County, WI"	"55049"	23	12648	181.8	129.3
+	"Iron County, WI"	"55051"	Suppressed	2983	Suppressed	Suppressed
+	"Jackson County, WI"	"55053"	22	10807	203.6	156.2
+	"Jefferson County, WI"	"55055"	85	44683	190.2	152.7
+	"Juneau County, WI"	"55057"	41	14157	289.6	209.3
+	"Kenosha County, WI"	"55059"	225	89865	250.4	201.2
+	"Kewaunee County, WI"	"55061"	21	10623	197.7	140.5
+	"La Crosse County, WI"	"55063"	115	57534	199.9	164.9
+	"Lafayette County, WI"	"55065"	20	8488	235.6	188.4
+	"Langlade County, WI"	"55067"	33	9866	334.5	203.1
+	"Lincoln County, WI"	"55069"	37	14952	247.5	157.7
+	"Manitowoc County, WI"	"55071"	100	42165	237.2	174.0
+	"Marathon County, WI"	"55073"	141	71363	197.6	155.9
+	"Marinette County, WI"	"55075"	60	21250	282.4	190.2
+	"Marquette County, WI"	"55077"	16	7803	Unreliable	Unreliable
+	"Menominee County, WI"	"55078"	10	2022	Unreliable	Unreliable
+	"Milwaukee County, WI"	"55079"	1347	508547	264.9	236.3
+	"Monroe County, WI"	"55081"	62	23401	264.9	195.1
+	"Oconto County, WI"	"55083"	49	20185	242.8	169.5
+	"Oneida County, WI"	"55085"	63	18564	339.4	216.4
+	"Outagamie County, WI"	"55087"	151	97812	154.4	128.7
+	"Ozaukee County, WI"	"55089"	69	45337	152.2	111.0
+	"Pepin County, WI"	"55091"	11	3688	Unreliable	Unreliable
+	"Pierce County, WI"	"55093"	34	20250	167.9	122.8
+	"Polk County, WI"	"55095"	58	22822	254.1	179.9
+	"Portage County, WI"	"55097"	68	34275	198.4	154.7
+	"Price County, WI"	"55099"	20	7117	281.0	177.8
+	"Racine County, WI"	"55101"	274	103422	264.9	201.7
+	"Richland County, WI"	"55103"	15	8888	Unreliable	Unreliable
+	"Rock County, WI"	"55105"	176	84287	208.8	165.6
+	"Rusk County, WI"	"55107"	21	7171	292.8	188.0
+	"St. Croix County, WI"	"55109"	73	47455	153.8	124.3
+	"Sauk County, WI"	"55111"	77	33238	231.7	176.6
+	"Sawyer County, WI"	"55113"	36	8238	437.0	297.7
+	"Shawano County, WI"	"55115"	50	21221	235.6	167.3
+	"Sheboygan County, WI"	"55117"	130	60741	214.0	167.6
+	"Taylor County, WI"	"55119"	19	10533	Unreliable	Unreliable
+	"Trempealeau County, WI"	"55121"	28	15107	185.3	130.6
+	"Vernon County, WI"	"55123"	24	14776	162.4	115.4
+	"Vilas County, WI"	"55125"	33	10302	320.3	203.1
+	"Walworth County, WI"	"55127"	125	51637	242.1	186.8
+	"Washburn County, WI"	"55129"	27	7933	340.4	230.0
+	"Washington County, WI"	"55131"	111	72067	154.0	113.2
+	"Waukesha County, WI"	"55133"	402	211160	190.4	141.4
+	"Waupaca County, WI"	"55135"	72	27071	266.0	187.8
+	"Waushara County, WI"	"55137"	43	12617	340.8	232.8
+	"Winnebago County, WI"	"55139"	149	88063	169.2	138.1
+	"Wood County, WI"	"55141"	85	38224	222.4	164.9
+	"Albany County, WY"	"56001"	27	17271	156.3	131.7
+	"Big Horn County, WY"	"56003"	16	5714	Unreliable	Unreliable
+	"Campbell County, WY"	"56005"	47	27054	173.7	150.8
+	"Carbon County, WY"	"56007"	27	8625	313.0	250.8
+	"Converse County, WY"	"56009"	12	7504	Unreliable	Unreliable
+	"Crook County, WY"	"56011"	Suppressed	3716	Suppressed	Suppressed
+	"Fremont County, WY"	"56013"	57	20344	280.2	231.7
+	"Goshen County, WY"	"56015"	18	6673	Unreliable	Unreliable
+	"Hot Springs County, WY"	"56017"	Suppressed	2400	Suppressed	Suppressed
+	"Johnson County, WY"	"56019"	Suppressed	4341	Suppressed	Suppressed
+	"Laramie County, WY"	"56021"	112	50324	222.6	189.3
+	"Lincoln County, WY"	"56023"	22	9524	231.0	172.0
+	"Natrona County, WY"	"56025"	112	44021	254.4	208.0
+	"Niobrara County, WY"	"56027"	Suppressed	1365	Suppressed	Suppressed
+	"Park County, WY"	"56029"	33	14698	224.5	174.6
+	"Platte County, WY"	"56031"	11	4392	Unreliable	Unreliable
+	"Sheridan County, WY"	"56033"	47	15637	300.6	220.3
+	"Sublette County, WY"	"56035"	Suppressed	5693	Suppressed	Suppressed
+	"Sweetwater County, WY"	"56037"	42	24491	171.5	139.0
+	"Teton County, WY"	"56039"	11	14314	Unreliable	Unreliable
+	"Uinta County, WY"	"56041"	20	10726	186.5	162.2
+	"Washakie County, WY"	"56043"	12	4109	Unreliable	Unreliable
+	"Weston County, WY"	"56045"	14	3810	Unreliable	Unreliable
+"Total"			410600	167566069	245.0	204.1
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Ten-Year Age Groups: 25-34 years; 35-44 years; 45-54 years; 55-64 years"
+"UCD - ICD-10 Codes: A00-B99 (Certain infectious and parasitic diseases); C00-D48 (Neoplasms); E00-E07 (Disorders of thyroid"
+"gland); E10-E14 (Diabetes mellitus); G40.0 (Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes"
+"with seizures of localized onset); G40.1 (Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes"
+"with simple partial seizures); G40.2 (Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with"
+"complex partial seizures); G40.3 (Generalized idiopathic epilepsy and epileptic syndromes); G40.4 (Other generalized epilepsy"
+"and epileptic syndromes); G40.5 (Special epileptic syndromes); G40.6 (Grand mal seizures, unspecified (with or without petit"
+"mal)); G40.7 (Petit mal, unspecified, without grand mal seizures); G40.8 (Other epilepsy); G40.9 (Epilepsy, unspecified); G41.0"
+"(Grand mal status epilepticus); G41.1 (Petit mal status epilepticus); G41.2 (Complex partial status epilepticus); G41.8 (Other"
+"status epilepticus); G41.9 (Status epilepticus, unspecified); I05-I09 (Chronic rheumatic heart diseases); I10-I15 (Hypertensive"
+"diseases); I20-I25 (Ischaemic heart diseases); I42.0 (Dilated cardiomyopathy); I42.1 (Obstructive hypertrophic cardiomyopathy);"
+"I42.2 (Other hypertrophic cardiomyopathy); I42.3 (Endomyocardial (eosinophilic) disease); I42.4 (Endocardial fibroelastosis);"
+"I42.5 (Other restrictive cardiomyopathy); I42.6 (Alcoholic cardiomyopathy); I42.7 (Cardiomyopathy due to drugs and other"
+"external agents); I42.8 (Other cardiomyopathies); I42.9 (Cardiomyopathy, unspecified); I48 (Atrial fibrillation and flutter);"
+"I49.0 (Ventricular fibrillation and flutter); I49.1 (Atrial premature depolarization); I49.2 (Junctional premature"
+"depolarization); I49.3 (Ventricular premature depolarization); I49.4 (Other and unspecified premature depolarization); I49.5"
+"(Sick sinus syndrome); I49.8 (Other specified cardiac arrhythmias); I49.9 (Cardiac arrhythmia, unspecified); I50.0 (Congestive"
+"heart failure); I50.1 (Left ventricular failure); I50.9 (Heart failure, unspecified); I60-I69 (Cerebrovascular diseases);"
+"J00-J98 (Diseases of the respiratory system); K25.0 (Gastric ulcer, acute with haemorrhage); K25.1 (Gastric ulcer, acute with"
+"perforation); K25.2 (Gastric ulcer, acute with both haemorrhage and perforation); K25.3 (Gastric ulcer, acute without"
+"haemorrhage or perforation); K25.4 (Gastric ulcer, chronic or unspecified with haemorrhage); K25.5 (Gastric ulcer, chronic or"
+"unspecified with perforation); K25.6 (Gastric ulcer, chronic or unspecified with both haemorrhage and perforation); K25.7"
+"(Gastric ulcer, chronic without haemorrhage or perforation); K25.9 (Gastric ulcer, unspecified as acute or chronic, without"
+"haemorrhage or perforation); K26.0 (Duodenal ulcer, acute with haemorrhage); K26.1 (Duodenal ulcer, acute with perforation);"
+"K26.2 (Duodenal ulcer, acute with both haemorrhage and perforation); K26.3 (Duodenal ulcer, acute without haemorrhage or"
+"perforation); K26.4 (Duodenal ulcer, chronic or unspecified with haemorrhage); K26.5 (Duodenal ulcer, chronic or unspecified"
+"with perforation); K26.6 (Duodenal ulcer, chronic or unspecified with both haemorrhage and perforation); K26.7 (Duodenal ulcer,"
+"chronic without haemorrhage or perforation); K26.9 (Duodenal ulcer, unspecified as acute or chronic, without haemorrhage or"
+"perforation); K27.0 (Peptic ulcer, site unspecified, acute with haemorrhage); K27.1 (Peptic ulcer, site unspecified, acute with"
+"perforation); K27.2 (Peptic ulcer, site unspecified, acute with both haemorrhage and perforation); K27.3 (Peptic ulcer, site"
+"unspecified, acute without haemorrhage or perforation); K27.4 (Peptic ulcer, site unspecified, chronic or unspecified with"
+"haemorrhage); K27.5 (Peptic ulcer, site unspecified, chronic or unspecified with perforation); K27.6 (Peptic ulcer, site"
+"unspecified, chronic or unspecified with both haemorrhage and perforation); K27.7 (Peptic ulcer, site unspecified, chronic"
+"without haemorrhage or perforation); K27.9 (Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage"
+"or perforation); K28.0 (Gastrojejunal ulcer, acute with haemorrhage); K28.1 (Gastrojejunal ulcer, acute with perforation); K28.2"
+"(Gastrojejunal ulcer, acute with both haemorrhage and perforation); K28.3 (Gastrojejunal ulcer, acute without haemorrhage or"
+"perforation); K28.4 (Gastrojejunal ulcer, chronic or unspecified with haemorrhage); K28.5 (Gastrojejunal ulcer, chronic or"
+"unspecified with perforation); K28.6 (Gastrojejunal ulcer, chronic or unspecified with both haemorrhage and perforation); K28.7"
+"(Gastrojejunal ulcer, chronic without haemorrhage or perforation); K28.9 (Gastrojejunal ulcer, unspecified as acute or chronic,"
+"without haemorrhage or perforation); K35-K38 (Diseases of appendix); K40-K46 (Hernia); K80.0 (Calculus of gallbladder with acute"
+"cholecystitis); K80.1 (Calculus of gallbladder with other cholecystitis); K80.2 (Calculus of gallbladder without cholecystitis);"
+"K80.3 (Calculus of bile duct with cholangitis); K80.4 (Calculus of bile duct with cholecystitis); K80.5 (Calculus of bile duct"
+"without cholangitis or cholecystitis); K80.8 (Other cholelithiasis); K81.0 (Acute cholecystitis); K81.1 (Chronic cholecystitis);"
+"K81.8 (Other cholecystitis); K81.9 (Cholecystitis, unspecified); K82.0 (Obstruction of gallbladder); K82.1 (Hydrops of"
+"gallbladder); K82.2 (Perforation of gallbladder); K82.3 (Fistula of gallbladder); K82.4 (Cholesterolosis of gallbladder); K82.8"
+"(Other specified diseases of gallbladder); K82.9 (Disease of gallbladder, unspecified); K83.0 (Cholangitis); K83.1 (Obstruction"
+"of bile duct); K83.2 (Perforation of bile duct); K83.3 (Fistula of bile duct); K83.4 (Spasm of sphincter of Oddi); K83.5"
+"(Biliary cyst); K83.8 (Other specified diseases of biliary tract); K83.9 (Disease of biliary tract, unspecified); K85 (Acute"
+"pancreatitis); K85.0 (Idiopathic acute pancreatitis); K85.1 (Biliary acute pancreatitis); K85.2 (Alcohol-induced acute"
+"pancreatitis); K85.3 (Drug-induced acute pancreatitis); K85.8 (Other acute pancreatitis); K85.9 (Acute pancreatitis,"
+"unspecified); L00-L08 (Infections of the skin and subcutaneous tissue); M00.0 (Staphylococcal arthritis and polyarthritis);"
+"M00.1 (Pneumococcal arthritis and polyarthritis); M00.2 (Other streptococcal arthritis and polyarthritis); M00.8 (Arthritis and"
+"polyarthritis due to other specified bacterial agents); M00.9 (Pyogenic arthritis, unspecified); M02.0 (Arthropathy following"
+"intestinal bypass); M02.1 (Postdysenteric arthropathy); M02.2 (Postimmunization arthropathy); M02.3 (Reiter disease); M02.8"
+"(Other reactive arthropathies); M02.9 (Reactive arthropathy, unspecified); N00-N07 (Glomerular diseases); N10-N15 (Renal"
+"tubulo-interstitial diseases); N17-N19 (Renal failure); N26 (Unspecified contracted kidney); N27.0 (Small kidney, unilateral);"
+"N27.1 (Small kidney, bilateral); N27.9 (Small kidney, unspecified); N40 (Hyperplasia of prostate); O00-O99 (Pregnancy,"
+"childbirth and the puerperium); P00-P96 (Certain conditions originating in the perinatal period); Y60.0 (During surgical"
+"operation); Y60.1 (During infusion or transfusion); Y60.2 (During kidney dialysis or other perfusion); Y60.3 (During injection"
+"or immunization); Y60.4 (During endoscopic examination); Y60.5 (During heart catheterization); Y60.6 (During aspiration,"
+"puncture and other catheterization); Y60.7 (During administration of enema); Y60.8 (During other surgical and medical care);"
+"Y60.9 (During unspecified surgical and medical care); Y61.0 (During surgical operation); Y61.1 (During infusion or transfusion);"
+"Y61.2 (During kidney dialysis or other perfusion); Y61.3 (During injection or immunization); Y61.4 (During endoscopic"
+"examination); Y61.5 (During heart catheterization); Y61.6 (During aspiration, puncture and other catheterization); Y61.7 (During"
+"removal of catheter or packing); Y61.8 (During other surgical and medical care); Y61.9 (During unspecified surgical and medical"
+"care); Y62.0 (During surgical operation); Y62.1 (During infusion or transfusion); Y62.2 (During kidney dialysis or other"
+"perfusion); Y62.3 (During injection or immunization); Y62.4 (During endoscopic examination); Y62.5 (During heart"
+"catheterization); Y62.6 (During aspiration, puncture and other catheterization); Y62.8 (During other surgical and medical care);"
+"Y62.9 (During unspecified surgical and medical care); Y63.0 (Excessive amount of blood or other fluid given during transfusion"
+"or infusion); Y63.1 (Incorrect dilution of fluid used during infusion); Y63.2 (Overdose of radiation given during therapy);"
+"Y63.3 (Inadvertent exposure of patient to radiation during medical care); Y63.4 (Failure in dosage in electroshock or"
+"insulin-shock therapy); Y63.5 (Inappropriate temperature in local application and packing); Y63.6 (Nonadministration of"
+"necessary drug, medicament or biological substance); Y63.8 (Failure in dosage during other surgical and medical care); Y63.9"
+"(Failure in dosage during unspecified surgical and medical care); Y64.0 (Contaminated medical or biological substance,"
+"transfused or infused); Y64.1 (Contaminated medical or biological substance, injected or used for immunization); Y64.8"
+"(Contaminated medical or biological substance administered by other means); Y64.9 (Contaminated medical or biological substance"
+"administered by unspecified means); Y65.0 (Mismatched blood used in transfusion); Y65.1 (Wrong fluid used in infusion); Y65.2"
+"(Failure in suture or ligature during surgical operation); Y65.3 (Endotracheal tube wrongly placed during anaesthetic"
+"procedure); Y65.4 (Failure to introduce or to remove other tube or instrument); Y65.5 (Performance of inappropriate operation);"
+"Y65.8 (Other specified misadventures during surgical and medical care); Y66 (Nonadministration of surgical and medical care);"
+"Y69 (Unspecified misadventure during surgical and medical care); Y83.0 (Surgical operation with transplant of whole organ);"
+"Y83.1 (Surgical operation with implant of artificial internal device); Y83.2 (Surgical operation with anastomosis, bypass or"
+"graft); Y83.3 (Surgical operation with formation of external stoma); Y83.4 (Other reconstructive surgery); Y83.5 (Amputation of"
+"limb(s)); Y83.6 (Removal of other organ (partial) (total)); Y83.8 (Other surgical procedures); Y83.9 (Surgical procedure,"
+"unspecified); Y84.0 (Cardiac catheterization); Y84.1 (Kidney dialysis); Y84.2 (Radiological procedure and radiotherapy); Y84.3"
+"(Shock therapy); Y84.4 (Aspiration of fluid); Y84.5 (Insertion of gastric or duodenal sound); Y84.6 (Urinary catheterization);"
+"Y84.7 (Blood-sampling); Y84.8 (Other medical procedures); Y84.9 (Medical procedure, unspecified)"
+"Year/Month: 2014"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 30, 2022 2:27:12 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 30, 2022 2:27:12 PM"
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code"
+"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational"
+"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year"
+"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"3. Data for Bedford city, Va. (FIPS code 51515) are only available for 2013 and earlier; for computational purposes, counts and"
+"population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year requests for this entity do"
+"not include any data for years after 2014, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Bedford."
+"4. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Clifton Forge."
+"5. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"6. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"7. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"8. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"9. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"10. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"11. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"12. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age"
+"groups, so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"13. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"14. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

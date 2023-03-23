@@ -1,0 +1,52 @@
+stateFIPS,stateName,medcdExp,dateExp,yearExp
+1,alabama,0,NA,NA
+2,alaska,1,2015-09-01,2015
+4,arizona,1,2014-01-01,2014
+5,arkansas,1,2014-01-01,2014
+6,california,1,2014-01-01,2014
+8,colorado,1,2014-01-01,2014
+9,connecticut,1,2014-01-01,2014
+10,delaware,1,2014-01-01,2014
+11,district of columbia,1,2014-01-01,2014
+12,florida,0,NA,NA
+13,georgia,0,NA,NA
+15,hawaii,1,2014-01-01,2014
+16,idaho,1,2020-01-01,2020
+17,illinois,1,2014-01-01,2014
+18,indiana,1,2015-02-01,2015
+19,iowa,1,2014-01-01,2014
+20,kansas,0,NA,NA
+21,kentucky,1,2014-01-01,2014
+22,louisiana,1,2016-07-01,2016
+23,maine,1,2019-01-10,2019
+24,maryland,1,2014-01-01,2014
+25,massachusetts,1,2014-01-01,2014
+26,michigan,1,2014-04-01,2014
+27,minnesota,1,2014-01-01,2014
+28,mississippi,0,NA,NA
+29,missouri,0,NA,NA
+30,montana,1,2016-01-01,2016
+31,nebraska,0,NA,NA
+32,nevada,1,2014-01-01,2014
+33,new hampshire,1,2014-08-15,2014
+34,new jersey,1,2014-01-01,2014
+35,new mexico,1,2014-01-01,2014
+36,new york,1,2014-01-01,2014
+37,north carolina,0,NA,NA
+38,north dakota,1,2014-01-01,2014
+39,ohio,1,2014-01-01,2014
+40,oklahoma,0,NA,NA
+41,oregon,1,2014-01-01,2014
+42,pennsylvania,1,2015-01-01,2015
+44,rhode island,1,2014-01-01,2014
+45,south carolina,0,NA,NA
+46,south dakota,0,NA,NA
+47,tennessee,0,NA,NA
+48,texas,0,NA,NA
+49,utah,1,2020-01-01,2020
+50,vermont,1,2014-01-01,2014
+51,virginia,1,2019-01-01,2019
+53,washington,1,2014-01-01,2014
+54,west virginia,1,2014-01-01,2014
+55,wisconsin,0,NA,NA
+56,wyoming,0,NA,NA

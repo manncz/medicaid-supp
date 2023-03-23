@@ -1,0 +1,73 @@
+"","cntyName","stateName","mdcdExp","variable","value","min_dist","adult_w_a_cnt"
+"1","Brooks","Texas",0,"latino",89.7424565068906,11.7692480555728,3725.6
+"2","Duval","Texas",0,"latino",87.1204289183276,9.1472204670098,6385
+"3","Hidalgo","Texas",0,"latino",88.1341177091302,10.1609092578124,416677.8
+"4","Jim Hogg","Texas",0,"latino",91.5118336651183,13.5386252138005,2802
+"5","Maverick","Texas",0,"latino",95.1696551882224,17.1964467369046,28946.6
+"6","Starr","Texas",0,"latino",95.5204318454971,17.5472233941793,32080
+"7","Webb","Texas",0,"latino",94.723233011845,16.7500245605272,136788.2
+"8","Zapata","Texas",0,"latino",91.1373807694046,13.1641723180868,7324.6
+"9","Zavala","Texas",0,"latino",92.2709183937154,14.2977099423976,6293
+"10","Pulaski","Georgia",0,"male",40.5460795980431,3.06681197909872,7107.2
+"11","Crowley","Colorado",1,"male",74.7442695503319,2.44646372621335,4145
+"12","Buffalo","South Dakota",0,"mortAC_45_54",1889.55218660814,579.590086127992,978.2
+"13","Woodson","Kansas",0,"mortACBlack_M",14624.8521995697,7058.79899231088,1806.6
+"14","Van Buren","Tennessee",0,"mortACBlack_M",9394.15973220505,1828.10652494622,3290.2
+"15","Clarke","Iowa",1,"mortACBlack_M",7566.05320725884,1716.11232743095,5186.6
+"16","Comanche","Kansas",0,"mortACBlack_F",5912.9532539999,1038.00252081,958.4
+"17","Granite","Montana",0,"mortACBlack_F",27199.2686546544,12574.4164550846,1732.4
+"18","Blackford","Indiana",0,"mortACother_M",6799.81716366359,1924.86643047368,7160.6
+"19","Comanche","Kansas",0,"mortACother_M",7566.05320725884,1963.73036277598,958.4
+"20","Jewell","Kansas",0,"mortACother_M",14724.6229580633,5194.83938802849,1594.4
+"21","Carter","Montana",0,"mortACother_M",7095.54390479988,2220.59317160998,666.8
+"22","Nuckolls","Nebraska",0,"mortACother_M",5674.53990544413,799.589172254226,2289.2
+"23","Sanborn","South Dakota",0,"mortACother_M",7566.05320725884,1963.73036277598,1327.8
+"24","LaMoure","North Dakota",1,"mortACother_M",9529.78357003482,1963.73036277598,2152.2
+"25","Quitman","Georgia",0,"mortACother_F",5439.85373093087,906.642288488479,1328.8
+"26","Butte","Idaho",0,"mortACother_F",4874.95073318991,341.739290747514,1460.2
+"27","Woodson","Kansas",0,"mortACother_F",3399.90858183179,562.638629109731,1806.6
+"28","Amite","Mississippi",0,"mortACother_F",4874.95073318991,341.739290747514,7396.2
+"29","Osage","Missouri",0,"mortACother_F",3656.21304989243,818.943097170366,7914
+"30","Eddy","North Dakota",1,"mortACother_F",2437.47536659495,348.210766656422,1257
+"31","Oliver","North Dakota",1,"mortACother_F",4533.21144244239,341.739290747514,1083.2
+"32","Sargent","North Dakota",1,"mortACother_F",2837.26995272206,562.638629109731,2176
+"33","Union","Florida",0,"mortHC_amenable_not_flu",629.564876552871,154.72864156272,10330.2
+"34","Buffalo","South Dakota",0,"mortHC_amenable_not_flu",684.682373726479,209.846138736328,978.2
+"35","Loving","Texas",0,"mortHC_amenable_not_flu",1621.29711584118,1146.46088085103,59.2
+"36","Dolores","Colorado",1,"mortOpioid",245.633312573392,26.3593739731511,1145.4
+"37","Hinsdale","Colorado",1,"mortOpioid",394.192299342817,122.199612796273,497.6
+"38","Logan","Nebraska",0,"mortFlu",200.868669219261,94.6215260370177,423.8
+"39","Chattahoochee","Georgia",0,"a20_34",66.6240793626935,13.357070831843,7537.8
+"40","Chattahoochee","Georgia",0,"a45_54",8.01643368906258,3.99056113571234,7537.8
+"41","Lexington City","Virginia",0,"a45_54",9.34156702328509,2.66542780148983,4042.4
+"42","Elbert","Colorado",1,"a45_54",28.9581691813766,3.11846774188846,14455.8
+"43","Chattahoochee","Georgia",0,"a55_64",4.93511698982915,6.05514697028144,7537.8
+"44","Philadelphia","Pennsylvania",0,"popDens_2010",11379.5,1036.2,951785.2
+"45","Alexandria City","Virginia",0,"popDens_2010",9314.3,542.200000000001,103400.2
+"46","Charlottesville City","Virginia",0,"popDens_2010",4246.3,320.3,31721.2
+"47","Fairfax City","Virginia",0,"popDens_2010",3616.7,191,14462.6
+"48","Norfolk City","Virginia",0,"popDens_2010",4486.4,218.400000000001,160144
+"49","San Francisco","California",1,"popDens_2010",17179.2,5799.7,580448.4
+"50","District of Columbia","District of Columbia",1,"popDens_2010",9856.5,542.200000000001,421193.6
+"51","Baltimore City","Maryland",1,"popDens_2010",7671.5,322,395170.2
+"52","Suffolk","Massachusetts",1,"popDens_2010",12415.7,1036.2,497174.4
+"53","Hudson","New Jersey",1,"popDens_2010",13731.4,2351.9,430604.8
+"54","Bronx","New York",1,"popDens_2010",32903.3,21523.8,835911.4
+"55","Kings","New York",1,"popDens_2010",35369.2,23989.7,1582374.4
+"56","Nassau","New York",1,"popDens_2010",4704.8,218.400000000001,792587.4
+"57","New York","New York",1,"popDens_2010",69468.4,58088.9,1111538.8
+"58","Queens","New York",1,"popDens_2010",20553.6,9174.1,1445560.4
+"59","Elmore","Idaho",0,"vetPop_2013",34.0007642338556,10.0824950030863,15627.2
+"60","Yuma","Arizona",1,"unplmtRate_2013",27.7,9.5,105968.4
+"61","Imperial","California",1,"unplmtRate_2013",24.5,6.3,99908
+"62","Camas","Idaho",0,"calc_multi_house",1.16379310344828,0.123183966392439,649
+"63","Issaquena","Mississippi",0,"calc_multi_house",2.01735357917571,0.619504116810114,889.6
+"64","Hayes","Nebraska",0,"calc_multi_house",1.15303983228512,0.112430695229278,526.2
+"65","Bennett","South Dakota",0,"calc_multi_house",1.62417374881964,0.22632428645405,1763.2
+"66","Buffalo","South Dakota",0,"calc_multi_house",3.91143911439114,2.51358965202555,978.2
+"67","Corson","South Dakota",0,"calc_multi_house",1.21518987341772,0.174580736361884,2117
+"68","Mellette","South Dakota",0,"calc_multi_house",1.51862464183381,0.120775179468219,1057.8
+"69","Oglala Lakota","South Dakota",0,"calc_multi_house",1.18939658179281,0.148787444736977,7044.8
+"70","Ziebach","South Dakota",0,"calc_multi_house",2.02988792029888,0.632038457933288,1449.6
+"71","Daggett","Utah",0,"calc_multi_house",1.50819672131148,0.110347258945884,610.2
+"72","Sioux","North Dakota",1,"calc_multi_house",1.39784946236559,0.0889122484287059,2228

@@ -1,0 +1,313 @@
+AREA,SUB AREA,AGE GROUP,SEASON,WEEK,PERCENT P&I,NUM INFLUENZA DEATHS,NUM PNEUMONIA DEATHS,TOTAL DEATHS,PERCENT COMPLETE
+State,Alabama,All,2020-21,40,8.8,0,94,"1,070",> 100%
+State,Alabama,All,2020-21,41,8.7,1,98,"1,139",> 100%
+State,Alabama,All,2020-21,42,7.8,0,82,"1,058",> 100%
+State,Alabama,All,2020-21,43,8.9,1,81,923,95%
+State,Alabama,All,2020-21,44,8.5,0,59,696,71.6%
+State,Alabama,All,2020-21,45,5.5,0,16,292,30.1%
+State,Alaska,All,2020-21,40,0,0,0,63,77.5%
+State,Alaska,All,2020-21,41,9.2,0,8,87,> 100%
+State,Alaska,All,2020-21,42,6.3,0,5,80,98.4%
+State,Alaska,All,2020-21,43,5.8,0,4,69,84.9%
+State,Alaska,All,2020-21,44,16.2,0,6,37,45.5%
+State,Alaska,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Arizona,All,2020-21,40,6.7,0,79,"1,176",> 100%
+State,Arizona,All,2020-21,41,6.3,0,77,"1,221",> 100%
+State,Arizona,All,2020-21,42,6.5,0,77,"1,189",> 100%
+State,Arizona,All,2020-21,43,7,0,82,"1,178",> 100%
+State,Arizona,All,2020-21,44,6.8,0,67,988,95.4%
+State,Arizona,All,2020-21,45,6.4,0,32,501,48.4%
+State,Arkansas,All,2020-21,40,12.7,0,97,766,> 100%
+State,Arkansas,All,2020-21,41,13.9,0,106,765,> 100%
+State,Arkansas,All,2020-21,42,13.7,1,100,739,> 100%
+State,Arkansas,All,2020-21,43,14.1,0,98,695,> 100%
+State,Arkansas,All,2020-21,44,10.1,1,52,527,87.9%
+State,Arkansas,All,2020-21,45,5.5,0,13,236,39.4%
+State,California,All,2020-21,40,8.4,0,466,"5,557",> 100%
+State,California,All,2020-21,41,9.2,1,500,"5,421",> 100%
+State,California,All,2020-21,42,7.8,0,416,"5,334",> 100%
+State,California,All,2020-21,43,7.8,0,376,"4,810",97.9%
+State,California,All,2020-21,44,7.1,0,270,"3,811",77.5%
+State,California,All,2020-21,45,4.9,0,79,"1,609",32.7%
+State,Colorado,All,2020-21,40,5.7,0,43,756,> 100%
+State,Colorado,All,2020-21,41,5.8,0,45,770,> 100%
+State,Colorado,All,2020-21,42,6.9,0,58,841,> 100%
+State,Colorado,All,2020-21,43,7.4,0,59,802,> 100%
+State,Colorado,All,2020-21,44,6.5,0,47,724,> 100%
+State,Colorado,All,2020-21,45,3.8,0,13,340,49.1%
+State,Connecticut,All,2020-21,40,4.2,0,20,471,81.1%
+State,Connecticut,All,2020-21,41,4.4,0,14,319,54.9%
+State,Connecticut,All,2020-21,42,5,0,8,161,27.7%
+State,Connecticut,All,2020-21,43,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Connecticut,All,2020-21,44,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Connecticut,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Delaware,All,2020-21,40,7.4,0,13,175,> 100%
+State,Delaware,All,2020-21,41,4.5,0,7,156,95.1%
+State,Delaware,All,2020-21,42,0.7,0,1,147,89.6%
+State,Delaware,All,2020-21,43,4.1,0,6,146,89%
+State,Delaware,All,2020-21,44,5.3,0,4,75,45.7%
+State,Delaware,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,District of Columbia,All,2020-21,40,11.2,0,10,89,95.6%
+State,District of Columbia,All,2020-21,41,10.7,0,11,103,> 100%
+State,District of Columbia,All,2020-21,42,3.8,0,3,80,85.9%
+State,District of Columbia,All,2020-21,43,9.7,0,7,72,77.3%
+State,District of Columbia,All,2020-21,44,9.3,0,5,54,58%
+State,District of Columbia,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Florida,All,2020-21,40,8.9,1,384,"4,319",> 100%
+State,Florida,All,2020-21,41,9.2,0,409,"4,448",> 100%
+State,Florida,All,2020-21,42,9.6,0,409,"4,273",> 100%
+State,Florida,All,2020-21,43,8.6,1,352,"4,087",> 100%
+State,Florida,All,2020-21,44,8.2,0,276,"3,362",91.6%
+State,Florida,All,2020-21,45,4.9,1,84,"1,721",46.9%
+State,Georgia,All,2020-21,40,7.4,0,129,"1,732",> 100%
+State,Georgia,All,2020-21,41,8.4,0,140,"1,666",> 100%
+State,Georgia,All,2020-21,42,9.9,2,150,"1,534",> 100%
+State,Georgia,All,2020-21,43,7.8,1,104,"1,343",88.5%
+State,Georgia,All,2020-21,44,7,0,58,825,54.4%
+State,Georgia,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Hawaii,All,2020-21,40,10.7,1,22,214,> 100%
+State,Hawaii,All,2020-21,41,9.6,0,22,230,> 100%
+State,Hawaii,All,2020-21,42,8,0,18,226,> 100%
+State,Hawaii,All,2020-21,43,4.1,0,9,222,> 100%
+State,Hawaii,All,2020-21,44,8,0,16,199,95.2%
+State,Hawaii,All,2020-21,45,4.6,0,3,65,31.1%
+State,Idaho,All,2020-21,40,6.3,0,20,315,> 100%
+State,Idaho,All,2020-21,41,5.6,0,16,288,> 100%
+State,Idaho,All,2020-21,42,7.5,1,23,319,> 100%
+State,Idaho,All,2020-21,43,9.6,1,30,324,> 100%
+State,Idaho,All,2020-21,44,13.1,1,37,290,> 100%
+State,Idaho,All,2020-21,45,12.3,0,10,81,32.3%
+State,Illinois,All,2020-21,40,8,0,175,"2,184",> 100%
+State,Illinois,All,2020-21,41,8.6,0,204,"2,369",> 100%
+State,Illinois,All,2020-21,42,9.5,1,216,"2,293",> 100%
+State,Illinois,All,2020-21,43,10.4,2,232,"2,252",> 100%
+State,Illinois,All,2020-21,44,8.5,1,178,"2,101",> 100%
+State,Illinois,All,2020-21,45,6.7,0,81,"1,208",59.3%
+State,Indiana,All,2020-21,40,10.1,0,132,"1,308",> 100%
+State,Indiana,All,2020-21,41,9.7,0,127,"1,303",> 100%
+State,Indiana,All,2020-21,42,12,0,162,"1,355",> 100%
+State,Indiana,All,2020-21,43,10.7,0,134,"1,256",> 100%
+State,Indiana,All,2020-21,44,12,0,126,"1,046",87.2%
+State,Indiana,All,2020-21,45,7.7,0,22,287,23.9%
+State,Iowa,All,2020-21,40,7.8,0,52,668,> 100%
+State,Iowa,All,2020-21,41,8.5,0,60,704,> 100%
+State,Iowa,All,2020-21,42,11.1,0,72,650,> 100%
+State,Iowa,All,2020-21,43,9.9,1,62,638,> 100%
+State,Iowa,All,2020-21,44,8.9,0,45,504,89.1%
+State,Iowa,All,2020-21,45,8.4,0,19,227,40.1%
+State,Kansas,All,2020-21,40,8.7,0,52,595,> 100%
+State,Kansas,All,2020-21,41,9.2,0,59,643,> 100%
+State,Kansas,All,2020-21,42,10.3,0,62,600,> 100%
+State,Kansas,All,2020-21,43,10.1,0,60,593,> 100%
+State,Kansas,All,2020-21,44,11.3,0,56,495,98.6%
+State,Kansas,All,2020-21,45,8.1,0,18,223,44.4%
+State,Kentucky,All,2020-21,40,8.3,1,75,920,> 100%
+State,Kentucky,All,2020-21,41,9.1,0,85,934,> 100%
+State,Kentucky,All,2020-21,42,11.4,0,99,872,98.5%
+State,Kentucky,All,2020-21,43,9.4,0,73,780,88.1%
+State,Kentucky,All,2020-21,44,6.1,1,26,442,49.9%
+State,Kentucky,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Louisiana,All,2020-21,40,7.6,0,69,906,> 100%
+State,Louisiana,All,2020-21,41,8.2,0,72,881,> 100%
+State,Louisiana,All,2020-21,42,8.1,0,62,761,90.1%
+State,Louisiana,All,2020-21,43,6.5,0,45,692,81.9%
+State,Louisiana,All,2020-21,44,5.7,0,25,435,51.5%
+State,Louisiana,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Maine,All,2020-21,40,4.2,0,12,287,> 100%
+State,Maine,All,2020-21,41,8,0,24,300,> 100%
+State,Maine,All,2020-21,42,4.4,0,12,273,> 100%
+State,Maine,All,2020-21,43,4,0,11,274,> 100%
+State,Maine,All,2020-21,44,5.3,0,14,262,97.2%
+State,Maine,All,2020-21,45,5.2,0,11,213,79%
+State,Maryland,All,2020-21,40,5.8,0,63,"1,085",> 100%
+State,Maryland,All,2020-21,41,8.3,0,88,"1,064",> 100%
+State,Maryland,All,2020-21,42,7.4,1,75,"1,022",> 100%
+State,Maryland,All,2020-21,43,8.5,1,87,"1,035",> 100%
+State,Maryland,All,2020-21,44,7.3,0,66,901,99.4%
+State,Maryland,All,2020-21,45,4.8,0,25,519,57.2%
+State,Massachusetts,All,2020-21,40,6.3,0,67,"1,067",99%
+State,Massachusetts,All,2020-21,41,7.4,1,78,"1,068",99.1%
+State,Massachusetts,All,2020-21,42,6.7,0,73,"1,096",> 100%
+State,Massachusetts,All,2020-21,43,6,0,67,"1,120",> 100%
+State,Massachusetts,All,2020-21,44,7.9,0,74,933,86.6%
+State,Massachusetts,All,2020-21,45,6.9,2,39,595,55.2%
+State,Michigan,All,2020-21,40,5.7,1,114,"2,009",> 100%
+State,Michigan,All,2020-21,41,6.4,0,135,"2,124",> 100%
+State,Michigan,All,2020-21,42,7.4,0,147,"1,989",> 100%
+State,Michigan,All,2020-21,43,7.4,0,153,"2,058",> 100%
+State,Michigan,All,2020-21,44,6.7,0,117,"1,744",95.9%
+State,Michigan,All,2020-21,45,8.4,1,52,634,34.9%
+State,Minnesota,All,2020-21,40,8.3,0,71,857,> 100%
+State,Minnesota,All,2020-21,41,7.4,0,70,944,> 100%
+State,Minnesota,All,2020-21,42,7.1,0,63,882,> 100%
+State,Minnesota,All,2020-21,43,9.5,0,89,932,> 100%
+State,Minnesota,All,2020-21,44,9.4,0,81,865,> 100%
+State,Minnesota,All,2020-21,45,9.1,0,44,483,59.6%
+State,Mississippi,All,2020-21,40,12.9,0,89,690,> 100%
+State,Mississippi,All,2020-21,41,10.8,0,78,719,> 100%
+State,Mississippi,All,2020-21,42,13.1,0,79,605,> 100%
+State,Mississippi,All,2020-21,43,11.2,0,69,614,> 100%
+State,Mississippi,All,2020-21,44,10.6,0,49,463,77%
+State,Mississippi,All,2020-21,45,8.2,0,19,233,38.8%
+State,Missouri,All,2020-21,40,9.6,0,129,"1,348",> 100%
+State,Missouri,All,2020-21,41,8.8,0,117,"1,328",> 100%
+State,Missouri,All,2020-21,42,9.7,0,120,"1,242",> 100%
+State,Missouri,All,2020-21,43,9.3,0,109,"1,176",> 100%
+State,Missouri,All,2020-21,44,11.8,0,107,905,79.5%
+State,Missouri,All,2020-21,45,6.3,0,24,380,33.4%
+State,Montana,All,2020-21,40,10.3,0,25,242,> 100%
+State,Montana,All,2020-21,41,14.2,0,39,275,> 100%
+State,Montana,All,2020-21,42,9.2,0,23,251,> 100%
+State,Montana,All,2020-21,43,14.5,0,39,269,> 100%
+State,Montana,All,2020-21,44,18.9,0,37,196,> 100%
+State,Montana,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Nebraska,All,2020-21,40,8.6,0,32,370,> 100%
+State,Nebraska,All,2020-21,41,9,0,34,378,> 100%
+State,Nebraska,All,2020-21,42,9.6,0,35,364,> 100%
+State,Nebraska,All,2020-21,43,9.7,0,37,382,> 100%
+State,Nebraska,All,2020-21,44,10.7,0,32,299,95.7%
+State,Nebraska,All,2020-21,45,9.5,0,9,95,30.4%
+State,Nevada,All,2020-21,40,11.4,0,61,533,> 100%
+State,Nevada,All,2020-21,41,9.8,0,51,523,> 100%
+State,Nevada,All,2020-21,42,8.8,0,41,467,> 100%
+State,Nevada,All,2020-21,43,11.2,0,51,454,> 100%
+State,Nevada,All,2020-21,44,9.3,0,34,365,83.1%
+State,Nevada,All,2020-21,45,6.7,0,9,135,30.7%
+State,New Hampshire,All,2020-21,40,4.7,0,11,233,> 100%
+State,New Hampshire,All,2020-21,41,3.1,0,8,259,> 100%
+State,New Hampshire,All,2020-21,42,3.9,0,10,256,> 100%
+State,New Hampshire,All,2020-21,43,5.2,0,12,230,> 100%
+State,New Hampshire,All,2020-21,44,5.1,0,13,253,> 100%
+State,New Hampshire,All,2020-21,45,4.5,0,8,177,78.3%
+State,New Jersey,All,2020-21,40,5.4,0,72,"1,335",96.1%
+State,New Jersey,All,2020-21,41,6.1,0,84,"1,370",98.6%
+State,New Jersey,All,2020-21,42,5.3,0,71,"1,339",96.4%
+State,New Jersey,All,2020-21,43,6.2,0,88,"1,423",> 100%
+State,New Jersey,All,2020-21,44,6.3,0,78,"1,241",89.4%
+State,New Jersey,All,2020-21,45,4.9,0,39,788,56.7%
+State,New Mexico,All,2020-21,40,5.7,0,20,353,> 100%
+State,New Mexico,All,2020-21,41,7.2,0,25,345,> 100%
+State,New Mexico,All,2020-21,42,9.4,0,29,310,90.9%
+State,New Mexico,All,2020-21,43,11.6,0,36,311,91.2%
+State,New Mexico,All,2020-21,44,14.2,0,35,247,72.4%
+State,New Mexico,All,2020-21,45,12,0,10,83,24.3%
+State,New York,All,2020-21,40,7.3,1,143,"1,982",> 100%
+State,New York,All,2020-21,41,7.6,1,156,"2,076",> 100%
+State,New York,All,2020-21,42,6.5,1,124,"1,928",> 100%
+State,New York,All,2020-21,43,7.2,1,135,"1,887",99.3%
+State,New York,All,2020-21,44,6.8,2,124,"1,860",97.9%
+State,New York,All,2020-21,45,7.9,1,108,"1,375",72.4%
+State,North Carolina,All,2020-21,40,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Carolina,All,2020-21,41,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Carolina,All,2020-21,42,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Carolina,All,2020-21,43,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Carolina,All,2020-21,44,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Carolina,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,North Dakota,All,2020-21,40,18.1,0,30,166,> 100%
+State,North Dakota,All,2020-21,41,18.4,0,37,201,> 100%
+State,North Dakota,All,2020-21,42,21.8,0,36,165,> 100%
+State,North Dakota,All,2020-21,43,21.6,0,25,116,97%
+State,North Dakota,All,2020-21,44,25.7,0,29,113,94.5%
+State,North Dakota,All,2020-21,45,22.2,0,8,36,30.1%
+State,Ohio,All,2020-21,40,6.6,0,164,"2,502",> 100%
+State,Ohio,All,2020-21,41,6.1,0,149,"2,452",> 100%
+State,Ohio,All,2020-21,42,6.5,0,141,"2,175",97.4%
+State,Ohio,All,2020-21,43,7.3,0,115,"1,584",70.9%
+State,Ohio,All,2020-21,44,7.4,0,79,"1,069",47.9%
+State,Ohio,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Oklahoma,All,2020-21,40,12.2,0,96,790,> 100%
+State,Oklahoma,All,2020-21,41,12,0,97,809,> 100%
+State,Oklahoma,All,2020-21,42,11.9,1,68,580,77.4%
+State,Oklahoma,All,2020-21,43,10,0,61,613,81.8%
+State,Oklahoma,All,2020-21,44,8.7,0,46,529,70.6%
+State,Oklahoma,All,2020-21,45,4.3,1,8,207,27.6%
+State,Oregon,All,2020-21,40,3.6,0,25,698,> 100%
+State,Oregon,All,2020-21,41,3.7,1,25,704,> 100%
+State,Oregon,All,2020-21,42,5.1,0,32,622,92.2%
+State,Oregon,All,2020-21,43,5.7,0,32,564,83.6%
+State,Oregon,All,2020-21,44,4.6,0,20,436,64.6%
+State,Oregon,All,2020-21,45,5,0,8,160,23.7%
+State,Pennsylvania,All,2020-21,40,5.4,0,141,"2,608",> 100%
+State,Pennsylvania,All,2020-21,41,5.5,0,147,"2,675",> 100%
+State,Pennsylvania,All,2020-21,42,5.5,0,139,"2,514",99.7%
+State,Pennsylvania,All,2020-21,43,7.1,0,183,"2,567",> 100%
+State,Pennsylvania,All,2020-21,44,6.5,0,152,"2,323",92.1%
+State,Pennsylvania,All,2020-21,45,7.3,2,84,"1,175",46.6%
+State,Rhode Island,All,2020-21,40,6.5,0,13,199,> 100%
+State,Rhode Island,All,2020-21,41,7.2,0,14,194,> 100%
+State,Rhode Island,All,2020-21,42,6.1,0,10,165,86.9%
+State,Rhode Island,All,2020-21,43,13.4,0,18,134,70.6%
+State,Rhode Island,All,2020-21,44,5.7,0,3,53,27.9%
+State,Rhode Island,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,South Carolina,All,2020-21,40,9,0,99,"1,105",> 100%
+State,South Carolina,All,2020-21,41,6.3,0,68,"1,077",> 100%
+State,South Carolina,All,2020-21,42,7.9,0,62,783,87.1%
+State,South Carolina,All,2020-21,43,4.9,0,34,695,77.3%
+State,South Carolina,All,2020-21,44,5.4,0,36,662,73.7%
+State,South Carolina,All,2020-21,45,5.6,0,15,267,29.7%
+State,South Dakota,All,2020-21,40,10.9,0,20,183,> 100%
+State,South Dakota,All,2020-21,41,16.6,0,32,193,> 100%
+State,South Dakota,All,2020-21,42,15.2,0,25,165,> 100%
+State,South Dakota,All,2020-21,43,12.6,1,20,167,> 100%
+State,South Dakota,All,2020-21,44,10,0,5,50,34.2%
+State,South Dakota,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Tennessee,All,2020-21,40,9.1,0,145,"1,595",> 100%
+State,Tennessee,All,2020-21,41,10.4,1,166,"1,606",> 100%
+State,Tennessee,All,2020-21,42,11.2,2,175,"1,579",> 100%
+State,Tennessee,All,2020-21,43,13.2,1,198,"1,506",> 100%
+State,Tennessee,All,2020-21,44,9.3,0,109,"1,169",91.8%
+State,Tennessee,All,2020-21,45,6.6,0,34,515,40.5%
+State,Texas,All,2020-21,40,9.1,2,357,"3,941",> 100%
+State,Texas,All,2020-21,41,9.9,2,399,"4,037",> 100%
+State,Texas,All,2020-21,42,10.8,1,412,"3,830",> 100%
+State,Texas,All,2020-21,43,11.2,1,419,"3,752",> 100%
+State,Texas,All,2020-21,44,8.7,2,224,"2,598",72%
+State,Texas,All,2020-21,45,7.7,0,62,806,22.3%
+State,Utah,All,2020-21,40,9.9,0,38,384,> 100%
+State,Utah,All,2020-21,41,8.1,0,34,421,> 100%
+State,Utah,All,2020-21,42,6.8,1,26,400,> 100%
+State,Utah,All,2020-21,43,6.5,0,26,399,> 100%
+State,Utah,All,2020-21,44,6.8,0,27,395,> 100%
+State,Utah,All,2020-21,45,6.7,0,17,253,76.9%
+State,Vermont,All,2020-21,40,0,0,0,107,97.9%
+State,Vermont,All,2020-21,41,5.1,0,6,118,> 100%
+State,Vermont,All,2020-21,42,5,0,5,100,91.5%
+State,Vermont,All,2020-21,43,5.5,0,7,127,> 100%
+State,Vermont,All,2020-21,44,4.3,0,4,94,86%
+State,Vermont,All,2020-21,45,2.5,0,1,40,36.6%
+State,Virginia,All,2020-21,40,6.5,0,97,"1,503",> 100%
+State,Virginia,All,2020-21,41,6.8,0,98,"1,446",> 100%
+State,Virginia,All,2020-21,42,6.6,1,89,"1,367",> 100%
+State,Virginia,All,2020-21,43,5.8,1,77,"1,342",> 100%
+State,Virginia,All,2020-21,44,6.1,0,65,"1,067",85.3%
+State,Virginia,All,2020-21,45,4.2,0,21,495,39.6%
+State,Washington,All,2020-21,40,6.8,0,78,"1,142",> 100%
+State,Washington,All,2020-21,41,6.3,2,71,"1,156",> 100%
+State,Washington,All,2020-21,42,6.1,0,68,"1,118",> 100%
+State,Washington,All,2020-21,43,8.2,0,88,"1,069",> 100%
+State,Washington,All,2020-21,44,5.2,0,35,671,65.1%
+State,Washington,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,West Virginia,All,2020-21,40,6.3,0,20,319,73.9%
+State,West Virginia,All,2020-21,41,12,0,29,241,55.9%
+State,West Virginia,All,2020-21,42,8.3,0,12,145,33.6%
+State,West Virginia,All,2020-21,43,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,West Virginia,All,2020-21,44,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,West Virginia,All,2020-21,45,,Insufficient Data,Insufficient Data,Insufficient Data,< 20%
+State,Wisconsin,All,2020-21,40,6,0,69,"1,146",> 100%
+State,Wisconsin,All,2020-21,41,6,0,69,"1,154",> 100%
+State,Wisconsin,All,2020-21,42,9.1,0,111,"1,219",> 100%
+State,Wisconsin,All,2020-21,43,9.7,0,126,"1,304",> 100%
+State,Wisconsin,All,2020-21,44,10.1,0,114,"1,131",> 100%
+State,Wisconsin,All,2020-21,45,8.9,0,52,584,60.7%
+State,Wyoming,All,2020-21,40,5,0,6,119,> 100%
+State,Wyoming,All,2020-21,41,4.3,0,5,115,> 100%
+State,Wyoming,All,2020-21,42,6.8,0,8,118,> 100%
+State,Wyoming,All,2020-21,43,9.1,0,11,121,> 100%
+State,Wyoming,All,2020-21,44,10,0,7,70,78%
+State,Wyoming,All,2020-21,45,9.7,0,3,31,34.5%
+State,New York City,All,2020-21,40,6.9,0,66,963,94.5%
+State,New York City,All,2020-21,41,6.2,1,62,"1,020",> 100%
+State,New York City,All,2020-21,42,6.3,1,64,"1,032",> 100%
+State,New York City,All,2020-21,43,6.1,1,60,998,97.9%
+State,New York City,All,2020-21,44,7.6,0,74,973,95.5%
+State,New York City,All,2020-21,45,9.1,0,70,767,75.3%

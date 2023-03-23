@@ -1,0 +1,28 @@
+.DS_Store
+.Rhistory
+.RData
+.Rapp.history
+lib/local
+*cache
+*.html
+*.spin.Rmd
+*.spin.md
+*~
+~$*
+\*R\*
+Makefile~
+\#\*R\*#
+.#*
+#data-raw/*
+## Latex
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+paper/*.pdf
+# Files to keep locally but not push up:
+paper/bib/bens.bib
+GH-issue-comments.txt
