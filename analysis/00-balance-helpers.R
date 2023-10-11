@@ -12,9 +12,6 @@ get.balTest <- function(match, form = form1, dat = mod.dat, with_unstratified=TR
   if (!with_unstratified) formul  <- update.formula(formul, ".~.-1")
   myb0 <- RItools::balanceTest(formul,
                                data = dat,
-                               report = c("adj.means", "std.diffs",
-                                          "z.scores",
-                                          if (with_unstratified) "chisquare.test"),
                                unit.weights = adult_w_a_cnt)
   cols_to_align  <- purrr::map_lgl(dat, is.numeric) # OK for us b/c no factor or Boolean x's
   cols_to_align  <- cols_to_align & colnames(dat)!=as.character(formul[[2]])
@@ -29,7 +26,6 @@ get.balTest <- function(match, form = form1, dat = mod.dat, with_unstratified=TR
                  dat2)
   myb2 <- RItools::balanceTest(update.formula(formul, .~.-1),
                                data = dat2,
-                               report=c("z.scores", "chisquare.test"),
                                unit.weights = adult_w_a_cnt)
   myb0$results[,c("z", "p"),match]  <-
     myb2$results[,c("z", "p"),,drop=FALSE]
@@ -54,9 +50,6 @@ get.balTest.bpop <- function(match, form = form1, dat = mod.dat, with_unstratifi
     mutate(black_pop = black_race/100*adult_w_a_cnt)
   myb0 <- RItools::balanceTest(formul,
                                data = dat,
-                               report = c("adj.means", "std.diffs",
-                                          "z.scores",
-                                          if (with_unstratified) "chisquare.test"),
                                unit.weights = black_pop)
   cols_to_align  <- purrr::map_lgl(dat, is.numeric) # OK for us b/c no factor or Boolean x's
   cols_to_align  <- cols_to_align & colnames(dat)!=as.character(formul[[2]])
@@ -72,7 +65,6 @@ get.balTest.bpop <- function(match, form = form1, dat = mod.dat, with_unstratifi
                  dat2)
   myb2 <- RItools::balanceTest(update.formula(formul, .~.-1),
                                data = dat2,
-                               report=c("z.scores", "chisquare.test"),
                                unit.weights = black_pop)
   myb0$results[,c("z", "p"),match]  <-
     myb2$results[,c("z", "p"),,drop=FALSE]

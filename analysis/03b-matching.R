@@ -10,8 +10,8 @@ mypacks <- c("dplyr","tidyr", "readr","optmatch", "car",
              "xtable", "lubridate", "maps", "mapproj", "ggplot2",
              "kableExtra", "arm", "RColorBrewer", "survey",  "tibble")  # what packages are needed?
 source("../R/helpers_from_development_optmatch.R")
-source("outliers_helpers.R")
-source("balance_helpers.R")
+source("00-outliers-helpers.R")
+source("00-balance-helpers.R")
 
 # create a function that installs packages if they aren't already installed
 load_fun <- function(pack){
@@ -118,6 +118,8 @@ exclusions
 
 ##' Save the data with out these exclusions first
 mod.dat.no.exclusions <- mod.dat
+
+#save(mod.dat.no.exclusions, file = "../data/temp/mod.dat.no.excl.Rdata")
 
 mod.dat <- mod.dat %>%
   left_join(exclusions, by = c("cntyName", "stateName")) %>%

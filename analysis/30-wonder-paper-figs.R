@@ -109,14 +109,25 @@ maj.white.dat$fill.maj.wht <- factor(maj.white.dat$fill.maj.wht, levels = c("Med
                                                 "Control comparison county",
                                                 "Trimmed"))
 
+states2 <- maj.white.dat %>%
+  ungroup() %>%
+  select(region, treat = plt.fill) %>%
+  filter(treat != "Trimmed") %>%
+  distinct() %>%
+  right_join(states, by = "region") 
+  
 
-fill.cols <- c("#313695", "#A50026","grey80", "#abd9e9",  "#fdae61", "grey45") 
+fill.cols <- c("#08306b", "#67000d","grey87", "#4292c6",  "#fe9929", "grey93") 
+county.line.cols <- c("white","white","white","grey30", "grey30", "white")
+state.line.size <- c(1,.4)
 
 g <- ggplot() +
-  geom_polygon(data = maj.white.dat, aes(x=long, y=lat, group = group, fill = fill.maj.wht), color = 'white', size = 0.1) +
-  geom_polygon(data = states, aes(x=long, y=lat, group=group), color = "gray50", size = .2, alpha = 0)+
-  coord_map(projection = "albers", 30, 40, xlim = c(-122, -72)) +
+  geom_polygon(data = maj.white.dat, aes(x=long, y=lat, group = group, fill = fill.maj.wht, color = fill.maj.wht),  size = 0.1) +
   scale_fill_manual(values = fill.cols, name = "", na.value='grey') + 
+  scale_color_manual(values = county.line.cols, name = "", na.value='grey') + 
+  geom_polygon(data = states2, aes(x=long, y=lat, group=group, size = treat), color = "grey50", alpha = 0)+
+  scale_size_manual(values = state.line.size, name = "", na.value='grey', guide = "none") + 
+  coord_map(projection = "albers", 30, 40, xlim = c(-122, -72)) +
   xlab("") + ylab("") +
   theme(plot.title = element_text(hjust = 0.5),
         panel.border = element_blank(),
@@ -126,6 +137,7 @@ g <- ggplot() +
         axis.ticks = element_blank(),
         legend.text = element_text(size = 12),
         legend.position = "bottom",
+        panel.background = element_rect(fill = "gray93")
   )+
   guides(fill=guide_legend(nrow=2,byrow=TRUE))
 g
@@ -134,6 +146,69 @@ g
 png("figures/supermajority_white_analysis_map_simple.png", width = 10, height = 6, units = 'in', res = 300)
 g
 dev.off()
+
+##' ## EDA for SMW
+##' 
+
+#========================================================================================#
+#                                 SMW CHARACTERISTICS                                    #
+#========================================================================================#
+
+smw_age <- dat.2014.wonder %>% 
+  ungroup() %>%
+  select(s, pop = adult_w_a_cnt, a20_34:a55_64) %>%
+  mutate(across(starts_with("a"), ~.x*pop, .names = "weighted_{.col}")) %>%
+  group_by(s) %>%
+  summarize(across(starts_with("a"), mean), across(starts_with("weighted"), sum), pop = sum(pop)) %>%
+  mutate(across(starts_with("weighted"),~.x/pop))
+
+smw_age
+
+smw_age %>%
+  pivot_longer(cols = (starts_with("a")|starts_with("weighted")), names_to = c("type", "age"),
+               names_pattern = "(.*)(\\d\\d_\\d\\d)", values_to = "prop") %>%
+  group_by(s, type) %>%
+  mutate(prop_waa = prop/sum(prop)) %>%
+  mutate(weighted = case_when(type == "a"~0,
+                              TRUE ~ 1)) %>%
+  ungroup() %>%
+  select(-type, -pop) %>%
+  pivot_wider(names_from = s, values_from = c(prop, prop_waa),
+              names_glue = "{.value}_s{s}")
+
+smw_insurance <- dat.2014.wonder %>%
+  ungroup() %>%
+  select(s, pop = adult_w_a_cnt, pctNoIns_2013) %>%
+  mutate(wpct = pctNoIns_2013*pop) %>%
+  group_by(s) %>%
+  summarize(pct = mean(pctNoIns_2013), wpct = sum(wpct), pop= sum(pop)) %>%
+  mutate(wpct = wpct / pop)
+
+smw_insurance
+
+dat.2014.wonder %>%
+  mutate(highnoins = as.numeric(pctNoIns_2013 >= 21)) %>%
+  group_by(s) %>%
+  summarize( mean(highnoins))
+
+tapply(dat.2014.wonder$pctNoIns_2013, dat.2014.wonder$s, summary)
+
+tapply(dat.2014.wonder$pctUrban_2010,  dat.2014.wonder$s, summary)
+
+dat.2014.wonder %>%
+  ungroup() %>%
+  group_by(s) %>%
+  summarize(rep = sum(pctUrban_2010*adult_w_a_cnt), pop = sum(adult_w_a_cnt)) %>%
+  mutate(prop = rep/pop)
+
+tapply(dat.2014.wonder$pctRep_2012,  dat.2014.wonder$s, summary)
+mean(dat.2014.wonder$pctRep_2012[dat.2014.wonder$s == 1] > 50)
+
+dat.2014.wonder %>%
+  ungroup() %>%
+  group_by(s) %>%
+  summarize(rep = sum(pctRep_2012*adult_w_a_cnt), pop = sum(adult_w_a_cnt)) %>%
+  mutate(prop = rep/pop)
 
 ##' ## Results
 ##' 
@@ -351,16 +426,17 @@ plot.dat.wonder <- cens.plot.dat %>%
   mutate(fill = case_when(is.na(fill) ~ plt.fill1,
                           TRUE ~ fill))
 
-cols <- c("#08306b","#2171b5",
+
+cols <- c("#08306b","#4292c6",
           #"#4292c6","#6baed6","#c6dbef", 
-          "gray70", "grey45")
+          "grey85", "grey93")
+
 
 g <- ggplot() +
   geom_polygon(data = plot.dat.wonder, aes(x=long, y=lat, group = group, fill = fill), color = 'white', size = 0.1) +
-  geom_polygon(data = states, aes(x=long, y=lat, group=group), color = "gray50", size = .2, alpha = 0)+
+  geom_polygon(data = states2, aes(x=long, y=lat, group=group), size =.2, color = "gray50", alpha = 0)+
   coord_map(projection = "albers", 30, 40, xlim = c(-122, -72)) +
   scale_fill_manual(values = cols, name = "") +
-  #scale_fill_gradient(low = "#fee391", high = "#cc4c02", name = "Age adjusted mortality\nrate per 100,000",na.value='grey', guide = "colourbar") + 
   xlab("") + ylab("") + 
   #ggtitle("2014 Age Adjusted Mortality Censoring - CDC WONDER") +
   theme(plot.title = element_text(hjust = 0.5),
@@ -371,6 +447,7 @@ g <- ggplot() +
         axis.ticks = element_blank(),
         legend.text= element_text(size = 12),
         legend.position = "bottom",
+        panel.background = element_rect(fill = "gray93")
   )+
   guides(fill=guide_legend(nrow = 1,byrow=TRUE))
 
@@ -396,3 +473,23 @@ xtable <- xtable(medicaid, caption = "", table.placement = "ht")
 print(xtable, include.rownames = F, size="footnotesize",
       file='figures/treat-condition.tex')
 
+##' Table of matching structure for appendix
+
+
+dat.2014.wonder %>%
+  select(matches, treat) %>%
+  group_by(matches, treat) %>%
+  summarize(n = n()) %>%
+  pivot_wider(names_from = treat, values_from = n,
+              names_glue = "{.value}{treat}") %>%
+  mutate(n0 = case_when(n0 > 3 ~ "4 or more",
+                        TRUE ~ as.character(n0)),
+         n1 = case_when(n1 > 3 ~ "4 or more",
+                        TRUE ~ as.character(n1))) %>%
+  group_by(n1, n0) %>% 
+  summarize(nmatches = n()) ->
+  matched_structure
+ 
+xtable <- xtable(matched_structure, caption = "", table.placement = "ht")
+print(xtable, include.rownames = F, size="footnotesize",
+      file='figures/match-structure.tex')

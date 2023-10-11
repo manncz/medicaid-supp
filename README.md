@@ -72,10 +72,13 @@
   - 30: paper calculations and figures
     - `30-balance-eval.R`
     - `30-matching-close-figs.R`
+    - `30-matching-close-propensity.R`
     - `30-mort-trends.R`
     - `30-toy-example.R`
     - `30-placebo-tests.R`
     - `30-sensitivity-analysis.R`
+    - `30-subgroup.R`
+    - `30-trimmed-counties.R`
     - `30-wonder-paper-figs.R`
 
   - 99: additional scripts

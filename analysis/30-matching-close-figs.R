@@ -9,8 +9,8 @@ library(readr)
 library(stringr)
 library(glmnet)
 library(MASS)
-library(dplyr)
 library(tidyr)
+library(dplyr)
 library(xtable)
 library(ggplot2)
 
@@ -112,6 +112,7 @@ for(x in dif){
 ##' Save data
 
 save(plot.dat, file = "../data/temp/adjacent.county.plot.dat.Rdata")
+load("../data/temp/adjacent.county.plot.dat.Rdata")
 
 ##' Create long data with an observation for every variable and pair number
 plot.dat1 <- plot.dat %>%
@@ -234,7 +235,7 @@ scaled_vars <- plot.dat %>%
                values_to = "val") %>%
   rename(val_scaled = val)
 
-scaled_vars$var = factor(scaled_vars$var, 
+scaled_vars$var = factor(scaled_vars$var,
                          levels = vars1,
                          varnames1)
 
@@ -242,7 +243,7 @@ plot.dat2 <- plot.dat2 %>%
   left_join(scaled_vars, by = c("FIPS", "mdcdExp", "var"))
 
 save(plot.dat2, file = "../data/temp/close.match.plot.dat.Rdata")
-
+load("../data/temp/close.match.plot.dat.Rdata")
 ##' This is the plot that is actually used in the paper
 
 plot.dat2  <- plot.dat2 %>%
@@ -292,31 +293,31 @@ match.size = .6
 nomatch.size = .5
 
 
-colors <- c("Other Adjacent Counties" = oth.col2, 
+colors <- c("Other Adjacent Counties" = oth.col2,
             "Close Adjacent Counties" = close.col2,
-            "Matched Other Adjacent Counties" = oth.col, 
+            "Matched Other Adjacent Counties" = oth.col,
             "Matched Close Adjacent Counties" = close.col)
 
 
 g <- ggplot(aes(x = treat, y = val_scaled), data = plot.dat2 %>% filter(n == 11)) +
   geom_boxplot(outlier.size = .7, color = "dark grey") +
-  
+
   # other adjacent counties
   geom_point(data = plot.dat2 %>% filter(pair %in% samp & close == 0), aes(color = "Other Adjacent Counties"), size = nomatch.size, alpha = alf2) +
   geom_line(aes(group=factor(pair), color = "Other Adjacent Counties"), data = plot.dat2 %>% filter(pair %in% samp & close == 0), size = nomatch.size, alpha = alf2) +
-  
+
   # other actual adjacent matches
   geom_point(data = plot.dat2 %>% filter(adj.match == 1 & close == 0 & n == 11), aes(color = "Matched Other Adjacent Counties"), size = match.size) +
   geom_line(aes(group=factor(matches),color = "Matched Other Adjacent Counties"), data = plot.dat2 %>% filter(adj.match == 1 &  close == 0 & n == 11),  size = match.size) +
-  
+
   # close non-match adjacent counties
   geom_point(data = plot.dat2 %>% filter(pair %in% samp & close == 1), aes(color = "Close Adjacent Counties"), size = nomatch.size, alpha = alf2) +
   geom_line(aes(group=factor(pair), color = "Close Adjacent Counties"), data = plot.dat2 %>% filter(pair %in% samp & close == 1),  size = nomatch.size, alpha = alf2) +
-  
+
   # close actual adjacent matches
   geom_point(data = plot.dat2 %>% filter(adj.match == 1& close == 1 & n == 11), aes(color = "Matched Close Adjacent Counties"), size = match.size) +
   geom_line(aes(group=factor(matches), color = "Matched Close Adjacent Counties"), data = plot.dat2 %>% filter(adj.match == 1& close == 1 & n == 11), size = match.size) +
- 
+
   #formatting
   scale_color_manual(values = colors) +
   theme(
@@ -329,7 +330,7 @@ g <- ggplot(aes(x = treat, y = val_scaled), data = plot.dat2 %>% filter(n == 11)
         )+
   xlab("Control or Treatment Group") +
   ylab("Standard Deviations from Mean") +
-  
+
   #facet by variable
   facet_grid(~var)
 g
@@ -340,10 +341,10 @@ dev.off()
 
 
 ##' Now look at this for the toy example counties
-##' 
-# 
+##'
+#
 # toy <-  c(1.1092, 1.1012, 1.1176, 1.1169, 1.93, 1.995, 1.1043, 1.598)
-# 
+#
 # g <- ggplot(aes(x = treat, y = val), data = plot.dat1) +
 #   geom_boxplot() +
 #   geom_point(data = plot.dat1 %>% filter(matches %in% toy), aes(color = matches)) +
@@ -352,8 +353,8 @@ dev.off()
 #   theme(legend.position = "none") +
 #   facet_grid(~var)
 # g
-# 
-# 
+#
+#
 # g <- ggplot(aes(x = treat, y = val), data = plot.dat1) +
 #   geom_boxplot() +
 #   geom_point(data = plot.dat1 %>% filter(as.character(matches) %in% as.character(adj.matches$matches.final)), aes(color = matches)) +
@@ -362,8 +363,6 @@ dev.off()
 #   facet_grid(~var)
 # g
 
-##' Estimate scaled average differences after matching
-##' 
 
 ##' Create an xwalk for the treatment assignment and weights based on matches to calculate
 ##' thungs after matching
@@ -385,16 +384,22 @@ matched.avg <- plot.dat2 %>%
   group_by(var, treat) %>%
   summarize(avg_val_scaled = sum(valsw)/sum(w),
             avg_val = sum(valw)/sum(w))
-  
-  
+
+
+alf = .6
+close.size = .8
+oth.size = .3
+close.col = "#225ea8"
+oth.col = "#feb24c"
+
 g <- ggplot(aes(x = treat, y = val_scaled), data = plot.dat2 %>% filter(n == 11)) +
   geom_boxplot(outlier.size = .7,color = "dark grey") +
   geom_point(data = plot.dat2 %>% filter(pair %in% samp & close == 0), color = oth.col, size = oth.size, alpha = alf) +
   geom_line(aes(group=factor(pair)), data = plot.dat2 %>% filter(pair %in% samp & close == 0), color = oth.col, size = oth.size, alpha = alf) +
-  geom_point(data = plot.dat2 %>% filter(pair %in% samp & close == 1), color = close.col, size = close.size, alpha = alf) +
+  geom_point(data = plot.dat2 %>% filter(pair %in% samp & close == 1), color = close.col, size = 1.5, alpha = alf) +
   geom_line(aes(group=factor(pair)), data = plot.dat2 %>% filter(pair %in% samp & close == 1), color = close.col, size = close.size, alpha = alf) +
-  geom_point(data = matched.avg, aes(x = treat, y = avg_val_scaled), color = "#A50026", size = 1, shape = 17) +
-  geom_line(data = matched.avg, aes(group = factor(var), x = treat, y = avg_val_scaled), color = "#A50026")+
+  geom_point(data = matched.avg, aes(x = treat, y = avg_val_scaled), color = "#A50026", size = 2.5, shape = 17) +
+  geom_line(data = matched.avg, aes(group = factor(var), x = treat, y = avg_val_scaled), color = "#A50026", size = 1)+
   theme(legend.position = "none",
         strip.text.x = element_text(size = 15),
         axis.text = element_text(size = 12),
@@ -407,3 +412,5 @@ g
 png("figures/scaled_samp_covs_w_overall.png", width = 11, height = 5, units = 'in', res = 300)
 g
 dev.off()
+
+
