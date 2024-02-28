@@ -11,7 +11,7 @@
 gen_conf_int_dat <- function(delta.min = 0, delta.max = 2, delta.by = .01, data = dat.2014, analys = "all_cause",
                              race_subgroup_analys = NULL, sub = T, overl = T, m.dat.list. = m.dat.list,
                              forml = form1, age_analys = NULL, alt_mort = NULL, var.names = vars.wonder,
-                             out_name = NULL){
+                             out_name = NULL, censoring = 9){
   
   delta.vec <- seq(delta.min, delta.max, by = delta.by)
   n.analysis <- length(delta.vec)*length(analys)*(length(race_subgroup_analys)+2)
@@ -30,7 +30,7 @@ gen_conf_int_dat <- function(delta.min = 0, delta.max = 2, delta.by = .01, data 
     tstat.list <- lapply(analys, function(x){test_stat_wrapper(dat = data, mort_name = out_name, var_names = var.names,
                                                                delta = delt, m.dat.list = m.dat.list., form = forml,
                                                                race_analyses = race_subgroup_analys, subgroup = sub, overall = overl,
-                                                               age_analysis = age_analys, alt.mort = alt_mort
+                                                               age_analysis = age_analys, alt.mort = alt_mort, censoring_cutoff = censoring
     )})
     names(tstat.list) <- analys
     

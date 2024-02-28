@@ -201,8 +201,8 @@ var.names <- var_list$all_cause
 vars.wonder <- var.names[-c(1:6)]
 vars.wonder <- vars.wonder[!str_detect(vars.wonder, "age")]
 
-save(vars.wonder, file = "../data/temp/wonder.vars.Rdata")  
-
+#save(vars.wonder, file = "../data/temp/wonder.vars.Rdata")  
+load("../data/temp/wonder.vars.Rdata")
 
 ##' ### LASSO on county level outcomes from WONDER
 
@@ -246,23 +246,23 @@ dat.2014.wonder <- dat.2014.wonder %>%
          mort_all_cause_l2 = mort_all_cause_l2w)
 
 if(int.est){
-  int.dat.wonder.lags <- gen_conf_int_dat(delta.min = .5, delta.max = 1.5, delta.by =.01,
+  int.dat.wonder.lags <- gen_conf_int_dat(delta.min = .9, delta.max = 1.1, delta.by =.01,
                                           data = dat.2014.wonder, forml = form, out_name = "mort_wndr",
                                           var.names = vars.wonder)
-  save(int.dat.wonder.lags, file = "../data/temp/wonder.int.dat.wl")
+  save(int.dat.wonder.lags, file = "../data/temp/wonder.int.dat.wl.Rdata")
   
 }
 
 ##' ### HCA outcome
 
-
-if(int.est){
-  int.dat.wonder.hca <- gen_conf_int_dat(delta.min = .5, delta.max = 1.5, delta.by =.01,
-                                           data = dat.2014.wonder, forml = form, out_name = "mort_hca_wndr",
-                                           var.names = vars.wonder, m.dat.list = m.dat.list)
-  
-  save(int.dat.wonder.hca, file = "../data/temp/wonder.int.dat.hca.Rdata")
-}
+# 
+# if(int.est){
+#   int.dat.wonder.hca <- gen_conf_int_dat(delta.min = .5, delta.max = 1.5, delta.by =.01,
+#                                            data = dat.2014.wonder, forml = form, out_name = "mort_hca_wndr",
+#                                            var.names = vars.wonder, m.dat.list = m.dat.list)
+#   
+#   save(int.dat.wonder.hca, file = "../data/temp/wonder.int.dat.hca.Rdata")
+# }
 
 
 ##' ### White Outcome Subgroup Analysis
@@ -272,7 +272,7 @@ dat.2014.wonder.white <- dat.2014.wonder %>%
   rename(pop = pop.white)
 
 if(int.est){
-  int.dat.wonder.white <- gen_conf_int_dat(delta.min = .5, delta.max = 1.5, delta.by =.01,
+  int.dat.wonder.white <- gen_conf_int_dat(delta.min = .9, delta.max = 1.1, delta.by =.01,
                                         data = dat.2014.wonder.white, forml = form, out_name = "mort_wht_wndr",
                                         var.names = vars.wonder, m.dat.list = m.dat.list.white)
   
@@ -282,14 +282,14 @@ if(int.est){
 
 ##' ### White HCA Outcome Subgroup Analysis
 
-
-if(int.est){
-  int.dat.wonder.hca.white <- gen_conf_int_dat(delta.min = .5, delta.max = 1.5, delta.by =.01,
-                                           data = dat.2014.wonder.white, forml = form, out_name = "mort_hca_wht_wndr",
-                                           var.names = vars.wonder, m.dat.list = m.dat.list.white)
-  
-  save(int.dat.wonder.hca.white, file = "../data/temp/wonder.int.dat.hca.white.Rdata")
-}
+# 
+# if(int.est){
+#   int.dat.wonder.hca.white <- gen_conf_int_dat(delta.min = .5, delta.max = 1.5, delta.by =.01,
+#                                            data = dat.2014.wonder.white, forml = form, out_name = "mort_hca_wht_wndr",
+#                                            var.names = vars.wonder, m.dat.list = m.dat.list.white)
+#   
+#   save(int.dat.wonder.hca.white, file = "../data/temp/wonder.int.dat.hca.white.Rdata")
+# }
 
 
 ##' Save all of the data for use in `31-wonder-results.R`

@@ -18,7 +18,7 @@ knitr::opts_chunk$set(warning=FALSE, echo=TRUE)
 load("../data/temp/all_wonder_res.Rdata")
 
 load("../data/temp/wonder.int.dat")
-load("../data/temp/wonder.int.dat.wl")
+load("../data/temp/wonder.int.dat.wl.Rdata")
 load("../data/temp/wonder.int.dat.white.Rdata")
 load("../data/temp/wonder.int.dat.hca.Rdata")
 load("../data/temp/wonder.int.dat.hca.white.Rdata")
@@ -86,6 +86,10 @@ out_names[["hca1"]] <- "mort_hca_wndr"
 out_names[["all_cause0"]] <- "mort_dmf"
 out_names[["all_cause1"]] <- "mort_wndr"
 
+bound.dat <- bound.dat %>%
+  filter(lag == 1) %>%
+  filter(!str_detect(analysis, "hca"))
+
 start.time <- Sys.time()
 
 for (i in 1:nrow(bound.dat)){
@@ -98,7 +102,8 @@ for (i in 1:nrow(bound.dat)){
                  form = form,
                  mort_name = out_names[[paste(bound.dat$analysis2[i])]],
                  var_names = vars.wonder,
-                 analysis = bound.dat$subgroup[i])
+                 analysis = bound.dat$subgroup[i],
+                 censoring_cutoff = 9)
   
   bound.dat$est[i] <- out$root
   
@@ -109,7 +114,8 @@ for (i in 1:nrow(bound.dat)){
                  mort_name = out_names[[paste(bound.dat$analysis2[i])]],
                  var_names = vars.wonder,
                  analysis = bound.dat$subgroup[i],
-                 maxt = F, alpha = .05)
+                 maxt = F, alpha = .05,
+                 censoring_cutoff = 9)
   
   bound.dat$lb[i] <- out$root
   
@@ -120,7 +126,8 @@ for (i in 1:nrow(bound.dat)){
                  mort_name = out_names[[paste(bound.dat$analysis2[i])]],
                  var_names = vars.wonder,
                  analysis = bound.dat$subgroup[i],
-                 maxt = F, alpha = .05)
+                 maxt = F, alpha = .05,
+                 censoring_cutoff = 9)
   
   bound.dat$ub[i] <- out$root
   

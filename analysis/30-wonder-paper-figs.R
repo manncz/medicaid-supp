@@ -320,33 +320,32 @@ tab.dat$data = factor(tab.dat$data, levels = c("WONDER", "Detailed Mortality"), 
 tab.dat <- tab.dat %>%
   select(-lag, - sig) %>%
   mutate(ub_clean = case_when(ub == 5 ~ ">5",
-                              TRUE ~ as.character(round(ub,2))),
-         lb_clean = case_when(lb == .2 ~ "<0.2",
-                              TRUE ~ as.character(round(lb,2)))) %>%
-  mutate(ci = paste0("(", lb_clean, ",", ub_clean, ")"))%>%
+                              TRUE ~ as.character(round(ub,2)))) %>%
+  mutate(ci = paste0("(", round(lb, 2), ",", ub_clean, ")"))%>%
   pivot_wider(names_from = data, values_from = c(est, ci), 
               names_glue = "{.value}_{data}")
 
 tab.dat.clean <- tab.dat %>%
-  filter(!is.na(est_dmf)  & analysis == "All Cause") %>%
+  filter(!is.na(est_dmf)) %>%
   select(analysis, subgroup, est_dmf, ci_dmf) %>%
   left_join(tab.dat %>%
               filter(!is.na(est_wonder)) %>%
               select(analysis, subgroup, est_wonder, ci_wonder), by = c("analysis", "subgroup")) %>%
-  filter(!is.na(est_wonder)) %>%
   arrange(analysis, subgroup)
  
-xtable <- xtable(tab.dat.clean, caption = "", table.placement = "ht",
-                 digits = c(1,1,1,2,1,2,1))
+wonder.tab <- tab.dat.clean %>%
+  ungroup() %>%
+  filter(!is.na(est_wonder)) %>%
+  select(-analysis)
+  
+xtable <- xtable(wonder.tab, caption = "", table.placement = "ht")
 print(xtable, comment = F, size="footnotesize", include.rownames = F, 
       file='figures/estimate_results_wonder.tex')
 
-tab.dat.clean2 <- tab.dat %>%
-  filter(!is.na(est_dmf)  & analysis == "All Cause") %>%
-  select(analysis, subgroup, est_dmf, ci_dmf) 
+tab.dat.clean2 <- tab.dat.clean %>%
+  select(-est_wonder, -ci_wonder)
 
-xtable <- xtable(tab.dat.clean2, caption = "", table.placement = "ht",
-                 digits = c(1,1,1,2,1))
+xtable <- xtable(tab.dat.clean2, caption = "", table.placement = "ht")
 print(xtable, comment = F, size="footnotesize", include.rownames = F, 
       file='figures/estimate_results_dmf.tex')
 
