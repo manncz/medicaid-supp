@@ -416,14 +416,19 @@ dat.2014.wonder %>%
 ##' 
 load("../data/temp/map.exp.plot.dat.Rdata")
 cens.plot.dat <- dat.2014.wonder %>%
-  mutate(fill = case_when(is.na(mort_wndr) ~ "Censored AC Mortality",
-                          is.na(mort_wht_wndr) ~ "Censored White AC Mortality",
-                          TRUE ~ "Not Censored"))
+  mutate(fill = case_when(is.na(mort_wndr) ~ "Suppressed AC Mortality",
+                          is.na(mort_wht_wndr) ~ "Suppressed White AC Mortality",
+                          TRUE ~ "Not Suppressed"))
 
 plot.dat.wonder <- cens.plot.dat %>%
   right_join(plot.dat, by = "FIPS") %>%
   mutate(fill = case_when(is.na(fill) ~ plt.fill1,
-                          TRUE ~ fill))
+                          TRUE ~ fill),
+         fill = factor(fill, levels = c("Suppressed AC Mortality",
+                                        "Suppressed White AC Mortality",
+                                        "Not Suppressed",
+                                        "Trimmed"
+                                        )))
 
 
 cols <- c("#08306b","#4292c6",
