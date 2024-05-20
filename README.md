@@ -1,4 +1,4 @@
-# Supplemental Codes to "Evaluating the Effects of ACA Medicaid Expansion on Mortality with Design-Based Inference and Censored Outcomes"
+# Supplementary Analytical Material to "Early effects of 2014 U.S. Medicaid expansions on mortality: Design-based inference for impacts on small subgroups despite small-cell suppression"
 
 
 ## Contents
@@ -34,7 +34,7 @@
       - `02-pop-2015-19.R`
       - `02-pop-65.R`
 
-  - 03: matching analysis and figures presented in protocol
+  - 03: matching analysis and figures presented in protocol (Observational Studies)
 
     - `03a-sd-calc.R`
     - `03b-matching.R`
@@ -74,10 +74,10 @@
     - `30-matching-close-figs.R`
     - `30-matching-close-propensity.R`
     - `30-mort-trends.R`
-    - `30-toy-example.R`
     - `30-placebo-tests.R`
     - `30-sensitivity-analysis.R`
     - `30-subgroup.R`
+    - `30-toy-example.R`
     - `30-trimmed-counties.R`
     - `30-wonder-paper-figs.R`
 
@@ -86,7 +86,6 @@
 
 - `data/` our data artifacts
   - Includes data artifacts that can be publicly shared
-
 
 - `raw_data/` input data files
   + Most publicly available data inputs are included
@@ -106,7 +105,7 @@ Input files that are not included due to size or a DUA, but can be downloaded:
 - `raw_data/cc-est2019-alldata.csv`: Annual County Resident Population Estimates by Age, Sex, Race, and Hispanic Origin: April 1, 2010 to July 1, 2019 from the US Census Bureau downloaded from https://www.census.gov/newsroom/press-kits/2020/population-estimates-detailed.html
 - `raw_data/AHRF2019.acs`: 2018-2019 County Level AHRF data downloaded from https://data.hrsa.gov/data/download
 - `raw_data/AHRF2020/AHRF2020.acs`: 2019-2020 County Level AHRF data downloaded from https://data.hrsa.gov/data/download
-- `raw_data/pres_2008_2016.csv`: Election data, which contributes to the \% Republican variable was downloaded from [CQ Press Voting and Elections Collection](http://library.cqpress.com/elections/download-data.php) (access through the University of Michigan library). See `reference/notes` for download selections.
+- `raw_data/pres_2008_2016.csv`: Election data, which contributes to the \% Republican variable, downloaded from [CQ Press Voting and Elections Collection](http://library.cqpress.com/elections/download-data.php) (access through the University of Michigan library). See `reference/notes` for download selections.
 
 
 Input files that are not included and would need to be requested from the NCHS/CDC through a NCHS restricted data request ([link](https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm)):
