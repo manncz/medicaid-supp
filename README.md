@@ -1,5 +1,11 @@
 # Supplementary Analytical Material to "Early effects of 2014 U.S. Medicaid expansions on mortality: Design-based inference for impacts on small subgroups despite small-cell suppression"
 
+## Contributors
+
+- Charlotte Z. Mann
+- Ben B. Hansen ([benbhansen-stats](https://github.com/benbhansen-stats))
+- Timothy Lycurgus ([timlycurgus](https://github.com/timlycurgus))
+- Lauren Gaydosh ([lgaydosh](https://github.com/lgaydosh))
 
 ## Contents
 
