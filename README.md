@@ -2,10 +2,17 @@
 
 ## Contributors
 
-- Charlotte Z. Mann
+- Charlotte Z. Mann ([manncz](https://github.com/manncz))
 - Ben B. Hansen ([benbhansen-stats](https://github.com/benbhansen-stats))
-- Timothy Lycurgus ([timlycurgus](https://github.com/timlycurgus))
 - Lauren Gaydosh ([lgaydosh](https://github.com/lgaydosh))
+- Timothy Lycurgus ([timlycurgus](https://github.com/timlycurgus))
+
+## Overview
+
+This repository contains all of the replication scripts supporting the analyses in "Early effects of 2014 U.S. Medicaid expansions on mortality: Design-based inference for impacts on small subgroups despite small-cell suppression," Charlotte Z. Mann, Ben B. Hansen, and Lauren Gaydosh (2024).
+
+Scripts rely on both **publicly available** and **restricted-access** data. All publicly available data files are included in the repository, while restricted-access (or large) files are not included. References to data files that could not be shared still remain in the scripts, so not all scripts can be run fully, without accessing those files independently. Instructions for accessing the files not included in the respository can be found in the [Raw Data](#raw-data) section of this document.
+
 
 ## Contents
 
@@ -40,7 +47,7 @@
       - `02-pop-2015-19.R`
       - `02-pop-65.R`
 
-  - 03: matching analysis and figures presented in protocol (Observational Studies)
+  - 03: matching analysis and figures presented in study protocol (Observational Studies, 2021)
 
     - `03a-sd-calc.R`
     - `03b-matching.R`
@@ -95,7 +102,7 @@
 
 - `raw_data/` input data files
   + Most publicly available data inputs are included
-  + See "Raw Data" below
+  + See [Raw Data](#raw-data) below
 
 - `reference/` data documentation, etc.
 - `R/` helper functions for cumulant calculations
