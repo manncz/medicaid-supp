@@ -457,6 +457,14 @@ mod.dat$matches.nostab <-ps.penal.calip
 
 if (save_me) save(mod.dat, file ="../data/mod.dat.Rdata")
 
+# create version with no sensitive columns
+public.dat <- mod.dat |> 
+  select(FIPS:cntyName, 
+         pctUrban_2010:mdcdExp2, 
+         pscore2:matches.nostab)
+
+if (save_me) save(public.dat, file = "../data/public.mod.dat.Rdata")
+
 plot.dat <- mod.dat %>%
   dplyr::select(FIPS, matches.final, matches.nostab, adult_w_a_cnt) %>%
   right_join(mod.dat1) %>%
